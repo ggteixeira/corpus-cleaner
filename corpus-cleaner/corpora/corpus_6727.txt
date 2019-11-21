@@ -1,0 +1,39 @@
+Artigos, Dicas, Tutoriais, Video Aula, Linux, Windows e Servidores
+ Como o próprio nome sugere, a placa mãe é a principal placa, onde estão localizados os componentes mais importantes do computador.
+ 
+ Está placa permite a ligação de dois ou mais computadores em rede local, permitindo o compartilhamento de recursos entre os computadores. E é utilizado cabo de rede com RJ 45 nas pontas. Elas podem ser On-board ou Off-board.
+Externos:
+ Periférico com a função única de nos mostrar o que acontece dentro do computador, através dele que visualizamos as informações processadas.
+Fonte: 
+ Campos obrigatórios são marcados com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+Esse site utiliza o Akismet para reduzir spam. 
+.
+Digite seu endereço de e-mail para assinar este blog e receber notificações de novas publicações por e-mail.
+Junte-se a 410 outros assinantes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

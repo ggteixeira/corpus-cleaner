@@ -1,0 +1,38 @@
+Atualmente, é difícil encontrar alguém que não saiba para que sirvam as diversas peças que compõe um computador. Desde cedo somos pegos mexendo em 
+, 
+, videogames e diversos outros dispositivos tecnológicos e, no decorrer do tempo, essa proximidade só tende a crescer.
+Muitos criam uma afinidade tão íntima com seu computador que fazem por si só manutenções, trocas de componentes e 
+ sem ter qualquer dificuldade. Porém, mesmo sendo um assunto familiar para muitos, existe uma parcela do gráfico que não sabe a finalidade das peças mais básicas e essenciais de um desktop e foi pensando nelas que criamos esta matéria.
+A seguir você encontrará de forma sucinta o que são e para quê servem os principais componentes dessa poderosa máquina que muitos de vocês estão utilizando para ler esta matéria.
+É o principal componente de um computador, pois é nela que todos os demais componentes e periféricos se conectam e transmitem suas informações. Além disso, será ela a responsável por definir qual tipo de processador usar, assim como placa de vídeo, memória, etc.
+Popularmente conhecido como “HD”, o hard disk tem um único e exclusivo papel que é armazenar todos os arquivos e informações necessárias para o funcionamento do seu computador, como, por exemplo, o sistema operacional, programas, jogos, músicas, vídeos, entre vários outros. Comparando com um celular, o HD seria a memória interna e quanto maior o espaço, melhor.
+Além da capacidade de armazenamento, o HD também é responsável por ditar o resultado da performance geral de um desktop. Em outras palavras, o processador requisita determinado arquivo e será o HD o responsável por procurá-lo e disponibilizá-lo. Sendo assim, ele interfere diretamente no desempenho da sua máquina e quanto maior sua rotação, assim como cache e interface, mais ágil acontecem tais trocas de informações.
+De um tempo pra cá os usuários ganharam uma nova opção na hora de escolher a unidade responsável pelo armazenamento de seus conteúdos. Além dos HDs, agora é possível optar por dispositivos SSD, que nada mais é do que uma evolução da antiga tecnologia.
+Eles são muito mais ágeis e acabam transmitindo as informações em tempo recorde, algo que não precisa ser cronometrado, pois a mudança é impactante e extremamente perceptível. Além disso, são mais silenciosos e apresentam maior durabilidade contra danos físicos, não afetando sua integridade.
+Para finalizar, consomem e esquentam menos, além de serem mais leves e compactos. Em compensação, por não serem o atual “padrão mais popular”, seu preço acaba sendo um pouco mais elevado. 
+É uma memória de armazenamento temporário. Ela é o mesmo que uma bancada para um cozinheiro, servindo como o lugar onde os ingredientes e ferramentas que você está trabalhando permaneçam ao alcance até que você precise utilizá-los. Dessa forma o processador evita o trabalho de ter que ir até o “HD” para puxar novamente aquele arquivo ou informação, pois ele já está aberto na memória RAM (memória temporária).
+Quanto maior a capacidade de memórias no seu computador, maior seria a “bancada” para colocar itens à espera, ou seja, maior a capacidade de abrir programas simultâneos.
+Antes de prosseguir com sua função, vale lembrar que a CPU não é a caixa metálica que abrange os componentes. Isso se chama 
+ e é, de forma errônea, comumente confundido com a CPU.
+Assim como o próprio termo diz, CPU é o processador principal de um computador. Em comparação com o corpo humano, poderíamos facilmente compará-lo com nosso cérebro. Será o processador o principal responsável pela velocidade de operação da máquina ao executar tarefas, como, por exemplo, abrir algum programa e executá-lo.
+É sabido que altas temperaturas afetam diretamente o desempenho dos componentes do computador, eis por isso a tamanha importância de contar com um bom design de arrefecimento.
+A CPU é uma das que mais exigem atenção. Por isso, você sempre verá um cooler disposto sobre a área central da placa-mãe, responsável por controlar e manter a temperatura dentro dos padrões operacionais requeridos.
+Além disso, existem coolers para outras finalidades, como é o caso dos ventiladores e exaustores. O primeiro serve para jogar o ar localizado fora do gabinete (frio) para dentro, enquanto o último faz o contrário, retirando o ar interno (quente) para que o sistema não sobreaqueça.
+Existem inúmeros tipos de coolers, desde os mais básicos, compostos apenas pelo ventilador, aos mais complexos, cujos quais utilizam estruturas de dissipação em conjunto de até 2 coolers simultâneos.
+É possível ir além quando o assunto é controle de temperaturas. Além dos tradicionais coolers, agora é possível encontrar os denominados Water Coolers, que nada mais são do que legítimos radiadores, capazes de estabilizar e controlar as temperaturas excedentes com maior facilidade do que utilizando apenas o ar.
+No seu interior existe um líquido condutor, cujo qual entra em contato com a CPU e retira o calor gerado, levando-o até o radiador, onde um cooler está em constante operação para resfriar o conteúdo que até lá chega, renovando-o para um novo ciclo de operação.
+Devido a sua maior eficácia e complexidade, é fato que tais dispositivos apresentam valores superiores aos tradicionais coolers padrões.
+A placa de vídeo é a responsável por transmitir, graficamente falando, tudo que vemos na tela do computador, inclusive o cursor do mouse. E para quem gosta de jogos ou trabalha com programas de edição gráfica pesados, há a necessidade de possuir uma boa placa de vídeo. Boa parte dos computadores atuais já acompanha uma de baixa potência, porém a mesma serve somente para executar funções básicas, deixando muito a desejar.
+A vantagem de adquirir uma placa de vídeo offboard (separada) é justamente atender melhor a sua demanda. Como elas utilizam um processador independente, o do computador fica livre para cuidar de outras tarefas e o desempenho geral do equipamento fica bem melhor – tanto graficamente falando como em termos de velocidade.
+É gerador/transformador que recebe a energia da rede elétrica 110/220V e modifica para distribui-la aos componentes do seu computador. Quando a fonte é maior que a necessidade, não há risco algum para os componentes. Já quando apresenta potência menor que a recomendada, existe sim a possibilidade de danificar seu equipamento.
+Por isso é importante a consulta de um técnico especializado para recomendar a fonte correta em relação aos seus componentes e, dessa maneira, assegurar a vida útil do seu computador.
+Essa foi a nossa breve introdução aos componentes essenciais presentes em um computador. Tentamos oferecer as informações de forma clara e objetiva a fim de garantir total compreensão.
+Se alguma coisa ficou mal-entendida, basta deixar sua pergunta nos comentários que tentaremos sanar suas dúvidas. E caso tenha gostado, você também pode utilizar a área de comentários para deixar seu elogio. 
+ 
+, 
+, 
+.
+Magamobi Marketplace Intermediação de Negócios LTDA CNPJ: 32.196.766/0001-80 - 
+ - 
+ - SC CEP 
+Ofertas válidas enquanto durarem nossos estoques | Imagens meramente ilustrativas | Vendas sujeitas a análise e confirmação de dados pela empresa. © Direitos Reservados CissaMagazine.com.br

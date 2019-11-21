@@ -1,0 +1,77 @@
+
+
+            
+                        · 
+                                                
+ 
+
+
+Após ter sido 
+ o exterior e interior básico de um computador, e os 
+ que constituem uma motherboard, chegou a altura de conhecer os principais componentes utilizados para montar um computador.
+Vamos então analizá-los e perceber qual é a função de cada um, bem como algumas particularidades interessantes.
+
+
+O processador é o cérebro do computador. Instalado no socket da motherboard, executa funções matemáticas e lógicas conforme instruído por um programa. Durante a sua atividade, a CPU produz calor, e para minimizar isso mesmo, é necessário instalar um cooler/dissapador de calor por cima. Assim, o processador terá um tempo de vida útil maior, bem como se torna mais eficiente.
+Um processador possui uma velocidade máxima de segurança à qual opera, o chamado clock rate, medido em Heartz (Hz). Em alguns, é possível fazer overclocking, significando isto aumentar o clock rate além da frequência recomendada. Com este aumento, pretende-se elevar o desempenho do computador à custa de eventual instabilidade do sistema, podendo causar danos quando realizado de forma errada e sem um bom sistema de arrefecimento.
+Fonte de alimentação: Conectada diretamente na motherboard, ela fornece energia para que todos os componentes presentes no computador funcionem. A fonte é necessária por dois motivos. Em primeiro lugar, os computadores utilizam corrente contínua DC, no entanto, as empresas de eletricidade fornecem-na em corrente alternada AC, logo existe necessidade em transformar energia AC para DC.
+Em segundo lugar, os componentes presentes no computador utilizam energia elétrica de baixa tensão, enquanto que a fornecida é de uma tensão significativamente maior. Assim, a fonte de alimentação também transforma corrente de alta tensão em baixa.
+Elas são classificadas pela potência máxima em Watts (W), como 400W ou 500W. A potência necessária para alimentar o computador depende dos componentes a instalar. Portanto, caso se trate de um processador ou placa gráfica de elevado desempenho, a fonte a utilizar deverá ser uma de maior poder.
+O HDD (Hard Disk Drive) é a principal fonte de armazenamento secundário que guarda informação não necessária para uso imediato. Um disco rotativo magnético é utilizado para gravar toda a informação. Isso acontece por meio de braço móvel que contém uma cabeça magnética para leitura e escrita em diferentes locais do disco. Uma vez que se trata de magnetismo, a informação nele gravada não é perdida mesmo após a remoção de energia.
+Os HDD’s têm três variáveis principais. A primeira diz respeito à capacidade de armazenamento de dados, medida em Gigabytes (GB) ou Terabytes (TB). A segunda é a velocidade de rotação, medida em Rotações por Minuto (RPM). Quanto mais rápido o disco girar, maior será a rapidez de escrita e leitura de dados. A terceira e última é o tipo de interface utilizada para ligação com a motherboard. Antigamente era utilizada IDE (Integrated Drive Electronics), tendo evoluído para SATA (Serial Advanced Technology Attachment) que confere velocidades muito superiores.
+Mais recentemente surgiram os SSD (Solid-State Drive). Enquanto que os HDD utilizam um sistema de pratos rotativos, os SSD usam memória flash. Além disso, são extremamente rápidos e fiáveis, mas em contrapartida mais caros. Saiba 
+ como funciona a desfragmentação de ambos.
+No que diz respeito à durabilidade (ciclos de escrita), vai depender da tecnologia usada, SLC (Single Level Cell) ou MLC (Multi Level Cell). Os problemas de escrita aparecem nos:
+Seja como for, esta é uma limitação que impede a utilização dos SSD tal como os HDD, sendo este o motivo pelo qual só devam ser utilizados para armazenar sistemas operativos e programas. Concluindo, os SSD são indicados para leituras constantes, e não para situações que envolvam muita escrita.
+Este componente é utilizado para ler e gravar CD, DVD e Blu-Ray através de laser, que por sua vez grava pequenos sulcos (pits) na superfície do disco. Em relação à leitura, é utilizado um laser de baixa potência para detetar os ditos sulcos.
+Hoje em dia é banal encontrar unidades no mercado com capacidade de leitura e gravação. Além disso, são compatíveis com versões anteriores, isto é, ao adquirir uma drive ótica Blu-Ray, ela tem capacidade para lidar com CD e DVD.
+A velocidade deste componente não é medida da mesma forma que os discos rígidos. Explicado anteriormente, a velocidade do HDD é medida em RPM, e as unidades ópticas são medidas pela taxa máxima à qual os dados podem ser lidos a partir do disco. Para cada tecnologia (CD, DVD, Blu-Ray) existe uma taxa de dados padrão. Exemplificando, a velocidade base para a tecnologia Blu-Ray é de 6,75MB/s, e utilizando uma drive com classificação 12x, significa que é capaz ler dados a uma taxa máxima de 12 x 6,75 = 81MB/s.
+Um computador em funcionamento produz calor, naturalmente. Neles, é comum encontrar mais que uma ventoinha, cujo objetivo passa por refrigerar todo o calor e evitar sobreaquecimentos. A primeira e mais importante, o cooler do processador, e a segunda, a ventoinha que arrefece o ar “geral” acumulado dentro da caixa do computador.
+Existem vários tamanhos que determinam a quantidade de ar que conseguem ventilar. Deve conferir a compatibilidade entre a ventoinha e a motherboard, pois diferentes ventoinhas possuem diferentes tipos de conectores de energia.
+Alguns computadores de alta performance possuem sistemas de refrigeração líquida, que utilizam, por exemplo, tubos de água. Estes sistemas são mais eficazes, silenciosos e eficientes. Em contrapartida, são complexos, caros, e há um possível risco de ocorrer um vazamento do liquido que por sua vez pode danificar os demais componentes.
+A memória RAM (Random Access Memory) é o componente responsável por armazenar parte da informação em uso pelo processador, sistema operativo, programas e outros dispositivos. Este tipo de memória foi projetado para que qualquer informação nela armazenada possa ser lida em qualquer ordem sem haver perda de desempenho. Assim, torna-se mais rápida e eficiente em comparação com dispositivos mais lentos, como discos rígidos.
+Quanto mais memória o computador tiver, menos necessidade existirá de ir obter informação ao disco rígido. Vejamos, imagine que o disco é um poço de água e a memória RAM um balde. Quanto maior for o balde, menos viagens terá que realizar ao poço para obter a água que precisa. Simples.
+Uma outra característica da memória é o facto de ser volátil. Isto significa que ao desligar o computador, qualquer informação contida na RAM é apagada. Para combater a perda de dados, o sistema operativo copia todos os dados necessários para o disco rígido, e assim, a informação passa a estar disponível quando iniciar o computador novamente. Conheça aqui os diferentes tipos de memórias e as respetivas frequências.
+As placas-mãe podem ter barramentos (AGP, PCI, PCI-E) que permitem adicionar recursos. Dois dos mais comuns são placas gráficas e placas som, que conferem melhor capacidade de processamento gráfico e qualidade de som. Alguns destes componentes incluem processadores próprios, bem como sistemas de refrigeração.
+Lidam com a entrada e saída de áudio. A sua utilização deve-se ao facto de proporcionarem maior capacidade de processamento de som, permitindo criar e obter uma saída de sons mais complexos. Além disso, estas placas possuem outras portas de entrada e saída às quais é possível ligar, por exemplo, um sistema de colunas som subwoofer.
+A GPU (Graphics Processing Unit) é responsável por lidar com o processamento gráfico. Grande parte das placas-mãe trazem-na incorporada (onboard), cuja memória é partilhada com a do sistema, além de consumir recursos do processador. É uma má aposta para quem pretende alta performance gráfica.
+Como uma boa aposta, existem as dedicadas. Elas são independentes, quer em termos de memória e processamento, o que confere maior capacidade para lidar com gráficos mais complexos, em que o detalhe passa por ser o pretendido. Desta forma, a CPU e a memória RAM ficam muito menos sobrecarregadas, disponíveis para lidar com outros processos.
+Uma outra característica deste tipo de placas gráficas, dependendo do modelo, é o facto de possuírem capacidade para ligar vários monitores em simultâneo, o que é fantástico para quem gosta de um ambiente de trabalho alargado.
+Sobre este assunto, a lista é vasta. USB, PS/2, VGA, HDMI, e Ethernet são talvez os mais comuns.
+Em relação ao USB (Universal Serial Bus), praticamente todos os computadores têm mais que uma porta, podendo ser 1.1 (1998), 2.0 (2000), 3.0 (2008) ou 3.1 (2013). Quanto mais recente for a versão, maior rapidez se obtém durante a transferência de dados. De salientar que para tirar partido exato disso mesmo, o computador e o dispositivo a utilizar devem ser da mesma versão.
+Um computador é mais do que uma simples caixa, é uma máquina bastante complexa composta por inúmeros componentes. Ter uma noção básica sobre hardware é importante para qualquer utilizador. Na eventualidade de querer comprar um computador, peças, ou mesmo tentar identificar problemas, depois de ter lido todos os artigos sobre os componentes que o equipam, estará com certeza mais apto para tal.
+ 
+
+
+ 
+28 Mai, 2019
+14 Ago, 2019
+14 Jun, 2019
+Era bom agora um artigo para que quem pretenda configurar um PC saiba o que deve ter em atenção a quando da combinação dos vários componentes.
+Concordo; certos componentes mal ligados à motherboard (nomeadamente a fonte de alimentação) podem originar problemas…
+Parabéns pelo artigo. É sempre um apoio para guardar e posterior consulta quando surge a dúvida.
+
+Também concordo e deixo sugestões. Que tal um tutorial sobre configuração de BIOS e outro sobre Configuração de Arranque do Sistema .
+
+Com tudo explicado , porque nunca se sabe o que deve ser desligado ou não.
+
+Assim, seria uma grande ajuda.
+Ótimo tópico mas poderiam explicar como escolher uma fonte (critérios), melhor memória, discos pci express…
+Uma sugestão, para facilidade de leitura: era aconselhavel actualizar os artigos anteriores, con links para os seguintes, e não somente para os anteriores. Seja como for, é um artigo útil
+O seu endereço de email não será publicado.
+You may use these 
+ tags and attributes:  
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+PUB

@@ -1,0 +1,104 @@
+A 
+ ou 
+ (
+), também conhecida como 
+, é a parte de um sistema computacional, que realiza as 
+ de um 
+, para executar a 
+ básica, lógica, e a entrada e saída de dados.
+ O papel da CPU pode ser comparado ao papel de um 
+ no funcionamento de um computador. Isto é, realiza operações lógicas, cálculos e processamento de dados.
+ O termo foi cunhado no início de 1960 e seu uso permanece até os dias atuais pois, ainda que sua forma, desenho e implementação tenham mudado drasticamente, seu funcionamento fundamental permanece o mesmo.
+
+
+As primeiras CPUs personalizadas foram concebidas como parte de um computador maior. No entanto, este método caro de fazer CPUs personalizadas para uma determinada aplicação rumou para o desenvolvimento de processadores produzidos em massa que são feitos para um ou vários propósitos. Esta tendência de padronização em geral começou na época de discretos 
+ e 
+ 
+ e acelerou rapidamente com a popularização dos 
+ (CI).
+
+Os CI têm permitido processadores cada vez mais complexos para serem concebidos e fabricados em tamanhos da ordem de 
+. Tanto a miniaturização como a padronização dos processadores têm aumentado a presença destes dispositivos digitais na vida moderna, muito além da aplicação limitada dedicada a computadores. Os microprocessadores modernos aparecem em tudo, desde 
+ até 
+ e brinquedos para crianças.
+
+Em máquinas grandes, CPUs podem exigir uma ou mais placas de circuito impresso. Em computadores pessoais e estações de trabalho de pequeno porte, a CPU fica em um único chip de silício chamado de 
+. Desde 1970 a classe de microprocessadores de CPUs quase completamente ultrapassou todas as implementações de outra CPUs. CPUs modernas são circuitos integrados de grande escala em pequenos pacotes retangulares, com vários pinos de conexão.
+
+Uma CPU é composta basicamente, pela maioria dos autores, pelos três seguintes componentes:
+
+OBS.: Alguns autores também incluem, na mesma categoria dos Registradores, a 
+ (L1, L2 e L3) como componentes da CPU.
+
+Computadores como o 
+ tinham que ser fisicamente religados a fim de realizar diferentes tarefas, por isso estas máquinas são muitas vezes referidas como "computadores de programa fixo". Visto que o termo "CPU" é geralmente definido como um dispositivo para execução de um 
+ (programa de computador), os primeiros dispositivos que poderiam muito bem ser chamados CPUs vieram com o advento do computador com programa armazenado.
+
+A ideia do programa de computador já estava presente no projeto do ENIAC de 
+ e 
+, mas inicialmente foi omitido para que a máquina pudesse ser concluída em menos tempo. Em 30 de junho de 1945, antes do ENIAC ter sido concluído, o matemático 
+ distribuiu um documento intitulado "primeiro esboço de um relatório sobre o EDVAC". É descrito o projeto de um programa de computador armazenado que viria a ser concluído em agosto de 1949.
+ O EDVAC foi projetado para executar um determinado número de instruções (ou operações) de vários tipos. Estas instruções podem ser combinados para criar programas úteis para o EDVAC para ser executado.
+
+Significativamente, os programas escritos para EDVAC foram armazenados em 
+ de alta velocidade  e não especificados pela ligação física do computador. Isso superou uma grave limitação do ENIAC que era o longo tempo e esforço necessário para reconfigurar o computador para executar uma nova tarefa. Com o design de von Neumann, o programa, ou software, que executava no EDVAC poderia ser mudado simplesmente mudando o conteúdo da memória do computador.
+
+Enquanto von Neumann é mais frequentemente creditado como sendo o desenvolvedor do computador com programa armazenado, devido à sua concepção do EDVAC, outros antes dele, como 
+, tinham sugerido e implementado ideias semelhantes. A chamada 
+ do 
+, que foi concluída antes do EDVAC, também utilizou um projeto de programa armazenado usando fita de papel perfurado em vez de memória eletrônica. A diferença fundamental entre as arquiteturas de von Neumann e Harvard é que este último separa o armazenamento e o tratamento de instruções da CPU e de dados, enquanto a primeira utiliza o mesmo espaço de memória para ambos. A maioria dos processadores modernos são principalmente von Neumann em design, mas elementos da arquitetura de Harvard são comumente vistas também.
+
+Como um dispositivo 
+, uma CPU é limitada a um conjunto de estados discretos, e requer algum tipo de elemento de comutação para diferenciar e mudar estados. Antes do desenvolvimento comercial do transistor, 
+ e 
+ eram comumente utilizados como elementos de comutação.
+
+Embora estes tivessem considerável vantagem em termos de velocidade sobre o que se usava antes, desenhos puramente mecânicos, eles não eram confiáveis por diversas razões. Por exemplo, a construção de circuitos de lógica sequencial de 
+ fora de relés requer um hardware adicional para lidar com os problemas de contato. Enquanto as válvulas não sofrem rejeição de contato, elas devem aquecer antes de se tornarem plenamente operacionais, e eventualmente deixam de funcionar devido à lenta contaminação dos seus cátodos que ocorre no curso da operação normal. Se uma válvula selada vaza, como por vezes acontece, a contaminação do cátodo é acelerada.
+
+Normalmente, quando um tubo apresenta defeito, a CPU teria que ser examinada para localizar o componente que falhou a fim de que pudesse ser substituído. Portanto, os primeiros computadores eletrônicos (baseados em válvulas) eram geralmente mais rápidos, mas menos confiáveis do que os computadores eletromecânicos (baseados em relés).
+
+Computadores basedos em válvulas como o 
+ tendiam a trabalhar em média oito horas até apresentarem falhas, enquanto os computadores baseados em relés como o (mais lento, mas anterior) 
+ apresentava defeitos muito raramente.
+
+No final, CPUs baseadas em válvulas tornaram-se dominantes porque as vantagens de velocidade significativa oferecidas geralmente superavam os problemas de confiabilidade. A maioria destas antigas CPUs funcionava com baixa 
+ em comparação com os design microeletrônicos modernos. Sinais de frequência de relógio variando de 100 
+ a 4 MHz eram muito comuns nesta época, em grande parte limitados pela velocidade dos dispositivos de comutação que eram construídos.
+
+A complexidade do projeto de CPUs aumentou quando várias tecnologias facilitaram a construção de menores e mais confiáveis dispositivos eletrônicos. O primeiro aprimoramento veio com o advento do 
+. CPUs transistorizadas durante os anos 1950 e 1960 já não precisavam mais ser construídas com volumosos, não confiáveis e frágeis elementos de comutação, tais como 
+ e 
+. Com esta melhoria, CPUs mais complexas e mais confiáveis foram construídas em uma ou várias 
+ com componentes discretos (individuais).
+
+Durante este período, um método de fabricação de transistores em um espaço compacto ganhou popularidade. O 
+ (
+, conforme iniciais em inglês) permitiu que um grande número de transistores fossem fabricados em um único 
+ baseado em 
+, ou "chip". No início apenas circuitos digitais não especializados e muito básicos, tais como 
+ foram miniaturizados em ICs. CPUs baseadas nestes IC de "blocos construídos" eram geralmente referidos como dispositivos de "integração em pequena escala" (
+, conforme iniciais em inglês). SSI ICs, tais como os usados no computador orientado Apollo, normalmente continham somas de transistores em múltiplos de dez.
+
+Para construir uma CPU inteira fora dos SSI ICs eram necessários milhares de chips individuais, mas ainda assim consumiam muito menos espaço e energia do que modelos anteriores baseados em transistores discretos. Quando a tecnologia microeletrônica avançou, um crescente número de transistores foram colocados em ICs, diminuindo assim a quantidade de ICs individuais necessários para uma CPU completa. Circuitos integrados 
+ e 
+ (integração em média e em larga escala, conforme iniciais em inglês) aumentaram a soma de transistores às centenas, e depois milhares.
+
+A introdução do 
+ na década de 1970 afetou significativamente a concepção e implementação de processadores. 
+
+Com a introdução do primeiro microprocessador disponível comercialmente (o 
+) em 1970 e, posteriormente, do primeiro microprocessador de 
+ (o 
+), em 1974, os microprocessadores rapidamente tomaram o mercado e se consolidaram com o tipo de CPU mais utilizado, tornando-se praticamente sinônimos.
+
+Microprocessadores utilizam 
+ de transistores, alcançando assim as vantagens dos processadores de transistores ao mesmo tempo que economizam espaço, energia e aquecem menos. Por esses motivos, podem também atingir frequências de 
+ maiores, o que se traduz em mais operações executadas por segundo e, consequentemente, mais velocidade perceptível ao usuário.
+
+
+O menor tamanho também possibilitou a inclusão de 
+, o que possibilita um circuito atingir maior velocidade na execução de programas sem com isso precisar recorrer à frequências de clock maiores. Como clocks maiores significam mais energia consumida e maior calor dissipado, os ganhos de performance resultantes da inclusão destas memórias foram essenciais para o surgimento do 
+. 
+
+

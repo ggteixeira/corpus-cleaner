@@ -1,0 +1,48 @@
+Pessoal, vamos apresentar algumas das principais peças do computador ou simplesmente periféricos. O texto foi produzido pela Microsoft e vale à pena dar uma lida, pois pode ajudar bastante nos estudos e saberes para prova de concurso público.
+Boa leitura,
+Se você usa um computador desktop ou de mesa, já deve saber que não existe uma parte única chamada “computador”. Um computador é, na verdade, um sistema de muitas partes funcionando em conjunto com um propósito comum. As partes físicas, que você pode ver e tocar, são denominadas coletivamente hardware.
+O software, por outro lado, se refere às instruções (ou programas) que dizem ao hardware o que fazer. O principal programa de um computador é o sistema operacional.
+A ilustração abaixo mostra os dispositivos de hardware mais comuns em um sistema de computador desktop. Seu sistema pode ter uma aparência um pouco diferente, mas provavelmente possui a maioria destas peças. Um computador laptop possui peças semelhantes, mas as combina em um único pacote do tamanho de um caderno.
+Sistema de computador desktop
+Vamos dar uma olhada em cada uma destas peças.
+A unidade de sistema (ou gabinete) é o núcleo de um sistema de computador. Normalmente, é uma caixa retangular colocada sobre a mesa ou embaixo dela. Dentro dessa caixa estão os componentes eletrônicos que processam as informações. O mais importante desses componentes é a CPU (unidade de processamento central) ou microprocessador, que atua como o “cérebro” do computador (alguns dizem ser o coração). Outro componente é a memória RAM (também chamada de memória de trabalho), que armazena temporariamente informações utilizadas pela CPU enquanto o computador está ligado. As informações gravadas na RAM são apagadas quando o computador é desligado. As informações na memória RAM são gravadas eletricamente.
+Quase todas as outras partes do computador se conectam à unidade de sistema por meio de cabos. Os cabos são conectados a portas (aberturas ou ranhuras) específicas, geralmente na parte traseira da unidade de sistema. O hardware que não faz parte da unidade de sistema é chamado periférico ou simplesmente dispositivo de entrada e saída.
+Unidade de sistema
+O computador possui uma ou mais unidades de disco, ou seja, dispositivos que armazenam informações em um disco de plástico ou de metal. O disco preserva as informações mesmo quando o computador está desligado.
+A unidade de disco rígido (HD, hard disc ou winchester) do computador armazena informações em um dispositivo, que é um prato rígido ou pilha de pratos com uma superfície magnética. Como os discos rígidos podem reter uma grande quantidade de informações, normalmente eles funcionam como principal meio de armazenamento do computador, guardando praticamente todos os programas e arquivos. Em geral, a unidade de disco rígido fica localizada dentro do gabinete. Atualmente, a capacidade de armazenamento de um HD está em torno de 01 TB.
+Unidade de disco rígido
+Hoje em dia, quase todos os computadores vêm equipados com uma unidade de CD, DVD ou BD e, geralmente, está localizada na frente da unidade de sistema. Essas unidades usam lasers para ler (recuperar) dados de uma mídia, e muitas também podem gravar dados nessas mídas. Se você tiver uma unidade de disco gravável, poderá armazenar cópias de seus arquivos.
+Mídia
+As unidades de DVD fazem o mesmo que as unidades de CD e também lêem DVDs. Se você tiver uma unidade de DVD, poderá ver filmes no computador. Muitas unidades de DVD podem gravar dados em DVDs vazios.
+Um CD armazena cerca de 700 MB, um DVD em torno de 4,7 GB (ou 8,5 a 9,4 GB) e um BD pode armazenar até 50 GB.
+As unidades de disquete armazenam informações em discos, também chamados discos flexíveis ou disquetes. Comparado a CDs e DVDs, os disquetes podem armazenar apenas uma pequena quantidade de dados (os mais modernos disquetes gravam 1,44 MB). Eles também recuperam informações de forma mais lenta e são mais vulneráveis a danos. Por esses motivos, as unidades de disquete são cada vez menos usadas, embora ainda sejam incluídas em alguns computadores.
+Disquete
+Por que os disquetes são chamados “discos flexíveis”? Mesmo que o exterior seja feito de plástico rígido, isso é apenas a capa. O interior do disco é feito de um material de vinil fino e flexível.
+Mouse é um pequeno dispositivo usado para apontar e selecionar itens na tela do computador. Embora existam mouses de várias formas, o modelo mais comum se assemelha a um rato (como diz o nome em inglês). Ele é pequeno e alongado, sendo conectado à unidade de sistema por um cabo comprido que faz lembrar uma cauda. Alguns mouses mais novos são sem fio.
+Mouse
+O mouse geralmente possui dois botões: um botão principal (normalmente o da esquerda) e um botão secundário. Muitos mouses também têm uma roda entre os dois botões, que permite percorrer as telas de informações.
+À medida que você move o mouse com a mão, um ponteiro na tela se move na mesma direção. (A aparência do ponteiro pode mudar dependendo da sua posição na tela.) Quando quiser selecionar um item, aponte para ele e clique no botão principal, ou seja, pressione-o e solte-o. Apontar e clicar com o mouse é a principal maneira de interagir com o computador.
+A finalidade principal do teclado é digitar texto no computador. Ele possui teclas para letras e números, exatamente como em uma máquina de escrever. A diferença está nas teclas especiais:
+Teclado
+Você também pode usar o teclado para executar muitas das mesmas tarefas que executa com um mouse. O padrão de teclado brasileiro é o ABNT-2.
+O monitor exibe informações em forma visual, usando texto e elementos gráficos. A parte do monitor que exibe as informações é chamada tela. Como a tela de uma televisão, a tela de um computador pode mostrar imagens paradas ou em movimento.
+Existem vários tipos básicos de monitores: CRT (tubo de raios catódicos), LCD (vídeo de cristal líquido), plasma (gás especial), LED e OLED. Touchscreen(Sensível ao toque) similar a tela dos Smartphones e todos produzem imagens nítidas, mas os monitores com tecnologia LCD e LED levam vantagem por serem mais finos e mais leves. Os monitores CRT, porém, costumam ter preço mais acessível.
+Monitores
+Uma impressora transfere dados de um computador para o papel. Você não precisa de impressora para usar o computador, mas, se tiver uma, poderá imprimir emails, cartões, convites, anúncios e outros materiais. Muitas pessoas também preferem imprimir suas fotos em casa.
+Os dois principais tipos de impressora são a jato de tinta e a laser. As impressoras a jato de tinta são as mais populares para uso doméstico. Elas podem imprimir em preto ou em cores e produzem fotos de alta qualidade quando usadas com papel especial. As impressoras a laser são mais rápidas e mais adequadas para uso intenso.
+Impressora a jato de tinta (à esquerda); impressora a laser (à direita)
+Os alto-falantes são usados para reproduzir som. Podem vir embutidos no gabinete ou ser conectados com cabos.
+Alto-falantes do computador
+Para conectar o computador à Internet, você precisa de um modem (analógico ou digital), um dispositivo que envia e recebe informações do computador por linha telefônica ou cabo de alta velocidade. Às vezes, os modems vêm embutidos no gabinete, mas os de alta velocidade normalmente são componentes separados.
+Modem a cabo (digital)
+: Informática para concursos
+Gostei muito desta aula ,ela ajuda muito o basico da mantenção e manejamento fundamental da coisa. meu email : 
+ ./ técnico montagem  e manutenção de computadores.
+
+tel: 021 ou 023  3905 9523, Rio de Janeiro.
+ 
+ comentou em 
+ 
+ comentou em 
+ 
+ comentou em 

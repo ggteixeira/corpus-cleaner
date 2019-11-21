@@ -1,0 +1,17 @@
+Montar um 
+ não é um bicho de sete cabeças. Mesmo assim, listamos abaixo todas as peças que compõem um PC, tanto para você conhecer melhor a sua máquina quanto para não errar na hora de escolher as peças para a montagem de um PC.
+O microprocessador, ou simplesmente processador, é quem faz o trabalho pesado das coisas. 
+Tudo o que o computador vai fazer passa pelo processador. Ele é o cérebro da máquina, é a sua unidade mais “inteligente”.
+Por mais potente que seja um processador, porém, ele só pode processar uma coisa de cada vez. Não se compara ao cérebro humano, que faz várias coisas ao mesmo tempo.
+No disco rígido, ou disco duro, 
+ Ele é, normalmente, o principal meio de armazenamento de um PC. Arquivos de qualquer formato que forem salvos serão guardados nele.
+A denominação HD (hard disk) se dá porque ele tem o formato de um CD onde são gravadas informações a laser. Ele tem uma memória não-volátil, ou seja, os arquivos não são perdidos quando o computador é desligado, sendo considerado o principal meio de armazenamento de dados em massa.
+A memória RAM é usada pelo processador para armazenar os arquivos e programas que estão sendo processados. Ela funciona, por exemplo, como uma mesa de escritório. Quanto maior a mesa, mais objetos você pode colocar em cima dela. A memória é como se fosse essa mesa. Os arquivos que ficam nela são geralmente aqueles que o processador está rodando.
+. Isso quer dizer que, quanto mais você tiver de memória RAM, mais coisas você poderá fazer ao mesmo tempo.
+É na placa mãe que são conectados todos os componentes do PC. 
+ Existem vários tipos de placa mãe. Algumas suportam determinadas peças, outras não. Cada uma tem suas características, como o tipo de soquete, o chipset, as formas de conexões, entre outras.
+A fonte de alimentação é simplesmente o 
+. Ela converte correntes alternadas em correntes contínuas. Ou seja, quando a energia chega às tomadas em 110 V ou 220 V, ela é transformada em tensões de 5 V e 12 V. Por ser um equipamento que gera uma energia eletromagnética, a fonte fica separada das demais peças para evitar interferências.
+. Ela possui memória própria, com sua capacidade sempre medida em Bytes. A placa on board, porém, não tem uma memória dedicada, e por isso acaba utilizando a memória RAM. Este método deixa o seu sistema mais lento. A capacidade dessa placa é limitada.
+Já as placas off-board geram imagens e efeitos visuais tridimensionais, e aceleram os bidimensionais, aliviando o trabalho do processador principal e gerando um resultado final melhor e mais rápido. Em games, por exemplo, quanto melhor a placa, mais definições de efeitos serão vistos, e mais rápido o jogo irá rodar. A maioria dos jogos modernos exige placas super potentes.
+. Também chamado de torre, ele possui diversos modelos, depende da necessidade de cada um. Alguns possuem melhor ventilação, fornecem mais espaço, têm um design mais de acordo com o dono etc. 

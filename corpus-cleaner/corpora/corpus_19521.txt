@@ -1,0 +1,109 @@
+
+apenas de mais um eletrodoméstico das famílias do novo milênio. O computador pode ser divido de forma didática, como apresentamos a seguir:
+
+
+
+
+
+
+
+É a parte mais importante do computador, podemos dizer que o 
+ 
+. Dentro dele, há vários componentes que fazem o processamento da informação. Mas atenção, 
+, pois são coisas diferentes (algumas pessoas, inclusive técnicos costumam chamar o gabinete de CPU porque esta - a CPU - está dentro do gabinete).
+
+
+
+É a tela que nos mostra as respostas que o computador nos dá. É um 
+(pois a informação 
+do computador para o usuário).
+
+
+
+conjunto de teclas que permite que operemos o computador através de comandos digitados. É um periférico de entrada.
+
+
+
+Através dele, controlamos uma setinha que aponta para os itens na nossa tela. Também é um periférico de entrada.
+
+
+
+
+
+
+Dentro do gabinete são encontrados os componentes que formam o computador propriamente dito, como as memórias, o processador e o disco rígido, todos eles estão direta ou indiretamente ligados à 
+.
+
+
+
+É uma grande placa de circuitos onde são encaixados os outros componentes, a Placa mãe recebe o processador, as memórias, os conectores de teclado, mouse e impressora, e muito mais (veja figura abaixo).
+
+
+
+
+
+
+
+É o 
+mais importante do computador, cabendo a ele o processamento de todas as informações que passam pelo computador. Ele reconhece quando alguma tecla foi pressionada, quando o mouse foi movido, quando um som está sendo executado e tudo mais... Devido a sua importância, consideramos o processador como o "cérebro do computador" e vamos estudá-lo com mais detalhamento.
+
+
+
+É um conjunto de chips que acumulam as informações enquanto estão sendo processadas, é mais ou menos assim: 
+. Toda e qualquer informação que estiver sendo processada, todo e qualquer programa que esteja sendo executado está na memória RAM. A memória RAM é vendida na forma de pequenas placas chamadas "pentes".
+
+
+
+significa 
+, ou seja, o computador altera seu conteúdo constantemente, sem permissão da mesma, o que é realmente necessário. Como a memória RAM é alimentada eletricamente, seu conteúdo é esvaziado quando desligamos o computador. Sem chance de recuperação, ou seja, é um 
+.
+
+
+
+: É uma memória que está entre o processador e a RAM, para fazer com que o acesso à RAM seja mais veloz. A Memória Cache normalmente é formada por circuitos 
+do processador, para que sua velocidade seja ainda maior. Uma vez acessada uma informação, ela não precisará ser acessada mais uma vez na RAM, o computador vai buscá-la na Cache, pois já estará lá.
+
+
+
+: também conhecido como 
+ou 
+, é um dispositivo de armazenamento magnético na forma de discos sobrepostos. É no Disco Rígido que as informações são gravadas de forma permanente, para que possamos acessá-las posteriormente. As informações gravadas nos discos rígidos (ou nos disquetes) são chamadas 
+.
+
+
+
+também conhecido como 
+é o nome dado ao conjunto de vias que fazem a informação viajar dentro do computador. O BUS liga o processador aos periféricos e às placas externas que se encaixam na placa mãe.
+
+
+
+São "fendas" na placa mãe que permitem o encaixe de outras placas, como as de vídeo, som, rede,etc. Veremos, a seguir, mais detalhadamente os Slots, os barramentos e suas características.
+
+
+Podemos observar na figura seguinte, o formato dos discos rígidos e da memória RAM, assim como, um pequeno exemplo de microprocessador, e um esquema do funcionamento deles:
+
+
+
+
+
+
+
+
+
+
+Explicando o diagrama acima: A informação é inserida no computador através de um dispositivo de entrada, que pode ser um teclado, um mouse, um scanner ou uma câmera, entre outros. Esta informação segue direto para o processador, que reconhece a informação e a guarda na memória RAM, para só então depois disso, jogá-la no monitor (se este for o caso). Caso o usuário deseje gravar a informação permanentemente, ela será jogada numa unidade de disco à escolha do mesmo (como mostrado na figura com o HD). Este diagrama serve para qualquer tipo de informação, até mesmo as teclas que você pressiona enquanto digita uma carta no computador, ou o momento em que grava sua voz pelo microfone.
+
+
+
+Suas ideias são importantes para nós, aproveite o espaço que o Algo Sobre disponibiliza para você professor, jornalista ou estudante divulgar seu trabalho com publicações no site.
+ 
+
+
+ 
+
+
+ 
+
+
+
+

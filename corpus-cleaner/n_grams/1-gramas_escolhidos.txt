@@ -1,0 +1,10 @@
+HDD
+mouse
+teclado
+trackpad
+SSD
+bateria
+SATA
+Modem
+Gabinete
+microfone

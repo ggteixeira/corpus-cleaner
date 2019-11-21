@@ -1,0 +1,318 @@
+Hoje, o mercado de trabalho exige conhecimentos básicos de informática, 
+        não só no que se refere aos softwares, mas ao hardware também. 
+        É importante saber, por exemplo, o que é um HD (
+ard 
+        
+isk), para que serve o processador, qual a função 
+        da memória RAM e assim por diante. Nada de recursos avançados, 
+        isso pode ser deixado para quem quer se aprofundar no assunto. No entanto, 
+        ter conhecimentos básicos do assunto é essencial, até 
+        mesmo para lidar com determinadas situações, como observar 
+        o reparo de seu PC por um técnico, por exemplo. Este artigo, voltado 
+        aos iniciantes ou àqueles que tiveram um "branco" no 
+        assunto, mostrará um 
+ sobre cada um dos principais 
+        componentes de um computador pessoal, assim como abordará suas 
+        utilidades e suas principais funções.
+ todo o equipamento, suas peças, isto é, 
+        tudo o que "pode ser tocado", denomina-se 
+. Alguns 
+        equipamentos, como monitor, teclado e mouse são também chamados 
+        de 
+. Outros exemplos de hardware: memórias, 
+        processadores, gabinetes, disco rígido, etc.
+ consiste na parte que "não se pode tocar", 
+        ou seja, toda a parte virtual, onde estão incluídos os drivers, 
+        os programas e o sistema operacional.
+Este é o grande pivô da história. O 
+, 
+        basicamente, é o "cérebro" do computador. Praticamente 
+        tudo passa por ele, já que é o processador o responsável 
+        por executar todas as instruções necessárias. Quanto 
+        mais "poderoso" for o processador, mais rapidamente suas tarefas 
+        serão executadas. 
+Todo processador deve ter um 
+ (ou algum outro sistema de 
+        controle de temperatura). Essa peça (um tipo de ventilador) é 
+        a responsável por manter a temperatura do processador em níveis 
+        aceitáveis. Quanto menor for a temperatura, maior será a 
+        vida útil do chip. A temperatura sugerida para cada processador 
+        varia de acordo com o fabricante, com o mecanismo e com o desempenho. 
+        Procure saber com o fabricante qual a temperatura ideal para o seu processador. 
+        Se o valor estiver acima do limite, talvez seja necessário melhorar 
+        a ventilação interna da máquina. Para conhecer a 
+        temperatura, fabricantes de placas-mães costumam oferecer programas 
+        próprios para isso. Em muitos casos, também é possível 
+        obter essa informação no setup do BIOS (visto no item placa-mãe, 
+        mais adiante).
+Vale ressaltar que cada processador tem um número de pinos ou 
+        contatos. Por exemplo, o antigo Athlon XP tem 462 pinos (essa combinação 
+        é chamada Socket A) e, logo, é necessário fazer uso 
+        de uma placa-mãe que aceite esse modelo (esse socket). Assim sendo, 
+        na montagem de um computador, a primeira decisão a se tomar é 
+        qual processador comprar, pois a partir daí é que se escolhe 
+        a placa-mãe e, em seguida, o restante das peças.
+O mercado de processadores é dominado, essencialmente, por duas 
+        empresas: 
+ e 
+. 
+        Eis alguns exemplos de seus processadores: Intel Core 2 Duo, Intel Core 
+        i7, Intel Atom (para dispositivos portáteis), AMD Athlon X2, AMD 
+        Phenom II e AMD Turion X2 (também para dispositivos portáteis). 
+        Abaixo, a foto de um processador.
+RAM significa 
+andom 
+ccess 
+emory (memória 
+        de acesso randômico). Nela, os dados se perdem quando o computador 
+        é desligado. Os módulos de memória, também 
+        conhecidos como "pentes de memória", são os responsáveis 
+        pelo armazenamento dos dados e instruções que o processador 
+        precisa para executar suas tarefas. Esses dados são fornecidos 
+        pelo usuário e/ou retirados do HD (
+ard 
+isk- Disco 
+        Rígido). Existe também uma categoria chamada memória 
+        ROM, que armazena permanentemente os dados. Você pode se informar 
+        melhor sobre as 
+. Existe mais de um tipo de memória RAM. Cada um tem uma 
+        forma de encapsulamento e um modo de funcionamento. Atualmente, o tipo 
+        de memória mais usado é o padrão DDR3, cuja imagem 
+        é vista a seguir.
+O Disco Rígido, cujo nome em inglês é 
+ (HD), serve para armazenar dados permanentemente ou até 
+        estes serem removidos. Fisicamente, os HDs são constituídos 
+        por discos. Estes são divididos em trilhas e, por sua vez, estas 
+        são formadas por setores. Os HDs podem armazenar até centenas 
+        de 
+. A velocidade de acesso às informações 
+        dos discos depende, em parte, da rapidez em que estes giram. Os padrões 
+        mais comuns são de 5.400 rpm (rotações por minuto), 
+        7.200 rpm e 10.000 rpm. 
+Para serem usados pelo computador, os HDs precisam de uma interface de 
+        controle. As existentes são 
+ 
+        (
+ntergrated 
+rive 
+lectronics), 
+ 
+        (
+mall 
+omputer 
+ystem 
+nterface) e 
+ 
+        (
+erial 
+). 
+A imagem abaixo mostra a parte interna de um HD. Repare nos discos (pratos), 
+        o local onde os dados são gravados:
+Este componente também pode ser interpretado como a "espinha 
+        dorsal" do computador, afinal, é ele que interliga todos os 
+        dispositivos do equipamento. Para isso, a 
+ 
+        (ou, em inglês, 
+) possui vários tipos de 
+        conectores. O processador é instalado em seu socket, o HD é 
+        ligado nas portas IDE ou SATA, a placa de vídeo pode ser conectada 
+        nos slots 
+ ou 
+ e as outras placas (placa de som, placa de rede, etc) podem ser 
+        encaixadas nos slots 
+ ou, mais recentemente, 
+        em entradas 
+ (essa tecnologia 
+        não serve apenas para conectar placas de vídeo). Ainda há 
+        o conector da fonte, os encaixes das memórias, enfim. 
+Todas as placas-mãe possuem BIOS (
+asic 
+nput 
+utput 
+        
+ystem). Trata-se de um pequeno software de controle armazenado 
+        em um chip de memória ROM que guarda configurações 
+        do hardware e informações referentes à data e hora. 
+        Para manter as configurações do BIOS, em geral, uma bateria 
+        de níquel-cádmio ou lítio é utilizada. Dessa 
+        forma, mesmo com o computador desligado, é possível manter 
+        o relógio do sistema ativo, assim como as configurações 
+        de hardware. 
+A imagem abaixo mostra um exemplo de placa-mãe. Em 
+ ficam 
+        os conectores para o mouse, para o teclado, para o áudio, etc. 
+        Em 
+, o slot onde o processador deve ser encaixado. Em 
+ 
+        ficam os slots onde os pentes de memória são inseridos. 
+        
+ mostra um conector IDE. Em 
+ é possível 
+        ser os conectores 
+. Por fim, 
+ 
+        mostra os slots de expansão (onde pode-se adicionar placas de som, 
+        placas de rede, entre outros), com destaque para o slot 
+ 16x (azul) para o encaixe da placa de vídeo.
+Eis outro importante item em um computador. Cabe à 
+ gerar tudo o que vai aparecer em seu monitor de vídeo, 
+        como imagens de jogos e de aplicações, efeitos, etc. Hoje, 
+        tem-se uma imensa variedade de placas, porém, as marcas mais conhecidas 
+        desse segmento são a 
+ (após 
+        esta comprar a ATI) e a 
+, duas 
+        fortes concorrentes. Na verdade, ambas produzem o chip gráfico 
+        ou GPU (uma espécie de processador responsável pela geração 
+        de imagens, principalmente em aplicações 3D). Quem produz 
+        as placas são outras empresas, como MSI, Zotac, ECS, Gigabyte, 
+        Asus, entre outras. 
+É possível encontrar no mercado placas-mãe que possuem 
+        placas de vídeo 
+, isto é, onde o vídeo 
+        é fornecido de maneira integrada. Essa característica permite 
+        economia de gastos, porém pode afetar o desempenho do computador, 
+        motivo pelo qual esse tipo de hardware é indicado apenas para computadores 
+        destinados a atividades básicas. 
+As placas de vídeo antigas usavam o slots PCI e AGP. Hoje, o padrão 
+        é a tecnologia 
+ (PCI-E).
+Os drives de disquete são itens que caíram em desuso, ou 
+        seja, é muito raro encontrar no mercado computadores que utilizam 
+        esse dispositivo. O disquete consiste em uma espécie de capa quadrada 
+        que protege um disco magnético que suporta até 1,44 MB. 
+        Por oferecer pouco espaço para armazenamento de dados e por sua 
+        fragilidade, esses discos perderam sua utilidade. 
+O drive de CD-ROM/DVD é, basicamente, o dispositivo que lê 
+        CDs e/ou DVDs. Hoje é comum ter aparelhos leitores de CDs/DVDs 
+        que também fazem gravação de dados. Tempos atrás, 
+        o mercado contava apenas com leitores e gravadores de CD. A seguir, uma 
+        lista dos diferentes tipos de drives de disco existentes:
+ serve apenas para ler CDs. Mais informações 
+        sobre isso 
+;
+
+
+ serve para ler e gravar CD-Rs e CD-RWs. Para 
+        mais informações sobre esse tipo de mídia, 
+;
+
+
+ serve como leitor de CD-ROM e de DVD, além
+        de gravador de CDs; 
+
+
+ esse drive é um dos mais completos, pois
+        lê e gravas CDs, assim como lê e grava DVDs. 
+A imagem a seguir mostra um drive leitor de DVDs:
+Note que, embora em quantidade menor, também é possível 
+        encontrar computadores equipados com unidades 
+.
+Semelhante a uma TV, é responsável por transmitir as informações 
+        visuais do computador. Por muito tempo, a tecnologia mais usada nos monitores 
+        foi o CRT (
+athode 
+ay 
+ube), que hoje perdeu espaço 
+        para a tecnologia 
+ (
+iquid 
+        
+rystal 
+isplay). 
+Os monitores mais comuns encontrados no mercado oferecem telas em tamanhos 
+        que vão de 17" a 23" (lê-se o símbolo " 
+        como polegadas), em formato 
+ (mais largo). Hoje em dia, 
+        é muito mais vantajoso ter um monitor com pelo menos 19", 
+        uma vez que a diferença de preços em relação 
+        a modelos menores é pequena. 
+A imagem abaixo mostra um monitor LCD 
+:
+O gabinete é uma caixa metálica (e/ou com elementos de 
+        plástico) vertical ou horizontal, que guarda todos os componentes 
+        do computador (placas, HD, processador, etc). Geralmente encontrados nas 
+        cores bege e preta, cada vez mais surgem modelos que possuem algum tipo 
+        de arte, isto é, que contam com cores, luzes e outros elementos 
+        chamativos. Muitas vezes, são os próprios usuários 
+        que elaboram esses enfeites. É o chamado 
+. 
+No gabinete, fica localizada também a 
+, que serve para converter corrente alternada 
+        em corrente contínua para alimentar os componentes do computador. 
+        Assim, a placa-mãe, os drives, o HD e o cooler, devem ser ligados 
+        à fonte. As placas conectadas nos slots da placa-mãe recebem 
+        energia por esta, de modo que dificilmente precisam de um alimentador 
+        exclusivo. Gabinetes, fontes e placas-mãe precisam ser de um mesmo 
+        padrão, do contrário, acaba sendo praticamente impossível 
+        conectá-los. O padrão em uso atualmente é o ATX. 
+      
+Os gabinetes verticais podem ser encontrados em 3 tipos básicos:
+ pequeno, possui apenas 3 baias (visto na imagem abaixo);
+
+
+médio, possui 4 baias;
+
+
+ grande, com mais de 4 baias.
+As baias são aquelas "gavetinhas", no português
+        vulgar, localizadas na parte frontal do gabinete. Nos espaços das
+        baias é que drives de CD, DVD e outros são encaixados.
+Nos gabinetes, ainda é possível encontrar os seguintes 
+        itens:
+- Botão TURBO (apenas em gabinetes antigos)
+
+        - Botão RESET
+
+        - Botão ou chave para ligar o computador (POWER)
+
+        - LED de POWER ON
+
+        - LED indicador de modo turbo (apenas em gabinetes antigos)
+
+        - LED indicador de acesso ao disco rígido (indica que o disco rígido
+        está sendo acessado)
+
+        - Display digital para indicação de clock (apenas em gabinetes
+        antigos)
+Para finalizar, falta ainda citar o teclado e o mouse. Obviamente, o 
+        teclado serve para a digitação, porém, ele também 
+        pode ser usado em jogos e em combinações de teclas para 
+        acesso rápido a determinados aplicativos. Há inclusive vários 
+        modelos de teclados que fogem ao padrão convencional e adicionam 
+        recursos extras no acesso a diversos tipos de aplicações.
+Os 
+, dispositivos que servem para guiar 
+        uma seta (cursor) na tela do computador, também são itens 
+        essenciais. Há, basicamente, dois tipos de mouse: o de "bolinha", 
+        que usa uma esfera para movimentar o cursor (em desuso); e o mouse óptico, 
+        que faz a movimentação da seta por meio de 
+, 
+        tecnologia que oferece mais precisão à captação 
+        de movimentos.
+Mouses e teclados costumam ser conectados ao computador por meio de portas 
+        chamadas PS/2 (número 1, na imagem abaixo). Mas estas estão 
+        caindo em desuso, dando lugar às 
+, que também servem para conectar câmeras digitais, 
+        MP3-players, pendrives, 
+, 
+, 
+        etc. Algumas placas-mães sofisticadas oferecem também entradas 
+        
+, muito utilizadas para a conexão 
+        de HDs externos e filmadoras digitais. Antigamente, mouses utilizavam 
+        conectores seriais (número 3, na imagem abaixo), teclados faziam 
+        uso de uma porta denominada DIM e impressoras e scanners usavam uma entrada 
+        chamada paralela (número 2, na imagem abaixo).
+Este guia foi desenvolvido para servir de base às pessoas que 
+        estão dando os primeiros passos no mundo da informática. 
+        O texto focalizou os principais componentes de hardware encontrados em 
+        um computador do tipo desktop. É evidente que o assunto é 
+        muito mais amplo, por isso, consultar os links indicados durante o texto 
+        é uma boa forma de aumentar os conhecimentos sobre o tema. Outros 
+        textos podem ser encontrados na 
+ do InfoWester.
+Por 
+InfoWester 2001-2019
+
+

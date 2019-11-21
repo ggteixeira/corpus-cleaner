@@ -1,0 +1,118 @@
+ Júlio Battisti tem mais de 50 livros publicados, centenas de e-books e é certificado Microsoft.
+
+
+Estes tutoriais trarão uma série de tópicos sobre
+      montagem, configuração e instalação de hardware
+      em microcomputadores. O leitor aprenderá de forma clara e objetiva
+      o funcionamento, informações
+	  e conceitos dos componentes internos do computador, não somente de
+	  computadores atuais, mas também de micros mais antigos, pois estes
+	  ainda existem no mercado.  Serão vistos também, assuntos
+	  relacionados a soluções diversas de hardware, configurações
+	  e otimizações de registro do sistema operacional Windows, bem
+	  como exemplos práticos de montagem de PC. Este tutorial poderá servir
+	  como fonte de consulta para usuários iniciantes e avançados,
+	  servindo tanto para uso profissional como pessoal. Este tutorial não
+	  tem como objetivo ser apenas a única fonte de leitura e solução,
+	  sendo necessário o estudo em livros técnicos e um acompanhamento
+    personalizado em questões de maior abrangência.
+Como informado no tutorial anterior, faremos uma breve descrição
+	  dos principais componentes externos e internos do microcomputador. Assim,
+    colocaremos todos os usuários nivelados em termos de conhecimentos.
+Nestes primeiros tutoriais, o leitor descobrirá em um passo a passo
+	  como é o funcionamento interno de um computador e como reconhecer as
+    suas partes principais de um computador.
+Ao abrir o computador o usuário deve perceber a existência
+      de vários cabos que fazem as conexões internas, tipo:
+a) HD
+b) CD-ROM
+c) Unidade de disquete
+É bom observar que os computadores existentes no mercado podem variar
+	  das figuras aqui apresentadas, e dependem obviamente do fabricante de cada
+    componente.
+ E fato também que o usuário poderá não
+	  ter todas as peças internas e externas apresentadas nestes tutoriais,
+	  porém todas existiram e existem e são usuais. Outras fatalmente
+    serão encontradas no dia a dia de cada um.
+Todas as explicações e apresentações de figuras
+    e dispositivos que se seguem, são baseados em microcomputadores comuns.
+Observe que, como falado anteriormente, há dentro do computador  uma
+      placa “grande”, onde são encaixadas outras placas “menores”.
+      Essa placa é chamada de “
+”.
+      Geralmente na placa mãe são conectados, com estes cabos,
+    os vários tipos de hardware existentes no computador.
+      Estes cabos de conexão são chamados de cabos “flats” ou “flat
+cable”. A tradução do termo para o português  é “cabo
+liso”, não tem muito a ver com sua função, mais é bom
+saber.
+      Os cabos flats, em sua grande maioria são marcados com um pino chamado
+de “pino 1”. Geralmente este pino é um fio do cabo que tem
+sua cor diferente dos demais fios. Pode estar na cor azul, vermelha e alguns
+casos rosa ou verde.
+      Esse fio deverá, obrigatoriamente, ser encaixado na marcação
+do “pino 1”  do conector a ser plugado.
+Este é caso de um exemplo de conexão de um cabo flat em
+      uma unidade de CD-ROM. O encaixe do “pino 1” deve ser conectado
+    na marcação correta de entrada na unidade conectada.
+      Veja abaixo, uma forma de conexão:
+-  Conexão na placa mãe de um dispositivo
+      Para que serve?
+O 
+ possui três conectores com espaços
+    padronizados. São fabricados de forma a ter fios finos, unidos, e
+    ficando paralelo uns aos outros. Estes fios são denominados de  “vias”.
+    Nestas “vias” é que trafegam os dados. São normalmente
+    utilizados para conectar os leitores/gravadores de 
+ e 
+ na
+    placa-mãe do microcomputador.
+- Separados: Flat Cable de 40 vias e 80 vias
+      O cabo flat de 40 vias pode atingir uma velocidade de transferência de
+dados de 44Mb/s. O plugue de conexão será sempre igual, ao de 80
+vias.
+      Observe que este cabo contém 39 furos. Um furo está vedado para
+evitar que pessoas “menos experientes” conectem o cabo de forma errada.
+Na placa mãe também faltara este pino de conexão.
+      Este cabo flat possui 18 polegadas de comprimento, o que dá 45
+      centímetros.
+      O cabo de 80 vias foi desenvolvido para substituir o cabo flat de 40 vias.
+        Porém este cabo flat de 80 fios condutores tem os mesmos conectores
+        do cabo de 40 vias. Este cabo de 80 pinos,  é compatível
+        com o modelo anterior de 40 vias. Nenhuma troca foi feita nos conectores
+    IDE/ATA, exceto seu código de cores.
+      Os 40 fios adicionais não transportam informações;
+      eles apenas separam os demais fios que transportam informações,
+      reduzindo as interferências e outros problemas de sinalização,
+    associados com a transferência de dados em alta velocidade.
+ Dessa
+      forma, esses 40 fios extras estão aterrados e qualquer sinal perdido
+      que poderia passar de um fio adjacente para outro serão absorvidos
+    e aterrados, melhorando a integridade do sinal.
+      Um 
+ de 80 vias possui praticamente a mesma largura
+      do 
+ de 40 vias, graças à utilização
+    de fios mais finos.
+      Os 
+ possuem 18 polegadas de comprimento, o que
+      corresponde a 45 centimetros.
+O Cabo flat de disquete é feito de 5 conectores, sendo 2 para drivers
+      de 5 ¼ (não usuais atualmente), 2 para unidade de 3 ½ e
+    um para conectar á interface.
+      O cabo flat para drivers de disquete possui apenas 34 vias e possui um
+      trançamento
+junto ao conector de sua extremidade. Em cada um desses cabos existe um conector,
+que dever ser conectado a placa mãe. Nota-se também que por ter
+menos cabos (34 vias) ele é  ligeiramente mais estreito que os cabos de
+40 vias e 80 vias.
+      Nas próximas lições veremos mais sobre montagem e configuração
+de PC.
+Até a próxima.
+ 
+ 
+ 
+ Telefone: 
+ | E-mail: 
+ | Whatsapp: 
+Júlio Battisti Livros e Cursos Ltda | CNPJ: 08.916.484/0001-25 | Rua Vereador Ivo Cláudio Weigel, 537 - Universitário, Santa Cruz do Sul/RS, CEP: 96816-208

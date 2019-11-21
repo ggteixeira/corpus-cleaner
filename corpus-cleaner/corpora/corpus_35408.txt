@@ -1,0 +1,148 @@
+Por: 
+Componentes
+Funcionais do Computador
+Sumário
+Introdução
+O que é o computador?
+Processamento de dados
+Conceitos fundamentais da Informática
+Hardware Â Componentes funcionais do computador
+           Unidade Central de Processamento
+         Memória
+         Unidades de Entrada e Saída
+Equipamentos de processamento
+Introdução
+O que é o computador?
+Um computador é um dispositivo eletrônico controlado por um programa 
+ , usado para processar dados.
+Ele é constituído por componentes eletrônicos, especialmente circuitos integrados, miniaturizados e encaixados em pequeno pedaço de silício, usualmente chamado 
+Esses circuitos integrados, os 
+,
+são a essência
+dos computadores modernos, porque são eles que executam todas as operações. Tais operações
+ que os circuitos integrados executam, são controladas por um programa.
+Sem um programa, um computador reduz-se a um conjunto de partes eletrônicas, que nada pode fazer.
+Esse programa 
+é um conjunto ordenado de instruções que determina o que o computador deve fazer.
+ 
+Processamento de dados
+Em informática, e mais especialmente em computadores, a organização básica de um sistema será na forma de:
+Dispositivos de 
+ são os equipamentos através dos quais podemos introduzir dados no computador. Alguns permitem a intervenção direta do homem, como por exemplo, o teclado. 
+Processamento 
+Dispositivos de 
+ são os equipamentos através dos quais são geradas as informações resultantes do processamento. Por exemplo, o monitor de vídeo e a impressora.
+ 
+Conceitos fundamentais da informática
+É chamado de sistema de computação, o conjunto de 
+ e 
+ através do qual executamos um processamento.
+O 
+O 
+Para facilitar o entendimento, podemos dizer que um toca discos está para o 
+, assim como a música está para o 
+, ou seja, o seu equipamento (
+) só tem utilidade com o auxílio de programas (
+).
+ 
+HARDWARE
+1 Unidade central de processamento (UCP ou CPU)
+A 
+ tem por função executar os programas armazenados na memória principal, buscando cada instrução, interpretando-a e depois a executando. Ela compreende duas grandes subunidades, conhecidas como 
+ (UC) e 
+ (ULA), cujas funções serão mais bem descritas a seguir: 
+Operações lógicas são de forma simples, a habilidade de comparar coisas para tomada de decisão.
+Esta habilidade para testar (ou comparar) dois números e ramificar para um dos muitos caminhos alternativos possíveis, dependendo do resultado da comparação, dá ao computador muitas força e habilidade e é uma das razões principais para o uso dos computadores digitais em diferentes aplicações, tanto administrativas como técnicas.
+ 
+2 Memória
+A memória é um componente que tem por função armazenar internamente toda informação que é manipulada pela máquina: os programas (conjunto de instruções) e os dados. A capacidade de armazenar um programa é uma característica que permite o processamento automático de dados.
+A memória é em geral, classificada em dois grandes tipos:
+ 
+A memória principal é a memória de 
+, que armazena os programas e os dados que 
+essamento. É uma 
+ (RAM), pois os dados só permanecem nela armazenados enquanto houver energia elétrica. Na falta de energia, quando o computador for desligada, todos os dados são perdidos.
+Há alguns conceitos que devem ser conhecidos para que se possa melhor compreender a memória principal nos computadores atuais:
+ 
+1.1 
+É usada para o armazenamento temporário de dados ou instruções.
+Quando escrevemos um texto num computador, as informações são armazenadas na memória RAM, assim como os dados de entrada.
+A RAM também é conhecida como memória de 
+, pois lemos ou escrevemos informações neste tipo de memória.
+ 
+1.2 
+É usada para armazenar instruções e/ou dados 
+ ou raramente alterados. A informação geralmente é colocada no 
+ de armazenamento quando ele é fabricado e o conteúdo da ROM 
+ por um programa de usuário. Por esse motivo é uma memória só de leitura.
+A ROM se constitui em um chip que possui um 
+ determinado e não apagável pelo usuário. Desta forma a ROM incorpora as idéias de 
+ e 
+ (a isto se dá o nome de 
+). 
+Portanto, 
+, é um 
+ que contém um software já determinado, associando assim as duas capacidades. Ex: fita de videogame
+Em resumo, a informação armazenada em ROM não é volátil, ou seja, não é perdida quando o fornecimento de energia externa do computador é interrompido. Já a RAM é volátil, pois as informações armazenadas são perdidas quando a energia é cortada.
+ 
+A memória secundária é a memória de armazenamento permanente, que armazena os dados permanentemente no sistema, sem a necessidade de energia elétrica e, por esse motivo, conhecida como memória não volátil. Ela funciona como complemento da memória principal para guardar dados.
+O computador só consegue processar o que está na memória principal, assim como ocorre conosco. Na verdade, só conseguimos processar o que está na nossa memória. Por exemplo, só podemos discar um número telefônico do qual nos lembramos, o qual esteja na nossa memória. Se não lembrarmos, temos que recorrer a uma memória auxiliar, representada neste caso por uma agenda telefônica e só então estaremos em condições de discar. 
+Como exemplos de memória secundária podemos citar o disquete, o disco rígido e o CD-ROM.
+ 
+Unidades de Entrada e Saída
+Os dispositivos de E/S (Entrada e Saída) servem basicamente para a comunicação do computador com o meio externo. Eles provêem o modo pelo qual as informações são transferidas de fora para dentro da máquina, e vice-versa, além de compatibilizar esta transferência através do equilíbrio de velocidade entre os meios diferentes. Entre estes componentes podemos mencionar o teclado, o vídeo e a impressora.
+ 
+ 
+ 
+É composto por uma série de discos de material rígido, agrupados em um único eixo, possuindo cada disco um cabeçote. Os cabeçotes flutuam sobre a superfície do disco apoiados num colchão de ar, isso significa que eles devem ser conservados em caixas hermeticamente fechadas para evitar problemas causados pela poeira e outros elementos estranhos.
+As unidades 
+ devem receber um cuidado maior por guardarem maiores quantidades de informações, pois qualquer trepidação pode fazer com que o cabeçote encoste-se ao disco, danificando os dados.
+ 
+ 
+A caneta óptica nada mais é do que um sensor óptico, que ao ser apontada na tela do monitor, a coincidência da varredura no ponto onde está a caneta provoca um mapeamento da tela e, portanto, permite até desenhar diretamente na tela.
+A caneta óptica é usada mais comumente para escolher um dos itens mostrados na tela. Reconhecendo o ponto indicado pela caneta, o computador reduz o caracter ou símbolo a que o ponto de refere.
+ 
+O mouse é colocado sobre qualquer superfície plana e, quando se move, movimenta também o cursor na tela com extrema agilidade. Assim, uma pessoa pode fazer um movimento para qualquer parte da tela, pressionar o botão e dar andamento à operação desejada. O mouse é utilizado em programas gráficos para traçar linhas ou "pintar" cores na tela e em programas com grande número de menus de opções.
+ 
+Alguns deles são dotados ainda de um botão lateral de disparo (de mísseis, balas, ou eventos, dependendo do programa usado) para ser operado com a mão que estiver desocupada. Em alguns modelos, no entanto, basta que se aperte um botão disparador com o polegar.
+ 
+Impressoras
+ 
+8.1 
+A tecnologia mais comum de impressão é o da matriz de pontos, que funciona por meio de uma cabeça de impressão contendo um grupo de agulhas. Os caracteres são impressos no papel mediante a combinação dessas agulhas. A vantagem da matriz de pontos está na rapidez e no preço. Entretanto, como as letras e números são feitos com série de pontos, a qualidade da impressão deixa a desejar, além disso, essa impressora faz muito barulho.
+Algumas impressoras de matriz de pontos resolvem o problema da má qualidade de impressão gravando os pontos duas ou três vezes. Nesse caso, preenchem os espaços deixados na primeira impressão.
+ 
+8.2 
+As impressoras de jato de tinta são de preço um pouco mais elevado que as matriciais. Injetam gotas de tinta (ou bolhas de tintas aquecidas) que formam o caracter a ser impresso. As gotas passam por um eletrodo e recebem carga elétrica. Esse tipo de impressora trabalha com enorme rapidez, tendo capacidade para imprimir muitos caracteres por segundo. Sua qualidade de impressão é muito boa. São muito adequadas à cores.
+ 
+8.3 
+Sistema semelhante ao utilizado nas máquinas de xerox, por sensibilização do papel e uso de toner para impressão. Possui alta velocidade e alta resolução, tanto na escrita quanto em modo gráfico. Se forem coloridas usam toner de 3 ou 4 cores.
+ 
+Modular significa converter pulsos digitais (dígitos) em sinais analógicos (ondas senoidais), para que eles possam percorrer numa linha telefônica.
+O modem permite que o computador "converse" com qualquer outro computador do mundo; mais isso só pode acorrer se o outro também tiver um modem. Ele tanto pode ser adaptado a um microcomputador, como ao poderoso equipamento central de uma universidade ou instituição bancária.
+A ligação de seu micro a um grande equipamento pode lhe dar acesso a grandes bancos de dados, a serviço de informação e as últimas cotações da bolsa de valores. Se ligar o seu micro ao de seu amigo, vocês podem trocar 
+enviar cartas eletrônicas (e-mails) , além de praticar jogos bidirecionais.
+ 
+ Â Digitalizador de imagem Â (Periférico de Entrada): Um digitalizador de imagens é um equipamento de entrada de dados, que permite a leitura de imagens a partir de material impresso (revistas, jornais, cartazes), armazenando na memória toda a tela recebida na leitura.
+As telas podem, assim, serem modificadas e reproduzidas novamente por equipamentos adequados de impressão. Dessa forma podemos confeccionar cartazes ou qualquer outro tipo de trabalho utilizando fotografias.
+ 
+ Multimídia - 
+Também chama-se multimídia aos 
+ desenvolvidos especialmente para a utilização destes recursos e podem ser formados a partir de tipos de arquivos diferentes, como: vídeo-clips, músicas digitais, apresentações audiovisuais, animações gráficas, etc.
+Para que um microcomputador possa utilizar todas as vantagens que a multimídia oferece, ele precisa de acessórios especiais. Por exemplo, o áudio só será reproduzido pelo computador se o mesmo possuir uma Placa de Som.
+Placa de Som é um dispositivo ligado internamente ao computador responsável pela reprodução de sons digitais gerados pelos 
+. 
+Hoje em dia no mercado, encontramos uma grande variedade de Kits Multimídia, que são pacotes com equipamentos responsáveis pela execução da multimídia no computador. Na maioria deles encontraremos os seguintes itens: uma placa de som, um 
+ de leitura para CD-ROM, dois cabos para a conexão do 
+ de CD-ROM à placa de som, duas caixas amplificadas, disquetes para a instalação dos componentes e manuais de instalação e uso. Como equipamentos opcionais encontraremos: um microfone, títulos em CD-ROM multimídia e talvez até uma câmera digital.
+ 
+Equipamentos de processamento
+O elemento central de um microcomputador é uma placa onde se encontra o microprocessador e vários componentes que fazem a comunicação entre o microprocessador com meios periféricos externos e internos.
+No nível físico mais básico, a placa mãe corresponde às fundações do computador. Nela ficam as placas de expansão; nela são feitas as conexões com circuitos externos; e ela é a base de apoio para os componentes eletrônicos fundamentais do computador. No nível elétrico, os circuitos gravados na placa mãe incluem o cérebro do computador e os elementos mais importantes para que esse cérebro possa comandar os seus "membros". Esses circuitos determinam todas as características da personalidade do computador: como ele funciona, como ele reage ao acionamento de cada tela, e o que ele faz.
+ 
+Dois importantes componentes da Placa Mãe são: 
+ 
+Embora os dois termos sejam usados como sinônimos (e às vezes até em conjunto: monitores de vídeo), na realidade há diferenças importantes entre eles. O vídeo é o dispositivo que produz a imagem, a tela que você vê. O monitor é o aparelho completo, a caixa onde o vídeo está alojado, juntamente com vários circuitos de apoio. Esses circuitos convertem os sinais enviados pelo computador (ou por outro equipamento, como um gravador de videocassete) num formato que o vídeo possa utilizar. Embora a maioria dos monitores funcione segundo princípios semelhantes aos dos aparelhos de televisão (Tubos de Raios Catódios ou CRT), os vídeos podem ser construídos com base em várias tecnologias, incluindo o cristal líquido (LCD) e o que usa o brilho de alguns gases nobres  (painéis eletroluminesentes).
+Os vídeos e monitores recorrem a diversas tecnologias para produzir imagens visíveis. A maioria dos computadores de mesa emprega sistemas de vídeo apoiados na mesma tecnologia de tubos de raios catódicos da maioria dos aparelhos de televisão. Os computadores portáteis utilizam principalmente vídeos de cristal líquido. 
+
+
