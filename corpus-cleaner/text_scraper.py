@@ -58,4 +58,4 @@ def write_into_file(deep_clean):
     text_file.close()
 
 
-print(write_into_file(deep_clean(set_blacklist, html_clean(html_parse(download_page(get_page()))))))
+write_into_file(deep_clean(set_blacklist, html_clean(html_parse(download_page(get_page())))))
