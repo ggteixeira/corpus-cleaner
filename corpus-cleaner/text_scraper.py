@@ -28,8 +28,8 @@ def download_page(get_page):
 
 # Parseia o HTML, dando uma 'prettifycada' nele.
 def html_parse(download_page):
+    print(f"Tamanho do texto antes da limpeza: {len(download_page.split())} tokens")
     return BeautifulSoup(download_page, "html.parser")
-
 
 # Limpa parcialmente o conteúdo, salvando apenas texto presente na página
 def html_clean(html_parse):
@@ -49,6 +49,8 @@ def deep_clean(set_blacklist, html_clean):
     for token in html_clean:
         if token.parent.name not in set_blacklist(html_clean):
             output += f"{token }\n"
+    
+    print(f"Tamanho limpo? --> {len(output.split())}")
     return output
 
 def write_into_file(deep_clean):
@@ -57,5 +59,5 @@ def write_into_file(deep_clean):
         text_file.write(token)
     text_file.close()
 
-
 write_into_file(deep_clean(set_blacklist, html_clean(html_parse(download_page(get_page())))))
+
