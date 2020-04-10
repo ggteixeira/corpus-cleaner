@@ -39,8 +39,12 @@ def html_clean(html_parse):
 # Cria dinamicamente uma lista de tags a serem ignoradas
 def set_blacklist(html_clean):
     blacklist = set([token.parent.name for token in html_clean])
-    blacklist.remove("p")
-    return blacklist
+    tags_to_be_blacklisted = set(("p", "b"))
+    blacklisted = blacklist - tags_to_be_blacklisted
+    # blacklist.remove("p")
+
+
+    return blacklisted
 
 
 # Printa todos os tokens, menos aqueles cujos pais estão na blacklist
