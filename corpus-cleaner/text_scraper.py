@@ -54,15 +54,18 @@ def deep_clean(set_blacklist, html_clean):
         if token.parent.name not in set_blacklist(html_clean):
             output += f"{token }\n"
 
+    # Retira as pontuações do texto
     for token in output:
         if token in string.punctuation:
             output = output.replace(token, "")
+        if token == "\n":
+            output = output.replace("\n", " ")
     
     print(f"Tamanho limpo? --> {len(output.split())}")
     return output
 
 def write_into_file(deep_clean):
-    text_file = open(f'corpora/corpus_{randrange(0, 100000)}.txt', 'w')
+    text_file = open(f'corpora/corpus_{randrange(0, 1000)}.txt', 'w')
     for token in deep_clean:
         text_file.write(token)
     text_file.close()
