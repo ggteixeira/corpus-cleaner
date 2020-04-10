@@ -1,5 +1,7 @@
 # Importação de módulos
 import requests
+import string
+import re
 from bs4 import BeautifulSoup
 from random import randrange
 
@@ -39,7 +41,7 @@ def html_clean(html_parse):
 # Cria dinamicamente uma lista de tags a serem ignoradas
 def set_blacklist(html_clean):
     blacklist = set([token.parent.name for token in html_clean])
-    tags_to_be_blacklisted = set(("p", "b"))
+    tags_to_be_blacklisted = set(("p", "b", "a"))
     blacklisted_tags = blacklist - tags_to_be_blacklisted
 
     return blacklisted_tags
@@ -51,6 +53,10 @@ def deep_clean(set_blacklist, html_clean):
     for token in html_clean:
         if token.parent.name not in set_blacklist(html_clean):
             output += f"{token }\n"
+
+    for token in output:
+        if token in string.punctuation:
+            output = output.replace(token, "")
     
     print(f"Tamanho limpo? --> {len(output.split())}")
     return output
