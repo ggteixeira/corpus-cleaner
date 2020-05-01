@@ -1,4 +1,4 @@
-entrada = open("corpora/paradigmas_desenvolvimento.txt", "r", encoding="utf-8")
+entrada = open("corpora/corpus_unificado.txt", "r", encoding="utf-8")
 saida = open("saida_pt.txt", "w", encoding="utf-8")
 
 lexico = {}

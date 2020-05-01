@@ -7,7 +7,7 @@ from nltk.util import ngrams
 from random import randrange
 
 def get_text():
-    text_file = open(f"corpora/informativo/in_bug_feature_spoladore.txt", "r")
+    text_file = open(f"corpora/tecnico-cientifico/tc_unicamp_andrade.txt", "r")
     text = text_file.read()
     text_file.close()
     return text
@@ -23,4 +23,6 @@ def write_in_file(generated_ngrams):
             file.write(f"{token} \n")
 
 
-write_in_file(extract_ngrams(get_text(), 1))
+# write_in_file(extract_ngrams(get_text(), 1))
+# write_in_file(extract_ngrams(get_text(), 2))
+write_in_file(extract_ngrams(get_text(), 3))
