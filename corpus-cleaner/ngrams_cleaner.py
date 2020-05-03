@@ -14,7 +14,6 @@ def str_2_list(text_file):
     converted_2_list = text_file.split('\n')  # Transforma os itens em uma lista
     return converted_2_list
 
-
 def list_2_set(converted_2_list):
     """Coloca cada linha (contendo n-gramas) em uma lista.
     Coloca todas as listas de n-gramas dentro de outra lista.
@@ -24,32 +23,39 @@ def list_2_set(converted_2_list):
     for ngram in converted_2_list:
         ngrams_list_of_list.append(ngram.split())
 
-    return ngrams_list_of_list[50:55]
+    return ngrams_list_of_list
 
 def filter_ngrams(ngram_list, stopwords_list):    
     # Transforma os itens do arquivo de stopwords em uma lista:
-    
     stopwords_list = stopwords_list.split("\n")
-    # print(f"ngram_list: {ngram_list}")
+
     filtered_ngrams = list()
+    blacklist = list()
+    blacklist_without_duplicates = list()
+
+    for ngram in ngram_list:  # para cada n-grama
+            for stopword in stopwords_list:
+                if stopword in ngram:
+
+                    blacklist.append(ngram)
+                    # filtered_ngrams.append(ngram)
+                    # saida.write(f"{ngram}\n")
+    # print(f"S T O P W O R D S: \n\n{stopwords_list}")
+
+    for i in blacklist:
+        if i not in blacklist_without_duplicates:
+            blacklist_without_duplicates.append(i)
+    # print(f"stopword_list: {stopwords_list[10:25]} (...)")
+    # print(f"ngram_list: {ngram_list}\n\n\n")
+    # print(f"Blacklist sem duplicatas: {blacklist_without_duplicates}") 
 
     with open("saida_ngrams.txt", "w+") as saida:
-        for ngram in ngram_list:  # para cada n-grama
-            for stopword in stopwords_list:
-                if stopword not in ngram:
-                    filtered_ngrams.append(ngram)
+        for ngram in ngram_list:
+            if ngram not in blacklist_without_duplicates:
+                saida.write(f"{ngram}\n")
 
-                    # saida.write(f"{ngram}\n")
-    print(f"S T O P W O R D S: \n\n{stopwords_list}")
-    # res = list()    
-    # [res.append(x) for x in filtered_ngrams if x not in res]
-    # print(f"filtered_list: {res}")
-    
-
-        # print(filtered_ngrams)
-        # for ngram in filtered_ngrams:
-        #     saida.write(f"{ngram}\n")
-
-
+        # for i in blacklist_without_duplicates:
+            # saida.write(f"{i}\n")
+            # print(f"{i}\n")
 # Function call:
 print(filter_ngrams(list_2_set(str_2_list(file)), stopwords))
