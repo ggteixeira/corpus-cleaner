@@ -6,6 +6,7 @@ import nltk
 from nltk.util import ngrams
 from random import randrange
 
+
 def get_text():
     text_file = open(f"corpora/tecnico-cientifico/tc_unicamp_andrade.txt", "r")
     text = text_file.read()
@@ -13,9 +14,12 @@ def get_text():
     return text
 
 # Function to generate n-grams from sentences.
+
+
 def extract_ngrams(text, num):
     n_grams = ngrams(nltk.word_tokenize(text), num)
     return [' '.join(grams) for grams in n_grams]
+
 
 def write_in_file(generated_ngrams):
     with open("ngrams_terminet/ngrams.txt", "w+") as file:
