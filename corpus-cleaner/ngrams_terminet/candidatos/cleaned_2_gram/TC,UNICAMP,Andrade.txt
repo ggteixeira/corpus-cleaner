@@ -1,560 +1,4 @@
-
- 
- .
- ...
- AST
- Almeida
- Araçuaí
- BA
- BRANDÃO
- Bartlet
- Boa
- Brandão
- Cidade
- Co-produção
- Cooperativa
- DUARTE
- Dagnino
- Dedo
- Excel
- Fundação
- Hughes
- INPE
- La
- Medeiros
- Menegesse
- Minas
- Muriaé
- P
- Paracatu
- Pinch
- Potencial/Especulativo
- Produzindo
- Raposos
- Raposos/MG
- Resultado/Implicações
- Rio
- S
- SP
- Santos
- Schwartz
- Singer
- Tecnologia
- Teófilo
- Thomas
- Tião
- TiãoRocha
- aassociação
- abordando
- abordo
- abre-se
- acabam
- acima
- acompanhado
- adaptación
- adaptando
- adensando
- afeta
- agora
- agrega
- agroecologia
- ahistória
- ainda
- ajuda
- ajudou
- alagariam
- aldeia
- algo
- algumas
- aliado
- alimentando
- alternativa
- ambientais
- ambiental
- ambientalmente
- analisada
- and
- análogas
- apenas
- apesar
- apontam
- aponto
- apostilas
- aprendemos
- apresentando
- apresentei
- apresento
- aprodução
- aprofundando
- aproveitar-sede
- após
- aqui
- aspecto
- associando
- atende
- atividades
- atraindo
- atrás
- atualItira
- atuam
- atuando
- aumentando
- aumentar
- autodidatas
- autogestão
- autonomia
- aún
- bancos
- baseados
- basta
- bastaria
- bem
- both
- but
- capacidades
- carpintaria
- cartilhas
- cartonagem
- caso
- cerca
- chamado
- chegando
- chegou
- cidade
- cidadã
- cientistas
- circulam
- coisa
- coletando
- coloca
- colocando
- começaram
- começou
- compartilham
- compilado
- complex
- complexos
- composta
- compreende
- compreende-se
- compreendendo
- compreender
- compreendidos
- comunicaciones
- comunidade
- comunidades
- conceber
- concordo
- condicionam
- condicionando
- conformam
- confundindo
- conhecimentos
- conscientização
- consequentemente
- considerada
- considerando
- construindo
- construir
- construída
- conteúdos
- contou
- contra
- contribuem
- contribui
- controle
- convivem
- coordenador
- crescimento
- criada
- criando
- criar
- ctors
- cuidando
- cumpre
- cumprem
- cumprindo
- dado
- dando
- dandoorigem
- data
- decidiu
- demanda
- demandas
- demos
- dependem
- derivada
- desarrollados
- descartando
- descem
- descrevo
- descrevocomo
- desde
- desenvolvendo
- desenvolvidas
- desenvolvimento
- desenvolvium
- desmistificandoo
- desnecessariamente
- desprovida
- desprovidos
- desrespeitando
- dessa
- destaca-se
- destacando
- deve
- devem
- devido
- diferente
- diferentemente
- diferentes
- diminuindo
- discutidos
- disponha
- dispositivos
- dispõe
- disseminar
- dissolvendo
- distintas
- distintos
- distribuição
- diversas
- diversos
- divisão
- diz
- dizem
- doces
- dois
- déficit
- e-mailsdo
- eao
- econômica
- econômicas
- econômico
- econômicos
- educação
- elaera
- elemento
- emerjam
- emum
- en
- enfatiza
- engenheiro
- engenheiros
- entendida
- entendidas
- entremicro
- então
- envolve
- envolvendo
- eobservá-la
- epela
- equipamentos
- es
- escolha
- escondendo
- especialmente
- especialmenteas
- estabelecendo
- estimulando
- etc
- etc.
- exercita
- exercitam
- exigindo
- existe
- expectativas
- explicitar
- explícita
- expõe
- fabricação
- facilitando
- faz
- fazendo
- faço
- felicidade
- fez
- fica
- ficou
- focando
- folclorista
- folhetos
- forma
- formas
- forçando
- frequentemente
- funcionam
- fundador
- fundamental
- garantindo
- geografia
- grande
- grupos
- habilidades
- hierarquias
- historicamente
- história
- hoje
- hortas
- humanos
- híbrida
- identificar
- idiossincrasias
- ignorando
- imaginar
- implica
- incentivando
- incluindo
- inclusive
- indivíduos
- influenciam
- influenciaram
- infraestructura
- iniciando
- inseparavelmente
- instituições
- instrui
- insumos
- intangível
- integrando-os
- interage
- interessadas
- interesses
- inédito
- junto
- justamente
- la
- lembrando
- levará
- listo
- livros
- longitude
- loteou
- mantendo
- mantém
- marcadas
- marcar
- marcenaria
- masque
- matemática
- materiais
- material
- matérias
- meios
- membro
- micro
- mobilizando
- modificar
- monitoramento
- mostrama
- mostrando
- mostrar
- mostro
- mostrou
- mudando
- muitas
- mulher
- mulheres
- nabusca
- naturais
- necessariamente
- nesse
- neste
- normalmente
- novamente
- novas
- novos
- objeto
- ocorre
- oferecendo
- oficinas
- onde
- ondeformas
- open
- opera
- ora
- ordenadas
- organizacionais
- organizacionaletc.O
- oscódigos-fonte
- outra
- outros
- p.
- parausar
- parece
- participando
- participava
- participação
- particularizando
- passando
- passava
- pautados
- pequenas
- permite
- permitido
- pero
- pesquisadores
- podem
- podemos
- políticos
- pondo-se
- pormeio
- porque
- porém
- possibilita
- posso
- possui
- posteriormente
- preferencialmente
- premiando
- prendemos
- prendendo
- preocupado
- presente
- preza
- principal
- principalmente
- privilegia
- problem-solving
- problemas
- procedimentos
- processos
- produtos
- produzindo
- produzir
- produção
- proferido
- professor
- proibiu
- promove
- promovendo
- propiciando
- proponho
- proporcionar
- propõe
- práticas
- puede
- quais
- quali
- qualquer
- quanto
- queinventores
- queoferece
- quer
- queria
- questões
- quis
- raramente
- realizadas
- recoloca
- recomendando
- recondicionamento
- recondicionando
- reconfigurando
- reconhecendo
- reconhecer
- reconstituindo
- recorrer
- recursos
- redes
- redesenhaos
- reenquadra
- referente
- registrar
- relaciono
- relativos
- relatos
- repetem
- repetidamente
- residem
- respectivamente
- responsável
- ressaltando
- resta
- restaram
- resultado
- resultantes
- rio
- ritualista
- rodutos
- saberes
- sabidamente
- saindo
- saltaram
- seguindo
- sendo
- senhora
- servindo
- sete
- sim
- simultaneamente
- sintetiza
- sistemas
- sites
- situação
- sob
- sobretudo
- sociais
- social
- socialmente
- sociedade
- subiam
- such
- tal
- talvez
- tanto
- tantona
- tecnologia
- tecnologias
- tecnología
- tecnológicos
- temperatura
- tendo
- tento
- terminou
- the
- things
- tidas
- tinta
- to
- tomando
- torna
- torna-se
- torna-seuma
- tornando-semuito
- trabalhando
- trabalho
- tradução
- transforma
- transformando
- transitando
- transporte
- trata
- traz
- trazendo
- traçando
- três
- técnicas
- técnico
- umavisitana
- universidades
- usualmente
- utilizando
- utilizo
- utilizoaabordagem
- vale
- valores
- valorizando
- variando
- vem
- ver
- vindo
- visando
- visitando
- visto
- vivienda
- vão
- ão
+AST
 AST 
 AST descritas
 AST devem
@@ -578,6 +22,7 @@ Agora
 Ainclusão proposta
 Ainda tomando
 Alimentação Escolar
+Almeida
 Alternativas Tecnológicasassociar
 Alternativas tecnológicasEntende-se
 AngloGold Ashanti
@@ -593,6 +38,7 @@ Ara=ave açu=grande
 Araras Grandes
 Arassussa 
 Arassussa .
+Araçuaí
 Araçuaí 
 Araçuaí -afluente
 Araçuaí -especialmente
@@ -621,14 +67,15 @@ Avaliação -PTAO
 Avaliação Pública
 Avina .
 Ação Social
-BA 
 BIJKER 
 BORGES et
+BRANDÃO
 BRANDÃO eNOVAES
 BRASIL 
 BTS 
 Banda Larga
 Barragens afirmar
+Bartlet
 Belo Horizonte
 Belo Horizonte/MG
 Big Mapa
@@ -636,9 +83,11 @@ Big Mapa.Como
 Big Mapacondensa
 Big Mapareflete
 Big Mapaé
+Boa
 Boa Vista
 Borges et
 Borges etal
+Brandão
 Brasil 
 Brasil .
 Brasil.Aqui 
@@ -697,12 +146,12 @@ Carmo Ferreira
 Cartonagem 
 Casa Boa
 Centro Popular
+Cidade
 Cinema Meninos
 Cirandas 
 Ciência 
 Claros .
 Climaticamente 
-Co-produção 
 Complementarmente :
 Computaçãona Universidade
 ComunidadeComo ocorreu
@@ -722,6 +171,7 @@ Contudo
 Convencional 
 Convencional Capitalista
 Convencional capitalista
+Cooperativa
 Cooperativa Dedo
 Cooperativa concentra
 Cooperativas Populares
@@ -737,8 +187,11 @@ Curvelo/MG
 DAGNINO 
 DIAS 
 DIAS :
+DUARTE
 DUARTE eMENEGASSE
+Dagnino
 Dagnino 
+Dedo
 Demanda 
 Dentro dessa
 Desamparadas 
@@ -757,21 +210,6 @@ Durante/Em construçãoO
 EES frente
 EESs 
 EESs .
-ES 
-ES -possa
-ES .
-ES :
-ES ?
-ES consegue
-ES consiga
-ES costuma
-ES enquanto
-ES existirem
-ES podem
-ES tomam
-ES visando
-ES.A seguir
-ES.O caráter
 ESe outras
 ESno Brasil
 ESpor meio
@@ -779,8 +217,6 @@ Economia Solidária
 Educacional 
 Educação 
 Educação durou
-El problema
-En la
 Enfatizam 
 Engels 
 Ensino Fundamental
@@ -793,27 +229,13 @@ Estado
 Estado providenciar
 Estadual vai
 Estudos CTS
+Excel
 Excel 
 FBB 
 FBB .
 FBB compreende
 FBB vai
 FRESSOLI 
-FS 
-FS .
-FS :
-FS ;
-FS associou
-FS coloca
-FS colocaalgumas
-FS continua
-FS cria
-FS cumpre
-FS diferente
-FS durante
-FS precisava
-FS pretende
-FS.O SGMN
 Fabriqueta Cinema
 Fabriquetas 
 Fabriquetas :
@@ -826,6 +248,7 @@ Federal.●O Sítio
 Finais 
 Fonte :
 Fuchs 
+Fundação
 Fundação Avina
 Fundação Banco
 Fundação Itaú
@@ -864,12 +287,14 @@ Histórico/estático
 Hoje 
 Horizonte .
 Horizonte/MG 
+Hughes
 Hughes 
 Hughes propicia
 Hughes vai
 I. Mostro
 I.Com 
 IBGE 
+INPE
 INPE prontas
 IPEA 
 Implicações 
@@ -900,9 +325,6 @@ Jequitinhonha/MG .
 Jogos 
 Kelloggs 
 LATOUR 
-La 
-La adecuación
-La única
 Lagoão 
 Lagoão -e
 Lagoão .
@@ -918,7 +340,6 @@ MARTINS
 MEDEIROS 
 MELLO 
 MENEGASSE 
-MG 
 MINC 
 Magento .
 Mapa 
@@ -933,7 +354,10 @@ MaravilhaO sítio
 Marcenaria 
 Marco analítico-conceitual
 Mata Atlântica
+Medeiros
+Menegesse
 MetodológicasA polissemia
+Minas
 Minas 
 Minas Gerais
 Momento Durante/Em
@@ -947,6 +371,7 @@ Mudanças Climáticas
 Muitas atividades
 Muitas vezes
 Município 
+Muriaé
 Médio Jequitinhonha
 Médio Vale
 Nascentes :
@@ -1013,9 +438,9 @@ PINHO-TAVARES et
 PNAE 
 PNBL envolve
 PNBL ver
-PT 
 PTA funciona
 Padre Carlos
+Paracatu
 Paracatu 
 Paraque tudo
 Paulo 
@@ -1026,6 +451,7 @@ Petrobras
 Petrobras .
 Petrobras Distribuidora
 Petrobras Socioambiental
+Pinch
 Políticas Públicas
 Político Pedagógico
 Ponte Nova
@@ -1034,10 +460,12 @@ Portal Comunitário
 Porém 
 Posteriormente 
 Posteriormente apresentei
+Potencial/Especulativo
 Potencial/EspeculativoEsse momento
 Prefeita Cacá
 Prefeitura Municipal
 Preto -UFOP
+Produzindo
 Produzindo Sistemas
 Programa Nacional
 Programa Petrobras
@@ -1058,11 +486,15 @@ Quais novos
 Quais outras
 Quais vínculos
 ROCHA 
+Raposos
+Raposos/MG
 Referencial TeóricoOobjetivo
 Relatório Social
+Resultado/Implicações
 Resultado/Implicações 
 Retomo 
 Reversos salientes
+Rio
 Rio Araçuaí
 Rio Jequitinhonha
 Rocha 
@@ -1072,7 +504,6 @@ Rocha afirma
 Rocha consegue
 Rocha realiza
 RodaA pedagogia
-S 
 SANDOVAL 
 SANTOS 
 SGMN 
@@ -1093,6 +524,8 @@ STALLMAN
 STS 
 SabãoA pedagogia
 Santo Antônio
+Santos
+Schwartz
 Secretaria Nacional
 Segundo Rocha
 Sementinha 
@@ -1102,6 +535,7 @@ Ser-Criança
 Ser-Criança.As Fabriquetas
 Ser-CriançaO Ser-Criança
 Serralheria 
+Singer
 Sistemas Neste
 Sociais 
 Social 
@@ -1135,49 +569,14 @@ Sítio Maravilha
 Sítio MaravilhaO
 T @
 T. 
-TC 
-TC .
-TC ;
 THOMAS 
 THOMAS eFASSOLI
 TICs sedão
 TICs.Este trabalho
 TICsna ES
-TS 
-TS .
-TS :
-TS ;
-TS ?
-TS abre
-TS afeta
-TS aproveitando
-TS assume
-TS compreende
-TS convergem
-TS desempenha
-TS deve
-TS disputar
-TS edaES
-TS frente
-TS iniciativas
-TS mostra
-TS parte
-TS passa
-TS permite
-TS possibilita
-TS produz
-TS proporcionou
-TS quanto
-TS.Conjunto Conhecimentocompreender
-TS.Conjunto Entorno
-TS.Conjunto Sustentabilidade
-TS.Essa percepção
-TS.FONTE :
-TS.Nesse sentido
-TS.Os insumos
-TS.Por fim
 TSConjuntoAtividades guiaConjunto
 TScomo resultado
+Tecnologia
 Tecnologia Convencional
 Tecnologia Social
 Tecnologia SocialComo
@@ -1188,9 +587,12 @@ Teixeira .
 Tendo consciência
 Tendo sabido
 Teoria Crítica
+Teófilo
 Teófilo Otoni
 The stability
 They are
+Thomas
+Tião
 Tião 
 Tião -em
 Tião Rocha
@@ -1200,8 +602,8 @@ Tião clicava
 Tião convoca
 Tião faz
 Tião respondeu
+TiãoRocha
 TiãoRocha transforma
-To talk
 Trabalhadores -PT
 UFOP 
 UFOP.O projeto
@@ -1223,9 +625,8 @@ Vista
 Vista .
 Word 
 XIX 
-XX .
-XX devido
 aAraçuaí funciona
+aassociação
 able to
 abordado anteriormente
 abordagem 
@@ -1234,12 +635,15 @@ abordagem marxista
 abordagem mostra
 abordagem sociotécnica
 abordam diversos
+abordando
 abordando temas
 abordar 
 abordar temas
 abordar.Ao final
+abordo
 abrangente .
 abre espaço
+abre-se
 abrindo espaço
 abrir portas
 absorvendo práticas
@@ -1249,6 +653,7 @@ abstrato
 abstrato pouco
 absurda 
 acaba ressoandoem
+acabam
 acadêmica .
 acarreta .
 accurately an
@@ -1259,9 +664,11 @@ acesso àinternet
 acessível .
 achievement in
 acidentado 
+acima
 acima 
 acima referido
 acolhimento .
+acompanhado
 acompanhou durante
 acoplar elementos
 acordo .
@@ -1270,8 +677,11 @@ acumulam água
 acumulação esperadas
 acumulação flexível
 acumulação privadado
+adaptación
+adaptando
 adaptação simples
 adelantados .
+adensando
 adequadaaos problemas
 aderente .
 aderentes 
@@ -1283,6 +693,7 @@ adotando critérios
 adoção completa
 adquiriuma outra
 adubo 
+afeta
 afetarem uns
 afirma :
 afirmado anteriormente
@@ -1293,20 +704,25 @@ agenciamentos sociotécnicos
 agenda interativa
 agentes comunitários
 aglomeração reconfigura
+agora
 agradavelmente situada
+agrega
 agregaram cada
 agricultores familiares
 agricultura .
 agricultura familiar
 agricultura local
 agricultura quanto
+agroecologia
 agroecologia 
 agropecuária .
 agrícola 
 agrônomo 
 aguçado sentido
 agências tecnocientíficas
+ahistória
 ahorros sociales
+ainda
 ainda 
 ainda apresenta
 ainda chamam
@@ -1315,15 +731,19 @@ ainda menos
 ainda traz
 ainda ’
 ainfraestruturas necessárias
+ajuda
 ajudaetc 
+ajudou
 ajustes 
 ajustes necessários
-al 
 alaga completamente
+alagariam
 alcançada.Em suma
+aldeia
 aldeia 
 aldeia localizada
 alfabetização 
+algo
 algo 
 algo fundamental
 algo único
@@ -1334,6 +754,7 @@ alguma forma
 alguma modificação
 alguma outra
 alguma quero
+algumas
 algumas avançando
 algumas estratégias
 algumas fotos
@@ -1357,7 +778,9 @@ alguns pontos
 alguns poucos
 alguns valores
 ali estudados
+aliado
 alienado convencional.A
+alimentando
 alimentação .
 alimentos supre
 alinham 
@@ -1365,6 +788,7 @@ almejadas dinâmicas
 alocado neste
 alterado 
 alteram profundamente
+alternativa
 alternativa 
 alternativa -TS
 alternativa :
@@ -1379,21 +803,24 @@ altitude
 altitude média
 alvo 
 alvo ’
+ambientais
 ambientais 
 ambientais .
 ambientais ?
 ambientais relativamente
+ambiental
 ambiental 
 ambiental .
 ambiental.Conjunto Sustentabilidade
+ambientalmente
 ambientalmente sustentáveis
 ambiente 
 ambiente democrático
 ambiente produtivo
 ambiente tudo
 ampla 
-an important
 analfabetismo precoce
+analisada
 analisar .
 analisar experiências
 analítica quanto
@@ -1402,6 +829,7 @@ analítico .
 analítico conceitual
 analítico-conceitual daTecnologia
 analítico/explicativo preocupado
+and
 and if
 and maintain
 and natural
@@ -1442,11 +870,13 @@ análise sociotécnica
 análises 
 análises convencionais
 análises convencionais.Para
+análogas
 aparatos símbolos
 aparecem .
 aparelhos GPSs
 aparente sinergia
 apelo feito
+apenas
 apenas alguns
 apenas deJanuária
 apenas demandas
@@ -1457,6 +887,7 @@ apenas oportuna
 apenas produtos
 apenas produzindo
 apertado .
+apesar
 aplicada 
 aplicação 
 aplicação .
@@ -1464,8 +895,12 @@ aplicação ArcGIS
 apoio .
 apoio principalmente
 aponta Mackenzie
+apontam
+aponto
 aportar soluções
+apostilas
 apostilas 
+aprendemos
 aprendizado gerado
 aprendizagem 
 aprendizagem técnica
@@ -1478,12 +913,17 @@ apresentado acima
 apresentado anteriormente
 apresentam poucas
 apresentam projetos
+apresentando
 apresentando aspectos
 apresentavam desempenho
+apresentei
 apresentei alguns
 apresentei anteriormente
+apresento
 apresento algumas
 apresento brevemente
+aprodução
+aprofundando
 aprofundá-las.O SGMN
 apropriada segundo
 apropriado .
@@ -1491,13 +931,16 @@ apropriação :
 apropriação privada
 aproprio sintaticamente
 aproveitadas 
+aproveitar-sede
 aproveitar-sede recursos
 aproxima bastante
 aproxima múltiplas
 aproximar aspectos
 aproximar tanto
+após
 após oito
 apósa modificação
+aqui
 aqui 
 aqui .
 aqui colocados
@@ -1505,7 +948,6 @@ aqui empregada
 aqui entendido
 aqui fazer
 aquisição 
-ar .
 arara azul
 araras 
 are both
@@ -1556,6 +998,7 @@ artigos produzidos
 aserem desenvolvidas.De
 aseus parceiros
 aspect of
+aspecto
 aspecto central
 aspecto construído
 aspecto fundamental
@@ -1573,6 +1016,7 @@ assistência técnica
 associa conhecimentos
 associa softwarecom
 associada 
+associando
 associar inclusão
 associação 
 associação .
@@ -1584,6 +1028,7 @@ assumir formas
 assunto 
 assuntos pertinentes
 atendam demandas
+atende
 atende cerca
 atende crianças
 atende demandas
@@ -1603,6 +1048,7 @@ atividade executada
 atividade periódica
 atividade produtiva.A
 atividade situada
+atividades
 atividades 
 atividades -ou
 atividades .
@@ -1640,11 +1086,13 @@ atores percebem
 atores quanto
 atores reconfigura
 atores sociais
+atraindo
 atraindo grande
 atrasam 
 atribuir coordenadas
 atributos -capacidade
 atributos apontam
+atrás
 atrás apenas
 atua 
 atua -o
@@ -1653,18 +1101,26 @@ atua.As mudanças
 atuais 
 atuais patrocinadores.●O
 atual 
+atualItira
 atualItira 
 atualcoordenador geral
+atuam
+atuando
 atuação 
 atuação .
 atuação múltipla
 atéos educadores
 audiovisual .
+aumentando
+aumentar
 autodidata 
+autodidatas
 autodidatas 
 autogestionárias .
 autogestionário .
+autogestão
 autogestão 
+autonomia
 autonomia 
 autonomia envolve
 autonomia política
@@ -1708,6 +1164,7 @@ ações prévias
 ações tendentes
 aéreas 
 aéreas periódicas
+aún
 aún 
 bacia hidrográfica
 bacia hidrográficado
@@ -1717,6 +1174,7 @@ baixa precipitação
 baixo custo
 baixos .
 banco 
+bancos
 banda larga
 banheiro seco
 banheiros secos
@@ -1725,8 +1183,10 @@ base alternativa
 base cognitiva
 base comum
 base material
+baseados
 bases cognitivas
 basicamente trilhadas
+basta
 basta compreender
 bastante claro
 bastante democrático
@@ -1737,9 +1197,10 @@ bastante prolongada
 bastante questionáveis
 bastante representativa
 bastante sólido
+bastaria
 batalha 
-be able
 bebida alcóolica
+bem
 bem entenderem
 bem expressa
 bem poderia
@@ -1755,6 +1216,7 @@ bolsa fixa
 bons costumes
 bordas 
 bordéis 
+both
 both social
 both socially
 brasileira 
@@ -1768,6 +1230,7 @@ buscar compreender
 buscar nesse
 buscar novos
 buscar parceiros
+but
 but it
 básica dasTICs
 básicas 
@@ -1829,6 +1292,7 @@ capacidade criada
 capacidade criativa
 capacidade largamente
 capacidade técnica
+capacidades
 capacidades 
 capacidades agrupando
 capacidades autônomas
@@ -1887,10 +1351,13 @@ característicasalteradas
 característicastécnicas .
 carente .
 carga horária
+carpintaria
 carpintaria 
 carrega consigo
 carregam consigo
 carreira acadêmica
+cartilhas
+cartonagem
 cartonagem 
 caráter :
 caráter ambiental
@@ -1906,6 +1373,7 @@ caráter tridimensional
 caráter tácito
 casa 
 casas 
+caso
 caso 
 caso onde
 caso particular
@@ -1941,6 +1409,7 @@ centros urbanos
 cenário comum
 cenário surgiu
 cenários específicos
+cerca
 certa cadeia
 certa escala
 certa forma
@@ -1950,6 +1419,7 @@ cestas .
 cestas básicas
 chamada Luciana
 chamadas fabriquetas
+chamado
 chamado Fabriqueta
 chamam atenção
 change .
@@ -1966,6 +1436,8 @@ chapada funciona
 chapada inviabilizou
 chapada.O projeto
 chaves oferece
+chegando
+chegou
 chove 
 chove grande
 chuva 
@@ -1973,6 +1445,7 @@ chuva .
 chuvas 
 chuvas ainda
 cicatrizes profundas
+cidade
 cidade 
 cidade .
 cidade cede
@@ -1985,9 +1458,11 @@ cidade.O CPCD
 cidades 
 cidades .
 cidades onde
+cidadã
 cidadã 
 cidadã causada
 cidadão chegue
+cientistas
 cientistas 
 científico 
 científico-tecnológico abre
@@ -1999,6 +1474,7 @@ cinco meses
 cinco seções
 circuito convencional
 circula.Em Costa
+circulam
 cisterna .
 cisternas 
 cisternas ;
@@ -2022,11 +1498,6 @@ cliente
 clientes .
 clima semiárido
 clássicos onde
-co-definem 
-co-organizados 
-co-produção 
-co-produção sociotécnica
-co-produçãoapresentam 
 coercitivo 
 coesa onde
 cofres municipais
@@ -2036,10 +1507,12 @@ cognitiva específica
 cognitivas 
 cognitivas necessárias
 cognitivos 
+coisa
 coisas 
 coisas .
 colegial ainda
 coleta 
+coletando
 coletando dados
 coletar dados
 coletar informações
@@ -2050,30 +1523,38 @@ coletivos engajados.Assim
 coletivos exteriores
 coletânea 
 colina isolada
+coloca
 coloca 
 coloca ?
 coloca Dagnino
 colocaalgumas questõesfundamentais
 colocada acima
 colocam 
+colocando
 combinação 
 comentado 
 comentei anteriormente
 comercial tornou-se
 começa outra
+começaram
+começou
 começou ali
 cominhodo Software
 comoutros propósitos
 comparada ainfraestruturas
 comparar fotos
 compartilhada pelaprática
+compartilham
 compará-las .
 compatibilidad con
+compilado
 completa 
 completamente equipada
+complex
 complex 
 complexas 
 complexidade 
+complexos
 complexos 
 componente 
 componente atua
@@ -2094,18 +1575,24 @@ components of
 composição 
 composição .
 composição geomorfológicas
+composta
 comprada ?
 compras públicas
+compreende
 compreende TS
+compreende-se
 compreende-se bem
 compreendem apenas
+compreendendo
 compreendendo melhor
+compreender
 compreender condições
 compreender dois
 compreender domínios
 compreender fenômenos
 compreender melhor
 compreender posteriormente
+compreendidos
 compreensão 
 compreensão .
 compreensão permite
@@ -2121,8 +1608,10 @@ comum -e
 comum .
 comum entreos
 comum objetivada
+comunicaciones
 comunicaciones 
 comunicar 
+comunidade
 comunidade 
 comunidade -das
 comunidade -são
@@ -2143,6 +1632,7 @@ comunidade x
 comunidade.Conjunto Dinâmica
 comunidade.De fato
 comunidade.O quadro
+comunidades
 comunidades 
 comunidades .
 comunidades deu
@@ -2157,6 +1647,7 @@ comunitário sustentável
 comunitários mirins
 con la
 con los
+conceber
 conceber -intencionalmente
 conceber alternativas
 conceber ferramentas
@@ -2184,9 +1675,12 @@ concepções freireanas
 conciliáveis .
 conclui Jesus
 concluo éque
+concordo
 concretas 
 concreto 
 concreto suspensa
+condicionam
+condicionando
 condicionando estruturas
 condicionante 
 condicionantes exige
@@ -2210,9 +1704,11 @@ conflitos
 conflitos .
 confluir diferentes
 confluênciade valoresentre
+conformam
 conformam topologias
 conformação dessa
 conformação técnica
+confundindo
 confundindo causa
 confusos 
 confusão lógica
@@ -2229,6 +1725,7 @@ conhecimento produtivo
 conhecimento produzido
 conhecimento tecnocientífico
 conhecimento.A visão
+conhecimentos
 conhecimentos científicos
 conhecimentos locais
 conhecimentos necessários
@@ -2240,6 +1737,7 @@ conjunto .
 conjuntosa serem
 conjunção oportuna
 conquista frequentemente
+conscientização
 conscientização política
 consciência corporal
 consegue alinhar
@@ -2256,6 +1754,7 @@ conseguir recursos
 conseguir separar
 conseguiram lidar
 conseguissem melhores
+consequentemente
 consequentemente 
 consequentementeaexclusão 
 consequências analíticas
@@ -2264,7 +1763,9 @@ conservação
 conservação ambiental
 conservação deve
 conservação promovidos
+considerada
 considerada fundadora
+considerando
 considerações finais.No
 considerável 
 consigo 
@@ -2282,7 +1783,9 @@ constituted of
 constituída concomitantemente
 constituídaspor meio
 constructed and
+construindo
 construindo conhecimento
+construir
 construir 
 construir aqui
 construir estratégias
@@ -2303,6 +1806,7 @@ construção técnica
 construçãoO momento
 construçãoda demanda
 construções técnicas
+construída
 construída .
 construídas duas
 construídas historicamente
@@ -2328,11 +1832,14 @@ contexto sociotécnico
 conteúdo .
 conteúdo ;
 conteúdo institucional
+conteúdos
 continua 
 continua sendo
 continua situada
 continua utilizando
 continuidade analítica
+contou
+contra
 contra .
 contra coleta
 contra omercado
@@ -2343,11 +1850,14 @@ contradições presentes
 contraponto 
 contrato social
 contraturno escolar
+contribuem
 contribuem direta
 contribuempara estabelecer
+contribui
 contribuições apresentadas
 contribuições conceituais
 contribuições interessantes
+controle
 controle 
 controle capitalista
 controle centralizado
@@ -2374,12 +1884,14 @@ convencionalmente utilizadas
 conversar 
 conversas 
 convidado aassumir
+convivem
 convivem hoje
 cooperados 
 cooperativa Dedo
 cooperativa atua
 cooperativa criada
 coordenadas geográficas
+coordenador
 coordenador geral
 coradas 
 corpo administrativo
@@ -2403,14 +1915,17 @@ crescente movimentação
 crescente movimento
 crescente procura
 crescer avançando
+crescimento
 crescimento 
 crescimento .
 crescimento dificilmente
 crescimento econômico
 crescimento estável
+criada
 criada devido
 criam componente
 criam valor-de-uso
+criando
 criando cadeias
 criando oportunidade
 criança 
@@ -2420,6 +1935,7 @@ crianças dispersas
 crianças distribuídas
 crianças divididas
 crianças sozinhas
+criar
 criar condições
 criar formas
 criar oportunidade
@@ -2445,15 +1961,20 @@ crítico levanta
 crítico normalmente
 críticoAqui 
 críticos 
+ctors
 ctors create
+cuidando
 cultura 
 cultura .
 cultura local
 culturais .
 culturales .
 cumpra comoutros
+cumpre
 cumpre nesse
+cumprem
 cumprido .
+cumprindo
 cunho ambiental
 currículo formal
 cursos d
@@ -2470,6 +1991,7 @@ dada comunidade
 dada questão
 dada solução
 dadas 
+dado
 dado queéconformada
 dados 
 dados -não
@@ -2483,8 +2005,10 @@ dados hidrológicos
 dados obtidos
 dados qualitativos
 dados rápidas
+dando
 dando liberdade
 dando origem
+dandoorigem
 daqueles predominantes
 dar apoio
 dar conta
@@ -2492,6 +2016,7 @@ dar continuidade
 dar voz
 dareceita gerada
 dasTICs 
+data
 datadas .
 dava tempo
 deArassuay.E posteriormente
@@ -2499,6 +2024,7 @@ deDona Luciana
 deJanuária 
 debaixo impacto
 decampoe palestras
+decidiu
 decidiu plantar
 decisión social
 decisão democrática
@@ -2531,6 +2057,7 @@ del sociólogo
 del uso
 delasnão opera
 delimitar onde
+demanda
 demanda 
 demanda .
 demanda antes
@@ -2546,6 +2073,7 @@ demanda original
 demanda produzindo
 demanda real
 demanda/capacidade/solução .
+demandas
 demandas 
 demandas -são
 demandas .
@@ -2564,13 +2092,16 @@ demandas tomam
 demandas utilizando
 demandase transforma
 democratização econômica
+demos
 demos lucro
 denotaum futuro
 depedras preciosas
 depende apenas
+dependem
 dependendo .
 dependência econômica
 derecursos 
+derivada
 derivado propõe
 derrubada -prática
 desafio científico-tecnológico
@@ -2578,13 +2109,18 @@ desafios cognitivos
 desafios materiais
 desagregar grupos
 desamparadas 
+desarrollados
 desarrollados .
 desarrollo 
+descartando
 descartando tudo
 descarte correto
+descem
 descreve justamente
 descreve parte
 descreve relações
+descrevo
+descrevocomo
 descrita acima
 descritas anteriormente
 descritivo 
@@ -2593,6 +2129,7 @@ descritivo anterior
 descrito acima
 descritos anteriormente
 descrição organizacional
+desde
 desde locais
 desde mudas
 desempenha frente
@@ -2600,6 +2137,7 @@ desempenho escolar
 desenvolve .
 desenvolve projetos
 desenvolvedor 
+desenvolvendo
 desenvolvendo atividades
 desenvolver atividadesque
 desenvolver novas
@@ -2612,11 +2150,13 @@ desenvolver soluções
 desenvolver tecnologia
 desenvolveu .
 desenvolvida 
+desenvolvidas
 desenvolvidas tecnologias
 desenvolvido 
 desenvolvido ?
 desenvolvido localmente
 desenvolvidos atendem
+desenvolvimento
 desenvolvimento 
 desenvolvimento .
 desenvolvimento ?
@@ -2630,6 +2170,7 @@ desenvolvimento pautado
 desenvolvimento sustentado
 desenvolvimento tecnológico
 desenvolvimento.Na primeira
+desenvolvium
 desenvolvium softwareque
 deseus membros
 desfavoráveis .
@@ -2639,11 +2180,17 @@ desimportantes
 desincorporada 
 desincorporado -no
 deslocamento coloca
+desmistificandoo
 desmistificandoo discurso
+desnecessariamente
 desnecessariamente 
 desolado 
 desoneração fiscal
+desprovida
+desprovidos
+desrespeitando
 desrespeitando fronteiras
+dessa
 dessa TS
 dessa aparente
 dessa associação
@@ -2684,8 +2231,10 @@ dessas tecnologias
 desta dissertação
 desta seção
 desta vez
+destaca-se
 destacada .
 destacado 
+destacando
 destacar aqui
 destacoa importância
 deste capítulo
@@ -2703,6 +2252,7 @@ deu origem
 deu principalmente
 devagar .
 devam compreender
+deve
 deve 
 deve apontar
 deve considerar
@@ -2714,12 +2264,14 @@ deve então
 deve orientar
 deve seguir
 deve sempre
+devem
 devem concentrar
 devem criar
 devem materializar
 devem operar
 devem servir
 devida 
+devido
 dez cidades
 dia .
 diariamente .
@@ -2727,9 +2279,12 @@ dias
 dias atuais
 diatodo .
 didática 
+diferente
 diferente .
 diferente nessas
 diferente.Ao final
+diferentemente
+diferentes
 diferentes 
 diferentes .
 diferentes atores
@@ -2789,6 +2344,7 @@ dimensões .
 dimensões analíticas
 dimensões tecnologia
 diminui drasticamente
+diminuindo
 dinâmica coletiva
 dinâmica familiar
 dinâmica interessante
@@ -2820,7 +2376,9 @@ discursos trazidos
 discussão 
 discussão .
 discussões democráticas
+discutidos
 discutidos problemas
+disponha
 disponibilidade 
 disponíveis 
 disponíveisde forma
@@ -2829,16 +2387,23 @@ disponível .
 disponível ocódigo
 disponível quanto
 disponívelem Almeida
+dispositivos
 dispositivos jurídicos
+dispõe
 dispõem 
+disseminar
 dissertação .
 disso 
+dissolvendo
 distinta 
+distintas
+distintos
 distintos .
 distintos ;
 distintos autores
 distintos daqueles
 distinção absoluta
+distribuição
 distribuição dareceita
 distribuição dessas
 distribuição específica
@@ -2849,6 +2414,7 @@ distribuído sob
 ditas incompatíveis
 dito anteriormente
 dito inicialmente
+diversas
 diversas 
 diversas ações
 diversas cidades
@@ -2879,6 +2445,7 @@ diversas relações
 diversas vezes
 diversas visitas
 diverso produzido
+diversos
 diversos atores
 diversos componentes
 diversos diálogos
@@ -2895,12 +2462,15 @@ diversos projetos
 diversos setores
 diversos temas
 diversão 
+divisão
 divisão 
 divisão oportunista
 divisão temporal
 divisão técnica
+diz
 diz contra
 diz respeito
+dizem
 dizer 
 dizer contemporâneodos
 diálogo 
@@ -2911,9 +2481,11 @@ diário fotográfico
 doCPCD 
 doFundo Nacional
 docapitalismo 
+doces
 doces 
 documentos necessários
 documentos sistematizados
+dois
 dois 
 dois aspectos
 dois atores
@@ -2968,12 +2540,15 @@ duplo caráter
 duranteo processo
 durou pouco
 dá justamente
+déficit
 déficit hídrico
 e-commercecomo Magento
+e-mailsdo
 e-mailsdo Googlee
 eFASSOLI 
 eMENEGASSE 
 eNOVAES 
+eao
 economia capitalista
 economia formal
 economia formal.Conjunto
@@ -2981,16 +2556,20 @@ economia informal
 economia solidária
 economicamente dependente
 economicamente satisfatórias.Metodologicamente
+econômica
 econômica 
 econômica .
 econômica ?
 econômica devido
 econômica global
+econômicas
 econômicas 
+econômico
 econômico 
 econômico :
 econômico gerado
 econômico nela
+econômicos
 econômicos 
 econômicos .
 edaES talvez
@@ -3008,6 +2587,7 @@ educadores
 educadores quanto
 educativas pautadas
 educativos utilizados
+educação
 educação 
 educação .
 educação ambiental
@@ -3027,12 +2607,11 @@ eixo temporal
 eixos 
 eixos :
 eixos devam
-el elemento
-el futuro
-el sentido
 eladedica grande
+elaera
 elaera ex-aluna
 eleita prefeita
+elemento
 elemento autoexplicativo
 elemento essencial
 elemento exógeno
@@ -3054,6 +2633,7 @@ emancipação digital
 embalagens usadas
 emblemático 
 emergir lideranças
+emerjam
 emerjam demandas
 empoderamento 
 empoderamento comunitário
@@ -3082,15 +2662,8 @@ empresas.Como observa
 empírica contribui
 empíricas pontuais
 empírico dessa
+emum
 emum hospital
-en desarrollo
-en el
-en la
-en los
-en modo
-en sistemas
-en terceros
-en vías
 encaixa .
 encerrado 
 encontradas duranteo
@@ -3098,11 +2671,14 @@ encontram disponíveis
 encontram vulneráveis
 encontrar oportunidades
 encostas .
+enfatiza
 engajados.Assim 
 engajamento político
 engajamento social
 enganoso .
+engenheiro
 engenheiro agrônomo
+engenheiros
 enorme quantidade
 enorme valor
 enormes fazendas
@@ -3114,11 +2690,14 @@ ensinagem/aprendizagem reaparece
 ensino técnico
 ensinoFONTE :
 entenderem 
+entendida
+entendidas
 entendimento comum
 entorno sociotécnico
 entorno.O produto
 entrada derecursos
 entregar aseus
+entremicro
 entreos membros
 entrevista 
 entrevistadas .
@@ -3129,6 +2708,7 @@ entrevistados sempre
 entrevistas 
 entrevistas realizadascom
 entrevistassemiestruturadas presenciais
+então
 então 
 então :
 então diminuímos
@@ -3136,10 +2716,12 @@ então excluídos
 enuncia 
 enunciamo problema
 enunciável .
+envolve
 envolve mobilizar
 envolve principalmente
 envolve tanto
 envolvea compreensão
+envolvendo
 envolvendo processos
 envolvida 
 envolvido 
@@ -3147,16 +2729,16 @@ envolvidos
 envolvidos .
 enxurrada 
 enxurradas.Essa associação
+eobservá-la
 eobservá-la dessa
+epela
 epela organização
 equacionamento ?
 equipada 
 equipamento 
+equipamentos
 equipamentos digitaispor
 equipamentos mediante
-es el
-es necesario
-es recuperar
 escala 
 escala .
 escala atendem
@@ -3176,6 +2758,7 @@ escolas
 escolas públicas
 escolas rurais
 escolas.Logo após
+escolha
 escolha estratégica
 escolhas analíticas
 escolhas estratégicas
@@ -3186,6 +2769,7 @@ escolher
 escolher ?
 escolher outros
 escolher utilizar
+escondendo
 escrever 
 escritórios onde
 esfera pública
@@ -3204,8 +2788,10 @@ espaço institucional
 espaço.Como crítica
 espaçosda casa
 especial 
+especialmente
 especialmente Dagnino
 especialmente considerando
+especialmenteas
 especialmenteas construídas
 especificidade .
 específica 
@@ -3228,6 +2814,7 @@ estabelece podem
 estabelece.Na segunda
 estabelecem 
 estabelecem .
+estabelecendo
 estabelecer posteriormente
 estabilização econômica
 estadia bastante
@@ -3235,6 +2822,7 @@ estado crítico
 estagnação econômica
 estar atento
 estariam relacionados
+estimulando
 esto requiere
 estratégia 
 estratégias tomadas
@@ -3255,9 +2843,10 @@ estática .
 estáticas .
 estável 
 estável .
-et al
+etc
 etc 
 etc .
+etc.
 etc. 
 evento envolvendo
 eventuais conflitos
@@ -3272,10 +2861,14 @@ executar
 exemplo 
 exemplo.O interesse
 exemplos clássicos
+exercita
+exercitam
 exercício criativo
 exige atenção
+exigindo
 exigindo apenas
 exist .
+existe
 existe 
 existe enquanto
 existe pouco
@@ -3293,6 +2886,7 @@ existir .
 existência .
 expansión en
 expansão 
+expectativas
 expectativas econômicas
 expectativas iniciais
 experiência 
@@ -3319,14 +2913,17 @@ explicativo/analíticoComo observa
 explicita conhecimentos
 explicitado anteriormente
 explicitamente ideológico
+explicitar
 explicitar 
 explorados .
 exploratórias 
 exploração 
+explícita
 explícita 
 expor 
 expresión social
 expressão máxima
+expõe
 extensa capacidade
 extensa rede
 extensas plantações
@@ -3335,10 +2932,12 @@ extrapolam oartefato
 extrativismo 
 extremamente específica
 exógeno condicionante
+fabricação
 fabriqueta 
 fabriqueta .
 fabriquetas .
 face of
+facilitando
 facilmente .
 facilmente separadas
 fail to
@@ -3359,6 +2958,7 @@ fantasmagórica
 fato 
 fator sempre
 fatores socioeconômicos
+faz
 faz .
 faz parte
 fazem contribuições
@@ -3366,14 +2966,17 @@ fazem parte
 fazem uso
 fazenda 
 fazendeiros 
+fazendo
 fazendo confluir
 fazendo emergir
 fazer educação
 fazer jus
 fazer negócios
 fazeres populares
+faço
 feitas 
 feito anteriormente
+felicidade
 felicidade 
 fenômeno tridimensional
 fenômenos complexos
@@ -3383,8 +2986,10 @@ ferramentas estratégicas
 ferramentas físicas
 ferramentas necessárias
 ferramentas produzem
+fez
 fez parte
 fez prontamente
+fica
 fica bastante
 fica claro
 fica difícil
@@ -3392,6 +2997,7 @@ fica viajando
 ficar dependendo
 ficaram impressionados
 ficará claro
+ficou
 ficou claro
 ficou conhecida
 figura geométrica
@@ -3413,8 +3019,11 @@ flexibilidade interpretativa
 flora local
 flutuante 
 focama relação
+focando
 foco deve
+folclorista
 folders 
+folhetos
 folhetos 
 fonte 
 fonte possa
@@ -3423,6 +3032,7 @@ fontee normalmente
 fontes .
 fontes convencionais
 forces 
+forma
 forma 
 forma alguma
 forma análoga
@@ -3463,6 +3073,7 @@ formal.Conjunto Sustentabilidade
 formalizadas 
 formar agentes
 formarão oseuentorno
+formas
 formas :
 formas alternativas
 formas coerentes
@@ -3491,6 +3102,7 @@ formulação marcou
 forneça recursos
 forte ligação
 fortemente marcada
+forçando
 forças 
 forças criativas
 forças potencialmente
@@ -3508,6 +3120,7 @@ freireanas
 frente fria
 frente àeconomia
 frentes :
+frequentemente
 frequentemente 
 frequentemente negligenciado
 frequentemente precária
@@ -3518,6 +3131,7 @@ fronteiras disciplinares
 frutíferas capazes
 funciona 
 funcionalidades .
+funcionam
 funcionamcomoreservatórios naturais
 funcionamento 
 funcionamento .
@@ -3528,7 +3142,9 @@ funcionar ounão
 funcionavamcomo esperado
 funcionários diretos
 fundado ali
+fundador
 fundamentais dessa
+fundamental
 fundamental 
 fundamental atentar
 fundamentalmente distintos
@@ -3553,6 +3169,7 @@ ganhando cada
 ganhando materialidade.Partindo
 ganhou nacionalmente
 garante :
+garantindo
 garantindo alguns
 garantir ações
 garantir caminhos
@@ -3563,6 +3180,7 @@ gastos pagos
 geleias 
 gente vai
 genéricos 
+geografia
 geografia 
 geografia etc
 geográficas específicas
@@ -3595,6 +3213,7 @@ governamentais .
 governança necessária
 governo 
 governo brasileiro
+grande
 grande beneficiária
 grande causa
 grande centro
@@ -3633,6 +3252,7 @@ grupo fica
 grupo grande
 grupo opera
 grupo possui
+grupos
 grupos 
 grupos agenciados
 grupos antes
@@ -3648,6 +3268,7 @@ guardar água
 guiaConjunto Descriçãodescrever
 habilidade 
 habilidade técnica
+habilidades
 habilidades 
 habilidades necessárias
 habilidades profissionais
@@ -3661,9 +3282,12 @@ heterogêneos quese
 heurística 
 heurística .
 hidrográficado município
+hierarquias
+historicamente
 historicamente 
 historicamente coesa
 historicamente persistentes
+história
 história 
 história brasileira
 história começa
@@ -3673,6 +3297,7 @@ histórica
 histórica estática
 histórico descritivo
 histórico/descritivo consiste
+hoje
 hoje 
 hoje atende
 hoje subutilizados
@@ -3680,6 +3305,7 @@ homens provenientes
 homogêneo 
 horizontal onde
 horta mandala
+hortas
 hortas mandalas
 horários foramestendidos
 horários referentes
@@ -3689,13 +3315,15 @@ http :
 humanas 
 humanas .
 humano quanto
+humanos
+híbrida
 hídrica tanto
 hídricos 
-ia sendo
 idade 
 idade .
 idealizadore atualcoordenador
 ideia supõe
+identificar
 identificar atividades
 identificar caminhos
 identificar caminhosgenéricos
@@ -3709,11 +3337,13 @@ ideológica contida
 ideológica explícita
 ideológico 
 idioma proposto
+idiossincrasias
 idiossincrasias 
 idiossincrasias próximas
-if they
+ignorando
 igualdade 
 imagens aéreas
+imaginar
 imaginar algo
 imbricam 
 imediato 
@@ -3729,6 +3359,7 @@ implantação.A perspectiva
 implantaçãode centros
 implantaçãode laboratórios
 implementação dessas
+implica
 implica atentar
 implica atividades
 implica también
@@ -3756,14 +3387,13 @@ imprescindível construir
 impressionados .
 impressões .
 imprime valores
-in our
-in question
-in search
-in the
 inalcanzable .
 inatividade -de
+incentivando
 incerteza tanto
+incluindo
 incluindo aqui
+inclusive
 inclusive 
 inclusão 
 inclusão .
@@ -3788,6 +3418,7 @@ indireta desde
 indiretas contra
 individuais 
 indivíduo 
+indivíduos
 indivíduos 
 indivíduos convivem
 industrial 
@@ -3795,7 +3426,9 @@ inerente tende
 infantil 
 infantil .
 infantis 
+influenciam
 influenciam diretamente
+influenciaram
 influenciaram profundamente
 informacionais .
 informal 
@@ -3807,6 +3440,7 @@ informações
 informações presentes
 informações ver
 informáticanas escolas
+infraestructura
 infraestructura y
 infraestrutura .
 infraestrutura ausente
@@ -3818,6 +3452,7 @@ infraestrutura necessária
 infraestrutura tecnológica
 inicial abreviada
 inicialmente abstrata
+iniciando
 iniciativa 
 iniciativa .
 iniciativa privada
@@ -3833,6 +3468,7 @@ inovação
 inovação incremental
 inovação radical
 inscritos 
+inseparavelmente
 inseparavelmente 
 insere ?
 insere justamente
@@ -3846,11 +3482,13 @@ institucional
 institucional bastante
 institucional necessário
 instituição parceira
+instituições
 instituições 
 instituições parceiras
 instituições públicas
 instituiçõeso empreendimento
 institutional 
+instrui
 instrui M.
 instrumentos 
 instável Ribeirão
@@ -3860,12 +3498,15 @@ insuficiência
 insuficiência explicita
 insuficiências 
 insumo 
+insumos
 insumos etc.
 insumos materiais
 insumos metodológicos
 insumos regionais
+intangível
 intangível 
 integram tanto
+integrando-os
 integrantes 
 integrantes .
 integrar.Como coloca
@@ -3876,15 +3517,18 @@ intensa relação
 intensamente 
 intensificam cada
 interacting components
+interage
 interações institucionais
 interconexões 
 interdependentes .
 interessa .
 interessada apenas
+interessadas
 interessante 
 interessante observar
 interesse 
 interesse desta
+interesses
 interesses 
 interesses .
 interesses desenvolvido
@@ -3906,36 +3550,27 @@ invención en
 investigar experiências
 investigação empírica
 inviabilizou .
+inédito
 inédito .
 início 
 irá diretamente
 iríamos continuar
-is constituted
-is neither
-is one
 isoladas 
 issoessas comunidades
-it is
 iteração 
 joelhos 
 jogos construídos
 jogos educativos
 jovens 
 jovens .
+junto
 junto doseducadores
 jurídica independente
 jurídicos 
+justamente
 justamente 
 justificar algumas
 kinds 
-la capacidad
-la construcción
-la generación
-la mayoría
-la medida
-la mirada
-la posición
-la tecnología
 lados 
 lança luz
 lança mão
@@ -3955,8 +3590,10 @@ leitura
 leitura .
 leitura acima
 lembra Fuchs
+lembrando
 lentamente -as
 levantado 
+levará
 liberar lentamente
 liberdade democrática
 liberdadesde executar
@@ -3975,6 +3612,7 @@ limites normativos
 linear 
 linear natural
 linguagem comum
+listo
 listo cada
 literatura .
 litoral baiano
@@ -3983,6 +3621,7 @@ livre
 livre .
 livre apósa
 livre.Essas demandas
+livros
 livros 
 lixo 
 locais 
@@ -4006,6 +3645,7 @@ localmente generadas
 logística 
 lojas sedes
 lojas virtuais
+longitude
 longo 
 longo deste
 longo doprocesso
@@ -4020,6 +3660,7 @@ los casos
 los menos
 los países
 los sistemas
+loteou
 lucro 
 lucro .
 lucro extraordinário
@@ -4048,10 +3689,12 @@ mandato criou
 maneira bastante
 manejo debaixo
 manejo sustentável
+mantendo
 mantendo alinhado
 mantendo relações
 manter estável
 manter próximo
+mantém
 mantém estável
 mantém sistemas
 mantêm firmes
@@ -4061,12 +3704,15 @@ mapa .
 mapeada 
 mapear coordenadas
 marcada nesse
+marcadas
 marcadores 
+marcar
 marcar atividades
 marcar ações
 marcar sedes
 marcação aparece
 marcação representa
+marcenaria
 marcenaria 
 marco analítico
 marco analítico-conceitual
@@ -4077,9 +3723,12 @@ marxista
 marxista .
 março 
 março onde
+masque
 masque devem
 mata atlântica
+matemática
 matemática 
+materiais
 materiais 
 materiais .
 materiais básicas
@@ -4090,6 +3739,7 @@ materiais fornecidos
 materiais gráficos
 materiais recicláveis
 materiais tradicionais
+material
 material ajuda
 material audiovisual
 material básico
@@ -4100,6 +3750,7 @@ material diverso
 material onde
 material reciclado
 matéria prima
+matérias
 matérias jornalísticas
 means :
 mediante ajustes
@@ -4107,8 +3758,10 @@ mediante perguntas-guia
 meio dessa
 meio dessas
 meio urbano
+meios
 melhores 
 melhores negócios
+membro
 membro bolsista
 membro cooperado
 membro entrevistado
@@ -4165,6 +3818,7 @@ metodológicos apresentados
 metodológicos baseados
 metodológicos importantes
 metodológicos propostos
+micro
 micro 
 microindicadores :
 mil habitantes
@@ -4178,10 +3832,10 @@ minimamente semelhante
 minimamente sistemática
 mirada del
 mirins 
-mm 
 mobiliza .
 mobilizada 
 mobilizam funcionários
+mobilizando
 mobilizando grupos
 mobilizar recursos
 mobilizaram-se diferentes
@@ -4194,6 +3848,7 @@ modalidades
 modelo viável
 modelos possíveis
 modelos societários
+modificar
 modificação .
 modificação técnica
 modo afirmativo
@@ -4219,13 +3874,19 @@ momentos
 momentos :
 momentos respectivos
 momentovira .
+monitoramento
 monoculturasde eucalipto
 moradia 
 moradores 
 morte cidadã
 mostra Hughes
 mostra Pereira
+mostrama
 mostrama importância
+mostrando
+mostrar
+mostro
+mostrou
 motivação 
 motivações capitalista
 movimento 
@@ -4239,6 +3900,7 @@ movimento sociotécnico
 movimentos 
 movimentos sociais.Conjunto
 movimentos sociohistóricos
+mudando
 mudança 
 mudança garante
 mudança social
@@ -4247,6 +3909,7 @@ mudanças econômicas
 mudanças tecnológicas
 mudas 
 mudas .
+muitas
 muitas atividades
 muitas cidades
 muitas vezes
@@ -4255,9 +3918,11 @@ muitos membros
 muitos nunca
 muitos projetos
 mulata chamada
+mulher
 mulher .
 mulher cumulou-me
 mulher negra
+mulheres
 mulheres 
 mulheres eemuma
 mulheres expulsas
@@ -4296,6 +3961,7 @@ múltiplas experiências
 múltiplas expressões
 múltiplas interações
 múltiplas partes
+nabusca
 nacional 
 nada 
 narrativa 
@@ -4309,6 +3975,7 @@ nascentes enviado
 nascentesnormalmente dura
 nativas 
 nativase móveis
+naturais
 naturais .
 natural 
 natural .
@@ -4322,6 +3989,7 @@ natureza tecnocientífica
 navega 
 navegar nessas
 necesario reinventar
+necessariamente
 necessariamente 
 necessidade -de
 necessidadede escolhas
@@ -4349,6 +4017,7 @@ nessa região
 nessas diferentes
 nessas duas
 nessas experiências
+nesse
 nesse aglomerado
 nesse catálogo
 nesse conjunto
@@ -4360,6 +4029,7 @@ nesse processo
 nesse sentido
 nesses períodos
 nesta nova
+neste
 neste caso
 neste contexto
 neste segundo
@@ -4373,6 +4043,7 @@ nome
 nome dado
 nor directed
 norma 
+normalmente
 normalmente cumprindo
 normalmente denota
 normalmente leva
@@ -4400,6 +4071,8 @@ nova mudança
 nova organização
 nova possibilidade
 nova reformulação
+novamente
+novas
 novas AST.ApropriaçãoA
 novas capacidades
 novas dinâmicas
@@ -4414,6 +4087,7 @@ novo conjunto
 novo formato
 novo protocolo
 novoO prolongamento
+novos
 novos conhecimentos
 novos membros
 novos modos
@@ -4455,6 +4129,7 @@ objetivo tentar
 objetivos desta
 objetivos específicos
 objetivos próprios
+objeto
 objeto .
 objeto resultado
 objeto tecnológico
@@ -4499,28 +4174,24 @@ ocasião
 ocasião pude
 ocasiões 
 ocasiões isoladas
+ocorre
 ocorre 
 ocorre deforma
 ocupar atualmente
 ocupações cotidianas
 ocódigo fontedo
 oempreendimento vai
-of building
-of different
-of potentially
-of problems
-of related
-of technological
-of the
 oferece 
 oferece conexão
 oferecem insumos
+oferecendo
 oferecendo alguns
 oferecer ferramentas
 oferecer propostas
 oferecidos alguns
 ofereça oportunidades
 oficial 
+oficinas
 oficinas formativas
 ofio condutor
 oito anos
@@ -4529,6 +4200,7 @@ olhar nessas
 olhar sociotécnico
 omercado 
 omissões estratégicas
+onde
 onde alguns
 onde atua
 onde cada
@@ -4536,14 +4208,17 @@ onde chove
 onde convergiam
 onde expõe
 onde termina
+ondeformas
 ondeseriam desenvolvidos
 one that
 online 
 opapelqueele ocupa
+open
 open source
 open sourceou
 open sources-com
 open sourceé
+opera
 opera 
 opera aquestão
 opera corretamente
@@ -4567,17 +4242,20 @@ opróprio processo
 opção 
 opções individuais
 oque fazer
-or will
+ora
 oral 
 ordem democrática
 ordem lógica
 ordem obrigatória
 ordem social
 ordem temporal
+ordenadas
 order in
+organizacionais
 organizacionais 
 organizacionais etc.
 organizacional 
+organizacionaletc.O
 organizacionaletc.O SGMN
 organizado talvez
 organização 
@@ -4600,9 +4278,11 @@ original .
 originaram .
 orçamento participativo
 osatores envolvidos
+oscódigos-fonte
 oscódigos-fonte 
 oseuentorno .
 our world
+outra
 outra 
 outra .
 outra base
@@ -4638,6 +4318,7 @@ outro
 outro .
 outro aspecto
 outro estilo
+outros
 outros 
 outros -e
 outros .
@@ -4667,6 +4348,7 @@ outros segmentos
 outros serviços
 outros tipos
 outros valores
+p.
 p. apudFUCHS
 pacote popular
 padrões estabelecidos
@@ -4676,6 +4358,7 @@ papel .
 papel ativo
 papel duplo
 parada 
+parausar
 parceiros 
 parceiros .
 parceiros institucionais
@@ -4686,6 +4369,7 @@ parcerias
 parcerias existentes
 parcerias institucionais
 parcialmente inseridas
+parece
 parece entrar
 parecem relacionadas
 paritária .
@@ -4701,28 +4385,35 @@ partes crescem
 partes isoladas
 participa .
 participam .
+participando
 participar deeditais
 participaram ?
 participativa 
 participativa .
 participativo 
 participativo .
+participava
+participação
 participação 
 participação direta
 participação popular
 participação social
 particular 
 particular obstacle
+particularizando
 partir dadiversidadee
 partir dessas
 partirda perspectiva
 paróquia Santo
 passado 
+passando
 passar 
+passava
 passavam longos
 passos operacionais
 patrocinadores.●O projeto
 paulatinamente desbancada
+pautados
 país 
 países desenvolvidos
 países en
@@ -4734,6 +4425,7 @@ pedras arredondadas
 pedras coradas
 pedras preciosas
 pensado 
+pequenas
 pequenas barragens
 pequenas comunidades
 pequenas represas
@@ -4759,6 +4451,7 @@ permissivas
 permissivas .
 permita navegar
 permitam identificar
+permite
 permite .
 permite ?
 permite acessar
@@ -4771,7 +4464,9 @@ permite explicitar
 permite olhar
 permite trabalhar
 permitem aosusuários
+permitido
 permitirão apreender
+pero
 pero en
 persistentes 
 perspectiva 
@@ -4798,6 +4493,7 @@ pesquisa tecnocientífica
 pesquisa transita
 pesquisa.Nesse sentido
 pesquisa.Otrabalho empírico
+pesquisadores
 pesquisadores 
 pesquisar 
 pessoal deseus
@@ -4823,6 +4519,7 @@ plataformasweb
 plural -onde
 pluralA concepção
 pluviométrico varia
+podem
 podem afetar
 podem conseguir
 podem constituir
@@ -4834,6 +4531,7 @@ podem orientar
 podem possibilitar
 podem usar
 podem vir
+podemos
 podemos associar
 podemos registrar
 poder 
@@ -4856,7 +4554,9 @@ políticas .
 políticas públicas
 político 
 político atual
+políticos
 políticos 
+pondo-se
 pondo-se quase
 ponto 
 ponto original
@@ -4869,7 +4569,10 @@ popular .
 populares 
 populares sustentáveis
 população local
+pormeio
+porque
 portáteis 
+porém
 porém 
 porém algumas
 posibiliten tanto
@@ -4888,10 +4591,13 @@ possibilidades dessa
 possibilidades educativas
 possibilidades locais
 possibilidadesdas TICsna
+possibilita
 possibilita pensar
 possibilitando dinâmicas
 possibilitar dinâmicas
+posso
 posso dizer
+possui
 possui 
 possui apenas
 possui umamaterialidade
@@ -4920,6 +4626,7 @@ possível reorientá-lo
 possível separar
 posterior processo
 posterioripelas cisternas
+posteriormente
 posteriormente 
 posteriormente .
 postura associada
@@ -4977,14 +4684,20 @@ prefeitura cedidos
 prefeitura levou
 prefeitura municipal
 prefeitura.Essas diferentes
+preferencialmente
 preferencialmente 
 prejuízos .
+premiando
 premiando iniciativas
+prendemos
+prendendo
+preocupado
 preocupante 
 preocupação 
 preocupação central
 prescritivo 
 prescrição remonta
+presente
 presente discussão
 presente outras
 presente pesquisa.Otrabalho
@@ -4999,6 +4712,7 @@ pretende abordar.Ao
 pretende traduzir
 prevalecem .
 preventiva etc
+preza
 prima institucional
 prima pedagógica
 primeira Fabriqueta
@@ -5019,6 +4733,7 @@ principais atividades
 principais parceiros
 principais projetos
 principais tecnologias
+principal
 principal .
 principal afluente
 principal atividade
@@ -5030,6 +4745,7 @@ principal instrumento/tecnologia
 principal objetivo
 principal parceira
 principal tecnologia
+principalmente
 principalmente 
 principalmente :
 principalmente TS
@@ -5045,7 +4761,9 @@ privada .
 privadado excedente
 privadas .
 privados 
+privilegia
 privilegia ambientes
+problem-solving
 problem-solving components
 problema 
 problema .
@@ -5066,6 +4784,7 @@ problema social
 problema sociotécnico
 problema tecnocientífico
 problemacrítico .
+problemas
 problemas .
 problemas concretos
 problemas decorrentes
@@ -5083,6 +4802,7 @@ problemática
 problemática :
 problemático 
 procedimento metodológico
+procedimentos
 procedimentos metodológicos
 processo 
 processo .
@@ -5106,6 +4826,7 @@ processo tecnológico
 processo tradicional
 processo técnico
 processode coleta
+processos
 processos 
 processos anteriores
 processos descritos
@@ -5147,6 +4868,7 @@ produto gerado
 produtor dedinâmicas
 produtor direto
 produtores rurais
+produtos
 produtos desenvolvidos
 produtos frente
 produtos gerados
@@ -5161,10 +4883,12 @@ produzidas mudas
 produzido .
 produzidos -pela
 produzidos.Essa compreensão
+produzindo
 produzindo documentos
 produzindo mudas
 produzindo novas
 produzindo novos
+produzir
 produzir ;
 produzir TS
 produzir alternativa
@@ -5188,6 +4912,7 @@ produzir tecnologia
 produzir tecnologias
 produzirem projetos
 produzis possam
+produção
 produção 
 produção -o
 produção -que
@@ -5208,7 +4933,9 @@ produção passe
 produção solidária
 produção supõe
 produção.RepotenciamentoA postura
+proferido
 proferido repetidas
+professor
 professor 
 professor :
 professores 
@@ -5222,6 +4949,7 @@ programadaou ajustando
 programas Federais
 progress that
 progressão temporal
+proibiu
 projeto 
 projeto .
 projeto ?
@@ -5255,15 +4983,20 @@ projetos políticos
 projetos sociais
 prolongada 
 prolongam uns
+promove
+promovendo
 promover habilidades
 promover inclusão
 prontas 
 pronto 
 propaganda 
 propicia 
+propiciando
 propios valores
+proponho
 proponho 
 propor 
+proporcionar
 proposições apresentadas
 proposições teóricas
 proposiçõesteóricas 
@@ -5283,6 +5016,7 @@ proprietário
 proprietário específico
 propósito técnico
 propósitos .
+propõe
 propõe .
 propõe Dagnino
 propõe nove
@@ -5297,6 +5031,7 @@ prática
 prática autodidata
 prática capitalista
 prática comum
+práticas
 práticas 
 práticas cotidianas
 práticas culturais
@@ -5353,6 +5088,7 @@ próximo
 próximo etc.Capacidades
 próximo movimento
 pude tomar
+puede
 puede vincularse
 pública 
 públicas 
@@ -5363,6 +5099,7 @@ quadro
 quadro ainda
 quadro conceitual
 quadro funciona
+quais
 quais capacidades
 quais consequências
 quais demandas
@@ -5373,8 +5110,10 @@ quais implicações
 quais oempreendimento
 quais oportunidades
 quais processos
+quali
 qualidade .
 qualidades técnicas
+qualquer
 qualquer atividade
 qualquer bebida
 qualquer distribuição
@@ -5387,6 +5126,7 @@ qualquer área
 quantidade disponível
 quantitativamente 
 quantitativas exigidas
+quanto
 quanto naturais
 quanto relacionada
 quanto uso
@@ -5400,10 +5140,14 @@ quatro frentes
 quatro momentos
 quatro operações
 quatro semanas
+queinventores
 queinventores 
+queoferece
+quer
 quer dizer
 querem conhecer
 querem viver
+queria
 queria aprender
 queriam fazer
 quero dizer
@@ -5426,6 +5170,7 @@ questão posta
 questão tecnológica
 questão.Os elementos
 questãodas latinhas
+questões
 questões base
 questões econômicas
 questões geográficas
@@ -5436,17 +5181,20 @@ questões sociais
 questões tecnológicas
 questões técnicas
 quinto município
+quis
 quis abraçar-me
 quis dizer
 quiser .
 quão disposta
 racionalmente -o
+raramente
 raramente chove
 reais mensais
 realidade.Como referencial
 realidades locais
 realiza 
 realizada 
+realizadas
 realizadas .
 realizadas oficinas
 realizadas.A seguir
@@ -5471,22 +5219,32 @@ receber recursos
 receita geradaA
 reciclado 
 reciclagem .
+recoloca
+recomendando
 recomendando ações
 recomendação evidencia
+recondicionamento
+recondicionando
 reconfigurados 
+reconfigurando
 reconfiguração coloca
+reconhecendo
 reconhecendo espaços
+reconhecer
 reconhecer agenciamentos
 reconhecer caminhos
 reconhecer problemas
+reconstituindo
 reconstituição histórica
 recorrente insuficiência
+recorrer
 recorro novamente
 recuperadas 
 recuperadas .
 recuperar la
 recuperação .
 recuperação realizadas
+recursos
 recursos 
 recursos .
 recursos captados
@@ -5502,15 +5260,19 @@ recursos vindos
 recursose espaçosda
 recusei semelhante
 rede municipal
+redes
 redes digitais
 redes informacionais
+redesenhaos
 redesenhaos limites
 redesenho lança
 redor ?
+reenquadra
 refazendo esseslimites
 refere mediante
 referencia y
 referencial teórico
+referente
 referida 
 referido .
 reflexões mediante
@@ -5519,6 +5281,7 @@ reflorestamento
 reflorestamento próximos
 refundar .
 regionais ;
+registrar
 registro apresenta
 região 
 região .
@@ -5536,9 +5299,12 @@ relacionados caso
 relacionam 
 relacionam através
 relacionar desenvolversoftware
+relaciono
 related components
 relativa artificialidade
 relativamente cada
+relativos
+relatos
 relatório pronto
 relatórios 
 relatórios .
@@ -5573,6 +5339,8 @@ renda.A relação
 renegados .
 rentável 
 reorientação traz
+repetem
+repetidamente
 repetidamente 
 repetidas vezes
 represadas ;
@@ -5591,6 +5359,7 @@ requisitos sociais
 resenhei 
 reservatório .
 reservatórios subterrâneos
+residem
 residem 
 residem diretamente
 residem nela
@@ -5600,18 +5369,25 @@ resolver
 resolver problemas
 resolvido .
 resolvê-lo 
+respectivamente
 respectivamente 
 respeita àqueles
 responde 
 respondeu ‘
 responsabilidade social
+responsável
 resposta àascensão
 respostas institucionais
+ressaltando
 ressaltar 
+resta
+restaram
 restaram doze
+resultado
 resultado material
 resultados projetou
 resultados serem
+resultantes
 resultariam tecnologias
 resíduo 
 retomadoo processo
@@ -5632,13 +5408,16 @@ revolução jurídica
 riachos 
 ribeirão 
 ribeirão Calhauzinho
+rio
 rio .
 rio Araçuaí
 rios 
 ritmos diferentes
+ritualista
 ritualista 
 roda 
 roda –mantém
+rodutos
 rodutos 
 rurais 
 rurais .
@@ -5647,10 +5426,13 @@ rural
 rádio 
 rústicos ;
 saber identificar
+saberes
 saberes 
 saberes necessários
+sabidamente
 sabidamente artificial
 sabão 
+saindo
 saindo destes
 saliente reverso
 saliente reverso-um
@@ -5661,6 +5443,7 @@ saliente reversoe
 saliente reversopara
 saliente reversopode
 saliente.Osaliente reversoé
+saltaram
 salud 
 saneamento básico
 satisfatórias.Metodologicamente 
@@ -5686,6 +5469,7 @@ segue apresenta
 seguem 
 seguida 
 seguida .
+seguindo
 seguir 
 seguir apresento
 seguirá siendo
@@ -5720,6 +5504,7 @@ sempre levar
 sempre online
 sempre presente
 sempre visitar
+sendo
 sendo aplicada
 sendo bastante
 sendo consolidado
@@ -5731,6 +5516,7 @@ sendo premiado
 sendo realizada
 sendo sempre
 sendo substituídas
+senhora
 senhora Luciana
 sentido 
 sentido antropológico
@@ -5763,12 +5549,14 @@ serralheria
 sertão .
 serve justamente
 servicios .
+servindo
 serviço produzido.Ajuste
 serviços 
 serviços .
 serviços aderente
 serviços oferecidos
 serviços possíveis
+sete
 sete anos
 sete educadora
 sete modalidades
@@ -5786,7 +5574,6 @@ seção reservo
 seção utilizo
 seções administrativas
 seções textuais
-si 
 sido contemplado
 sido desenvolvido
 sido produzido
@@ -5795,6 +5582,7 @@ siendo un
 significa então
 significados diferentes
 significativas .
+sim
 sim 
 sim aproveitar
 sim consolidar
@@ -5810,12 +5598,15 @@ simples replicação
 simplesmente clicando
 simplesmente vender
 simque existe
+simultaneamente
 simultaneamente 
 singela rua
 singular 
 singularA concepção
+sintetiza
 sistema.Ao pensar
 sistema.Nesse sentido
+sistemas
 sistemas 
 sistemas coesos
 sistemas preexistentes
@@ -5828,9 +5619,11 @@ sistemática construção
 sistêmica 
 site contratado
 site oficial
+sites
 sitese lojas
 situada mercado
 situados ;
+situação
 situação 
 situação -resultado
 situação .
@@ -5840,15 +5633,17 @@ situação estável
 situações .
 situações típicas
 smartphonese tabletsem
-so 
+sob
 sob domínio
 sob licenças
 sob termos
+sobretudo
 sobretudo 
 sobrevive frente
 sobrevive principalmente
 sobreviver frente
 sobrou deDona
+sociais
 sociais 
 sociais .
 sociais :
@@ -5864,6 +5659,7 @@ sociais pontuais
 sociais quanto
 sociais relevantes
 sociais.Conjunto Alternativas
+social
 social 
 social .
 social ?
@@ -5891,11 +5687,13 @@ socialda Economia
 sociales en
 sociales localmente
 socially constructed
+socialmente
 socialmente adequadas
 socialmente construídos
 socialmente gerado
 socialtem diferentes
 sociedad realmente
+sociedade
 sociedade 
 sociedade .
 sociedade agrícola
@@ -5998,10 +5796,9 @@ sourceou livre
 sourcepara criar
 sources-com licenças
 stability of
-su compatibilidad
-su cultura
 suapropriedade intelectual
 suaspercepções políticas
+subiam
 subsequente avançodo
 subsequente contaminação
 subsistência 
@@ -6009,6 +5806,7 @@ subutilizados
 sucatas ;
 sucesso 
 sucesso dessas
+such
 sucha system
 suficiente 
 suficientes 
@@ -6045,14 +5843,17 @@ sítio conta
 sóciohistoricamente situados
 sólido 
 tabletsem parceria
+tal
 tal 
 tal aldeia
 tal comunidade
 tal empreitada
 talk of
+talvez
 talvez ofereça
 también un
 tantas cestas
+tanto
 tanto .
 tanto accesibilidad
 tanto consumo
@@ -6061,6 +5862,7 @@ tanto nacional
 tanto relacionada
 tanto relacionados
 tanto sociais
+tantona
 tantona definição
 tarde 
 tecelagem 
@@ -6078,6 +5880,7 @@ tecnociência .
 tecnociência anteriormente
 tecnociência convencional
 tecnociência convencionalcapitalista
+tecnologia
 tecnologia 
 tecnologia -e
 tecnologia .
@@ -6093,6 +5896,7 @@ tecnologia socialdepende
 tecnologia socialtem
 tecnologia sofreria
 tecnologia usada
+tecnologias
 tecnologias 
 tecnologias .
 tecnologias alternativas
@@ -6109,6 +5913,7 @@ tecnologias sociais
 tecnologias sustentáveis
 tecnologias utilizadas
 tecnologias ’
+tecnología
 tecnología 
 tecnología .
 tecnología ;
@@ -6122,6 +5927,7 @@ tecnológico .
 tecnológico circula.Em
 tecnológico específico
 tecnológico funcionando
+tecnológicos
 tecnológicos contém
 tecnológicos creados
 tecnológicos permite
@@ -6132,6 +5938,7 @@ tecnológicosComo observa
 teia 
 telecentros 
 tema 
+temperatura
 temperatura amena
 temperatura varia
 temperaturado local
@@ -6150,6 +5957,7 @@ temporal .
 tempos diferentes
 tendem provocar
 tendency to
+tendo
 tendência natural
 tenta alinhar
 tenta compensar
@@ -6162,6 +5970,7 @@ tentar manter
 tentar resolver
 tentar responder
 tentar voltar
+tento
 tento compreender
 teoria 
 teoria sistêmica
@@ -6171,6 +5980,7 @@ terceiro
 terceiro setor
 terceros mercados
 terminologia aqui
+terminou
 terminou levando
 termo exclusãodigital
 termos 
@@ -6197,6 +6007,7 @@ teórico metodológica
 that captures
 that particular
 that you
+the
 the 
 the face
 the institutional
@@ -6206,8 +6017,11 @@ the technical
 then means
 there is
 they fail
+things
 things we
 those problems
+tidas
+tinta
 tintas feitas
 tipicamente chamadas
 tipos 
@@ -6215,25 +6029,25 @@ tipos diferentes
 tipos diferentesque
 tipos heterogêneos
 tirar fotos
-to exist
-to identify
-to progress
-to see
-to solve
 tomadas 
 tomam formas
+tomando
 tomar conhecimento
 tomar maior
 topologias 
 topológico 
+torna
 torna ainda
 torna disponível
 torna possível
 torna saliente.Osaliente
 torna útil
+torna-se
 torna-se possível
+torna-seuma
 torna-seuma seção
 tornam visíveis
+tornando-semuito
 tornando-semuito menos
 torne público
 tornem explícitas
@@ -6245,7 +6059,9 @@ trabalhadores
 trabalhadorese demandas
 trabalham ativamente
 trabalham diretamente
+trabalhando
 trabalhar 
+trabalho
 trabalho 
 trabalho -se
 trabalho .
@@ -6270,6 +6086,7 @@ tradicionais
 tradicionais dessas
 tradicional 
 traduzir dados
+tradução
 tradução própria
 trajetória 
 trajetória .
@@ -6279,29 +6096,38 @@ trajetórias
 transferência 
 transferência .
 transferência tecnológica
+transforma
 transforma questões
+transformando
 transformar tudo
 transformação 
 transformação social
 transita parcialmente
+transitando
 transição .
 transição coloca
 transição ocasionou
+transporte
 transporte 
+trata
 tratada principalmente
 tratado 
 tratar qualquer
 tratar questão
+traz
 traz consigo
 traz internalizados
 traz vantagens
+trazendo
 trazia bens
 traziam sal
+traçando
 traçando caminhos
 treinamento .
 treinamento.Da criação
 treinamentos 
 tripla jornada
+três
 três .
 três anos
 três capítulos
@@ -6317,11 +6143,13 @@ técnica
 técnica .
 técnica onde
 técnica perpetuada
+técnicas
 técnicas 
 técnicas .
 técnicas associadas
 técnicas necessárias
 técnicas trazidas
+técnico
 técnico 
 técnico .
 técnico-econômicos 
@@ -6331,16 +6159,16 @@ técnicos quanto
 técnicos.Ao longo
 títulos 
 umamaterialidade .
+umavisitana
 umavisitana cidade
 umidade relativa
 umsistema tecnológico
-un objetivo
-un potencial
 una sociedad
 unidade básica
 unidade produtiva
 unidadesprodutivas solidárias
 unidirecional 
+universidades
 universidades 
 urbanas 
 urbano 
@@ -6364,6 +6192,7 @@ uso pouco
 uso y
 uso –no
 usos alternativos
+usualmente
 usualmente tratados
 usuário final
 usuários 
@@ -6372,19 +6201,24 @@ utiliza .
 utiliza dessas
 utiliza principalmente
 utilizados materiais
+utilizando
 utilizando insumos
 utilizando tecnologia
 utilizando tecnologias
 utilizar conhecimentos
 utilizava 
+utilizo
+utilizoaabordagem
 vai passar
 vai receber
 vai resultar
 vai sendo
+vale
 vale destacar
 vale lembrar
 vale ressaltar
 valor praticamente
+valores
 valores 
 valores .
 valores ;
@@ -6397,10 +6231,12 @@ valores presentesnos
 valores sociais
 valores y
 valores éticos
+valorizando
 valorização sociocultural
 values ;
 vantagens cooperativas
 varia sempre
+variando
 vasta literatura
 vasto conjunto
 vegetação .
@@ -6409,8 +6245,10 @@ vegetação original
 velha mulata
 velhos passam
 velocidades diferentes
+vem
 vendas 
 vender produtos
+ver
 ver :
 ver Teixeira
 verificar 
@@ -6432,18 +6270,22 @@ vida política
 vida útil
 vieram fazer
 vincularse con
+vindo
 vinte escolhidos
 virtuais .
 virtuaiscom membros
+visando
 visando otimizar
 visita 
 visita.A motivação
 visita.As visitas
 visitadas .
+visitando
 visitando comunidades
 visitar alguns
 visitas .
 visitas poderiam
+visto
 vistos 
 visualização geral
 visualização única
@@ -6458,6 +6300,7 @@ viu Maria
 viu obrigada
 viver 
 viver .
+vivienda
 vivienda 
 viável .
 volta naturalmente
@@ -6465,6 +6308,7 @@ voltaram .
 vulneráveis .
 váriascoisas iam
 vários estudos
+vão
 vão estabelecer
 vão ganhando
 vão responder
@@ -6472,15 +6316,9 @@ vão surgindo
 vê chuva
 vínculos institucionais
 ways of
-we call
 web sitese
 webcontra aplicação
 world .
-y aspiraciones
-y fines
-y reducción
-y servicios
-y su
 you are
 you can
 zona rural
@@ -6518,6 +6356,7 @@ zona rural
 áreas alagam
 áridas 
 árvores frutíferas
+ão
 ão situações
 énormalmente abordada
 época 
