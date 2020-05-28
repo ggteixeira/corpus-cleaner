@@ -10,7 +10,6 @@ Bugs
 Bárbara
 CNPJ
 Candidatos
-Código
 Dilma
 Elemental
 Elétrica
@@ -37,7 +36,6 @@ Minhocão
 Morse
 Nacional
 Ninguém
-Open
 Ora
 Outro
 Paulo
@@ -55,7 +53,6 @@ Secretaria
 Sign
 Sociologia
 Spoladore
-Startup
 TI
 Tecnologia
 The
@@ -70,7 +67,6 @@ Watch
 Wikipédia
 Written
 XIX
-YouTube
 abertura
 abre
 abrir
@@ -128,7 +124,6 @@ boa
 bom
 brasileiros
 brecha
-bug
 bugs
 burocracia
 burocracias
@@ -164,7 +159,6 @@ começou
 comodidade
 compartilhamento
 competitividade
-complexidades
 comum
 comunicação
 conclusão
@@ -181,9 +175,6 @@ conta
 contado
 contas
 contemplou
-corporativo
-corporativos
-correção
 corrigido
 corrigidos
 corrigilo
@@ -209,9 +200,7 @@ departamentos
 dependermos
 desde
 desejos
-desenvolvedor
 desenvolver
-desenvolvimento
 desnecessárias
 dessa
 destes
@@ -224,7 +213,6 @@ diferenciais
 diminuírem
 diretamente
 diretor
-diretrizes
 discussão
 discutido
 disponibilidade
@@ -239,14 +227,12 @@ diz
 dizendo
 documento
 documentos
-domínio
 educação
 eleitores
 eleição
 eliminados
 eliminarem
 elétrica
-empresa
 empresas
 encareceu
 energia
@@ -281,7 +267,6 @@ experiência
 extrair
 fazendoos
 fazer
-feature
 fechamento
 fechar
 ferir
@@ -353,7 +338,6 @@ livrar
 longo
 lugar
 luta
-lógica
 maior
 manipuladores
 maquiagem
@@ -451,10 +435,6 @@ preço
 problema
 problemas
 processo
-produtividade
-profissionais
-profissional
-projeto
 promessas
 promover
 propostas
@@ -509,8 +489,6 @@ sei
 sempre
 senso
 sentida
-serviço
-serviços
 sido
 significado
 significativas
@@ -519,7 +497,6 @@ simplesmente
 simplicidade
 sistemas
 sobrevivência
-software
 sol
 solução
 soluções
@@ -554,7 +531,6 @@ uso
 usuário
 usuários
 vai
-velocidade
 venda
 vender
 vendidas
