@@ -59,7 +59,6 @@ Auguste
 Avaliação
 Avina
 Ação
-BA
 Bacia
 Bahia
 Banco
@@ -118,7 +117,6 @@ Cidade
 Cinema
 Cirandas
 Cisternas
-Ciência
 Claros
 Climaticamente
 Climáticas
@@ -127,7 +125,6 @@ Combate
 Comovida
 Complementarmente
 Computaçãona
-Comunicação
 ComunidadeComo
 ComunidadeQuais
 ComunidadeQual
@@ -160,7 +157,6 @@ Cunha
 Curvelo
 Curvelo/MG
 Curvelo/MGe
-D
 DAGNINO
 DIAS
 DUARTE
@@ -175,7 +171,6 @@ Departamento
 Desamparadas
 Desde
 Desenvolver
-Desenvolvimento
 DesenvolvimentoAntes
 DesenvolvimentoO
 Dessas
@@ -202,18 +197,15 @@ EES
 EESs
 EESse
 EFA
-ES
 ESe
 ESno
 ESpor
 Economia
 Educacional
 Educação
-El
 Elaborado
 Embora
 Empreendimentos
-En
 Enfatizam
 Engels
 Enquanto
@@ -235,7 +227,6 @@ Existe
 FBB
 FIGURA
 FRESSOLI
-FS
 FUCHS
 Fabriqueta
 Fabriquetas
@@ -327,7 +318,6 @@ Jogos
 Juntamente
 Kelloggs
 LATOUR
-La
 Lagoão
 Larga
 Latour
@@ -342,7 +332,6 @@ MARTINS
 MEDEIROS
 MELLO
 MENEGASSE
-MG
 MINC
 MacKenzie
 Macacos
@@ -376,7 +365,6 @@ Modalidades
 Modelos
 Mollison
 Momento
-Monitoramento
 Montes
 Morro
 Mostro
@@ -420,13 +408,11 @@ Ouro
 Outra
 Outro
 Outros
-P
 PAIXÃO
 PINCH
 PINHO-TAVARES
 PNAE
 PNBL
-PT
 PTA
 Padre
 Paracatu
@@ -464,9 +450,7 @@ Pretendo
 Preto
 Principalmente
 Produzindo
-Programa
 Projeto
-Projetos
 Proposta
 Prêmio
 Pública
@@ -502,7 +486,6 @@ Rio
 Rocha
 Roda
 RodaA
-S
 SANDOVAL
 SANTOS
 SGMN
@@ -513,7 +496,6 @@ SGMNas
 SILVEIRA
 SIMAVE
 SOUSA
-SP
 STALLMAN
 STS
 Sabão
@@ -546,7 +528,6 @@ SociotécnicaA
 SociotécnicaModalidadeAtividadeAlteração
 Sociotécnicaavaliar
 Sociotécnicoanalisar
-Software
 Software-objeto
 SoftwareA
 SoftwareEm
@@ -564,18 +545,14 @@ Sustentabilidade
 Sustentável
 System
 Sítio
-T
-TC
 THOMAS
 TICs
 TICsna
-TS
 TSConjuntoAtividades
 TScomo
 TSe
 TStem
 Tanto
-Tecnologia
 Tecnologias
 Tecnológica
 Tecnológicas
@@ -592,7 +569,6 @@ Tinta
 Tião
 TiãoRocha
 TiãoRochafaz
-To
 Trabalhadores
 Trabalho
 Transformando
@@ -618,7 +594,6 @@ Word
 XIX
 XVII
 XVIII
-XX
 aAraçuaí
 aDedo
 aassociação
@@ -770,7 +745,6 @@ ajudou
 ajustando
 ajuste
 ajustes
-al
 alaga
 alagam
 alagariam
@@ -823,7 +797,6 @@ ambiente
 ambientes
 amena
 ampla
-an
 analfabetismo
 analisada
 analisadas
@@ -874,7 +847,6 @@ aplicado
 aplicando
 aplicando-os
 aplicativos
-aplicação
 aplicações
 apoio
 aponta
@@ -933,7 +905,6 @@ apósa
 aquestão
 aqui
 aquisição
-ar
 arara
 araras
 are
@@ -1078,7 +1049,6 @@ açãopontual
 ações
 aéreas
 aún
-b
 bacia
 baiano
 baixa
@@ -1105,7 +1075,6 @@ basta
 bastante
 bastaria
 batalha
-be
 bebida
 bebidas
 beiram
@@ -1760,16 +1729,12 @@ custo
 célula
 cíclica
 código
-d
-daTS
 daTecnologia
 daabundância
 daassimetria
 dada
 dadas
 dadiversidadee
-dado
-dados
 dando
 dandoorigem
 daqueles
@@ -1777,7 +1742,6 @@ dar
 dareceita
 dará
 dasTICs
-data
 datadas
 dava
 deDona
@@ -1896,7 +1860,6 @@ desenho
 desenrolar
 desenvolva
 desenvolve
-desenvolvedor
 desenvolvem
 desenvolvendo
 desenvolveram
@@ -2038,7 +2001,6 @@ disponíveisde
 disponível
 disponívelem
 dispor
-dispositivos
 disposição
 disposta
 dispostos
@@ -2179,7 +2141,6 @@ eficiência
 eficácia
 eixo
 eixos
-el
 elaboração
 eladedica
 elaera
@@ -2222,7 +2183,6 @@ empíricas
 empírico
 emsetembro
 emum
-en
 encaixa
 encaixam
 encaminhar
@@ -2313,7 +2273,6 @@ equipamento
 equipamentos
 equipe
 ergue
-es
 escala
 escalares
 escalas
@@ -2407,7 +2366,6 @@ estágio
 estática
 estáticas
 estável
-et
 etal
 etapa
 etapas
@@ -2508,7 +2466,6 @@ expõe
 expõem
 extensa
 extensas
-extensão
 exteriores
 externalidades
 externos
@@ -2603,7 +2560,6 @@ flexibilidade
 flexível
 flora
 flutuante
-fluxo
 fluência
 foca
 focama
@@ -2825,7 +2781,6 @@ hídrica
 hídrico
 hídricos
 i=rio
-ia
 iam
 idade
 idas
@@ -2848,7 +2803,6 @@ ideológico
 ideológicos
 idioma
 idiossincrasias
-if
 ignorando
 igualdade
 ilustra
@@ -2893,7 +2847,6 @@ impressões
 imprime
 impulsionada
 imunes
-in
 inacessível
 inalcanzable
 inatividade
@@ -3052,7 +3005,6 @@ interligam
 internacional
 internalizados
 internamente
-internet
 interno
 internos
 interpretar
@@ -3083,11 +3035,9 @@ inédito
 início
 irá
 iríamos
-is
 isolada
 isoladas
 issoessas
-it
 iterativa
 iterativo
 iteração
@@ -3108,8 +3058,6 @@ justamente
 justapõe
 justificar
 kinds
-km
-la
 laboratório
 laboratórios
 lado
@@ -3172,7 +3120,6 @@ limite
 limites
 limpar
 linear
-linguagem
 linha
 linhas
 listo
@@ -3208,7 +3155,6 @@ lugares
 luz
 lá
 límpidas
-lógica
 lógicas
 macro
 maintain
@@ -3299,7 +3245,6 @@ mesmas
 mesmos
 messy
 meta
-metodologia
 metodologias
 metodológica
 metodológicas
@@ -3323,7 +3268,6 @@ miserável
 mistura
 miséria
 mitiguem
-mm
 mobilidade
 mobiliza
 mobilizada
@@ -3431,7 +3375,6 @@ natureza
 nauniversalização
 navega
 navegar
-navegação
 necesario
 necessariamente
 necessidade
@@ -3559,7 +3502,6 @@ ocupações
 ocupe
 ocódigo
 oempreendimento
-of
 oferece
 oferecem
 oferecendo
@@ -3612,7 +3554,6 @@ opróprio
 opção
 opções
 oque
-or
 ora
 oral
 ordem
@@ -3759,7 +3700,6 @@ perguntas
 perguntas-guia
 periferia
 periférica
-periféricos
 periódica
 periódicas
 permacultura
@@ -3790,7 +3730,6 @@ período
 períodoe
 períodos
 pese
-pesquisa
 pesquisadores
 pesquisar
 pesquisas
@@ -3808,7 +3747,6 @@ plantação
 plantações
 planteo
 planície
-plataforma
 plataformas
 plataformasweb
 platô
@@ -3977,8 +3915,6 @@ problemática
 problemático
 procedimento
 procedimentos
-processamento
-processo
 processode
 processos
 processosnão
@@ -3989,7 +3925,6 @@ produtiva
 produtivade
 produtivas
 produtivasas
-produtividade
 produtivo
 produtivos
 produto
@@ -4023,14 +3958,12 @@ profundas
 profundo
 programa
 programadaou
-programas
 progress
 progressistas
 progresso
 progressão
 proibitiva
 proibiu
-projeto
 projetoda
 projetode
 projetos
@@ -4072,7 +4005,6 @@ propostada
 propostas
 proposto
 propostos
-propriedade
 propriedades
 propriedadespróximas
 proprietária
@@ -4236,7 +4168,6 @@ recorro
 recuperadas
 recuperar
 recuperação
-recurso
 recursos
 recursose
 recusei
@@ -4525,7 +4456,6 @@ seuscomponentestécnicose
 seção
 seções
 shaping
-si
 sido
 siendo
 significa
@@ -4574,7 +4504,6 @@ situam
 situação
 situações
 smartphonese
-so
 sob
 sobretudo
 sobrevive
@@ -4607,7 +4536,6 @@ sociotécnicos
 sociólogo
 sofreria
 sofreu
-software
 softwarea
 softwareapresenta
 softwarecom
@@ -4661,7 +4589,6 @@ sourceé
 sozinhas
 stability
 statusde
-su
 suapropriedade
 suaspercepções
 subalterna
@@ -4745,7 +4672,6 @@ tecnocientífica
 tecnocientíficas
 tecnocientífico
 tecnociência
-tecnologia
 tecnologias
 tecnología
 tecnologías
@@ -4818,7 +4744,6 @@ tintas
 tipicamente
 tipos
 tirar
-to
 tomadas
 tomam
 tomando
@@ -4920,7 +4845,6 @@ umesforço
 umidade
 umsistema
 umsoftwaredesenvolvido
-un
 una
 unidade
 unidades
@@ -4989,7 +4913,6 @@ vegetação
 velha
 velho
 velhos
-velocidade
 velocidades
 vem
 venda
@@ -5077,7 +5000,6 @@ vínculo
 vínculos
 vínculosinstitucionais
 ways
-we
 web
 webcontra
 webpara
@@ -5111,7 +5033,6 @@ zona
 épocas
 éque
 éticos
-ícone
 ícones
 índices
 óbvia
