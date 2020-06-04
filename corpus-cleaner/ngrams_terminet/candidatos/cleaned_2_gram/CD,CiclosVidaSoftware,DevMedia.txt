@@ -29,7 +29,6 @@ Faz parte
 Flutter HTML
 FrontEnd NET
 Fórum Ranking
-Hospedagem web
 Hosting Av
 Hosting Menu
 Incremental Evolutivo
@@ -73,7 +72,6 @@ RUP usa
 Ranking teste
 Rational Software
 Rational Unified
-React Native
 React React
 Revista Artigos
 Revistas Fale
@@ -83,10 +81,8 @@ Shopping Via
 Software Corporation
 Software Flutter
 Software Hospedagem
-Software Magazine
 Software parte
 Spring SQL
-Tecnologias FrontEnd
 Tijuca Rio
 Trabalhe conosco
 Unified Process
@@ -99,7 +95,6 @@ Via Parque
 Vida Associado
 Vídeo Aula
 Vídeos Projetos
-Web Hosting
 abordagem cíclica
 acessa rede
 acontecer dentro
@@ -117,8 +112,6 @@ alto nível
 alto principalmente
 ambiente operacional
 ambiente real
-ambientes operacionais
-analista testador
 anterior Neste
 anterior fazendo
 anterior termina
@@ -137,7 +130,6 @@ aprovado Nesse
 aproveitar eficientemente
 após esperar
 arquiteto analista
-arquitetura configurável
 artigo apresentaremos
 atende algumas
 atenção especial
@@ -244,7 +236,6 @@ desenvolvimento daquele
 desenvolvimento implantação
 desenvolvimento inicial
 desenvolvimento operação
-desenvolvimento rápido
 desenvolvimento teste
 desta escolha
 desta forma
@@ -512,7 +503,6 @@ projeto haverá
 projeto versus
 prototipagem devido
 prototipagem planejar
-protótipo construído
 protótipos podem
 protótipos ver
 práticas comprovadas
@@ -530,7 +520,6 @@ realimentação permitese
 realmente precisa
 receberá parte
 relatórios poupando
-representação gráfica
 requisitos ainda
 requisitos alcance
 requisitos análise
@@ -577,10 +566,8 @@ software configurável
 software contendo
 software crescendo
 software faria
-software operacional
 software vai
 software viabilidade
-softwares desenvolvidos
 soluções pioneiras
 suporta sistemas
 tabela comparativa
@@ -594,11 +581,8 @@ templates guias
 templates porém
 tempo ajustável
 tempo cada
-tempo disponível
 tempo nesse
-teste grátis
 testes desenvolvimento
-testes habilitados
 totalmente conhecidos
 tudo fique
 tão bem
