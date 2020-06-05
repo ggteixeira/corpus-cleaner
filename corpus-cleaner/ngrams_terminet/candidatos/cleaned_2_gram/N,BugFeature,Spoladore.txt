@@ -3,9 +3,7 @@ About Help
 Agência Nacional
 Anatel divulgou
 Britt Elemental
-Bugs corrigidos
 Bárbara Scarambone
-Código Morse
 Elemental Apr
 Elétrica Aneel
 Energia Elétrica
@@ -77,7 +75,6 @@ boa relação
 bom senso
 bom trajeto
 bug Transporte
-bug corrigido
 burocracia decisória
 burocracia estatal
 by Rafa
@@ -181,12 +178,9 @@ mínimas razões
 mínimo necessário
 nisso tudo
 nota fiscal
-nova feature
 nova resolução
-nova versão
 novidade aprovou
 novidades vindas
-novo desenvolvimento
 novo recurso
 nãopostes… Uncyclopedia
 ocupam horas
