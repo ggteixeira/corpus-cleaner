@@ -18,8 +18,6 @@ Convert Popular
 Convert Rock
 DDD entenda
 Descubra tudo
-Desenvolvimento Cloud
-Desenvolvimento DevOps
 Dessa forma
 DevOps Ebook
 Ebook ITIL
@@ -38,7 +36,6 @@ Marc Andreessen
 Muitas empresas
 Multicloud saiba
 Neste post
-Open Source
 Oracle junto
 Outsourcing contratada
 PMBOK Galeria
@@ -61,7 +58,6 @@ TI Bimodal
 TI deixam
 TI tanto
 UX Galeria
-User Experience
 abaixo Neste
 abaixo quais
 aberto Alguns
@@ -104,7 +100,6 @@ bem qualificados
 bem sabemos
 biblioteca apropriada
 bilhões quinhentos
-blog post
 blog quanto
 boa formação
 boa parte
@@ -162,7 +157,6 @@ custos adicionais
 custos ainda
 custos certamente
 custos inicial
-código aberto
 código através
 dados Definitivamente
 dados através
@@ -179,7 +173,6 @@ deseja contar
 desejar nesse
 desenvolvedor Veja
 desenvolvedor trabalhou
-desenvolvedores Java
 desenvolvendo softwares
 desenvolvidos nesse
 desenvolvimento Entretanto
