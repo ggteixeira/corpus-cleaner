@@ -28,5 +28,5 @@ def write_in_file(generated_ngrams):
 
 
 # write_in_file(extract_ngrams(get_text(), 1))
-# write_in_file(extract_ngrams(get_text(), 2))
-write_in_file(extract_ngrams(get_text(), 1))
+write_in_file(extract_ngrams(get_text(), 2))
+# write_in_file(extract_ngrams(get_text(), 1))

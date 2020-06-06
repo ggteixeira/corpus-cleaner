@@ -1,9 +1,9 @@
 # Abre o arquivo com os n-gramas:
-with open("ngrams_terminet/candidatos/3_gram/TC,UFLA,Schneide.txt", "r") as file:
+with open("ngrams_terminet/ngrams.txt", "r") as file:
     file = file.read()
 
 # Abre o arquivo com as stopwords
-with open("stopwords/my_stopwords_3-grams.txt", "r") as stopwords:
+with open("stopwords/my_stopwords.txt", "r") as stopwords:
     stopwords = stopwords.read()
 
 
