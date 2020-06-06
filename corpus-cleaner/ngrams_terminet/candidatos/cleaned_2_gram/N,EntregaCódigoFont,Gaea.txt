@@ -13,7 +13,6 @@ Convert Popular
 Convert Rock
 DDD entenda
 Descubra tudo
-Desenvolvimento DevOps
 Dessa forma
 DevOps Ebook
 Ebook ITIL
@@ -43,7 +42,6 @@ Skip to
 TDD BDD
 TI Artigos
 UX Galeria
-User Experience
 acesso avançados
 acima presenciais
 acontecer Ficou
@@ -106,7 +104,6 @@ deixar claro
 deltas menores
 descomplique saiba
 desenvolvido Responder
-desenvolvimento personalizado
 deslocamento tempo
 destacado anteriormente
 deste artigo
@@ -169,7 +166,6 @@ necessário fornecer
 necessário realizar
 negociação deve
 novo proprietário
-numérico binário
 obter acesso
 opções acima
 opções virtuais
@@ -223,7 +219,6 @@ razões Sendo
 realizada desde
 realizála pessoalmente
 recomendado realizála
-release planning
 respectivo códigofonte
 resposta Rock
 rockauto Artigos
