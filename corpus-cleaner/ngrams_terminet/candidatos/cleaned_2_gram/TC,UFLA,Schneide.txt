@@ -1,389 +1,45 @@
- ADA
- ALGOL
- AVIÃO
- Algol
- BARCO
- BOOLEAN
- Bertrand
- CAMINHÃO
- CARRO
- CHARACTER
- CLOS
- COBOL
- ComponentesInternos
- Eiffel
- FORTRAN
- INTEGER
- JANELA
- PASCAL
- Pascal
- REAL
- Rodas
- Suspensão
- Tom
- Transmissão
- VEÍCULO
- abelha
- abstrações
- acessar
- aderência
- algumas
- alguns
- amarelo
- ambos
- antes
- análise
- análises
- apenas
- aprendizado
- aprendizagem
- apresentado
- associada
- associação
- associaçãoe
- asstrings
- assumem
- assumindo
- astring
- através
- aumentar
- autoindent
- avião
- aviões
- b
- banco
- barco
- barcos
- bases
- bicicleta
- botões
- c
- cada
- cadeiras
- cadernos
- caixas
- caminhões
- canto
- carro
- caso
- cheiro
- classe
- colocando
- comopré
- compiladores
- compilar
- conhecendo
- considere
- construir
- contem
- controle
- cor
- coseno
- cujas
- cujo
- custo
- dadas
- debuggers
- definem
- definir
- deixando
- denominados
- descrevendo
- desenvolvida
- design
- designde
- deve
- dispositivo
- distraem
- dizer
- egoto
- embalados
- embora
- emergiram
- encarnações
- entender
- entendidas
- então
- envergadura
- envolve
- equação
- escrever
- escrivaninhas
- especificações
- estantes
- estruturas
- estudantes
- estudo
- etc
- exceto
- exemplificada
- existe
- favorecem
- faz
- fez
- fichário
- flor
- formando
- fornecem
- frações
- fricção
- gráficos
- herdados
- hidroavião
- ignorando
- imagine
- imediatamente
- implica
- incluindo
- inclusive
- incrementar
- incrementare
- indica
- informação
- informações
- inicio
- inspecionar
- inteiros
- inteligência
- is
- item
- lastchar
- linguagens
- linkers
- livros
- lógica
- make
- marca
- matemática
- memória
- menos
- menus
- monitor
- montar
- montare
- mostrado
- muitos
- multiplicar
- novamente
- números
- objetos
- onde
- operações
- palavras
- permitindo
- peso
- pisar
- planador
- planilha
- podem
- podemos
- portanto
- possivelmente
- precisarem
- preço
- processadores
- produtor
- produzindo
- produzirá
- professor
- professores
- profilers
- programas
- programação
- proporcionam
- pétala
- quatro
- readchar
- realizam
- rearranjadas
- refletindo
- reservar
- resultado
- retorna
- retém
- rosa
- salas
- search/replace
- sendo
- serem
- seções
- simplificado
- som
- soma
- somaé
- somente
- strings
- subtrair
- suponha
- surpreendentemente
- tal
- tamanho
- tanto
- terminais
- testando
- textura
- tipicamente
- tomemos
- torque
- trabalho
- transmitidos
- tratamos
- trocadas
- tão
- umastring
- umprofiler
- usando
- valores
- vamos
- variáveis
- vaso
- vendidos
- vermelho
- virar
- zerar
 ADD B
-ALGOL 
-APLICAÇÃO creation
-ARRAY 
-AVIÃO 
-AVIÃO class
-AVIÃO inherit
 Abordagem Orientada
-Abstração 
-Acesso– Usado
-Acrescente alguns
 Agora vamos
 Aided Software
 Alan Kay
 Algumas classes
-Algumas expressões
 Algumas linguagens
 Alguns editores
 Alguns estudantes
-Alguns exemplos
-Alguém poderia
-Alto 
 Alto Research
 Ambas ações
-Análise Análise
-Análise desoftware
 Apesar desta
-Apesar disto
-Após criar
-Aqui 
-Arquivo Ace
-BARCO 
-BARCO class
-BARCO inherit
-BOOLEAN Cada
-BOTAO 
-BOTÃO 
-Bertrand Meyer
-Biologia 
-Booch 
+B STORE
+C++ 
 CAMINHÃO 
-CARRO 
-CARRO class
-CARRO creation
-CARRO inherit
-CARRO providencie
-CHARACTER 
-CLOS 
-COBOL 
-CONTADOR 
-CONTADOR definida
 CONTADOR distintos
 Cada atributo
 Cada característica
-Cada classe
-Cada elemento
-Cada elevador
-Cada módulo
-Cada nuvem
-Cada objeto
-Caso contrário
-Cedo 
 Cite algumas
 Cite várias
-Claramente 
 Classe CONTADOR
-Classe IMPOSTO
-Classe básica
 Classes podem
-Clonagem Suponha
-Comandos tipicamente
 Common Lisp
-Comparação –
-ComponentesInternos 
 Computer Aided
 Considere agora
-Considere outro
 Consideráveis investimentos
-Constantine 
-Consultas nunca
-Conversão –
-Copiando Objetos
-DOUBLE 
 Descrição Gráfica
 Descrição modificada
 Desta maneira
-Deveria ficar
 Diagrama modificado
-Discutiremos alguns
-Dois objetos
-Duplicação– usada
-ELEVADOR contém
 Edward Yourdon
-Eiffel 
-Eiffel class
-Eiffel coerente
-Eiffel contém
-Eiffel devem
 Eiffel oferecem
-Eiffel permita
-Eiffel proporcionam
-Eiffel roda
-Elementos Básicos
-Embora cada
-Embora podendo
-Embora possa
 Engenheiros elétricos
 Engineering programação
-Entretanto 
-Então 
-Escreve mudança
-Essencialmente 
 Estado Interno
-Exemplos deStrings
-Existe 
-Existem muitos
-Existem operações
-Existem vários
-FORTRAN 
-Felizmente 
+Exercícios •
 Ferramentas comuns
-Finalmente 
-Função consulta
 Físicos usam
 Grady Booch
-Haverá três
-Herança Herança
 House dictionary
-IMPOSTO creation
-IMPOSTO cujos
-IMPOSTO eAPLICAÇÃO
-INTEGER 
-INTEGER b
 INTEGER enquanto
-INTEGER from
-INTEGER if
-ISE Eiffel
-Incidentalmente 
-Inicialização– usada
 Interno Suponhamos
-JANELA 
-KENNEL americano
-LISP 
 LISP significa
 LISt Processing
 Larry Constantine
@@ -393,116 +49,50 @@ Linguagens funcionais
 Linguagens orientadas
 Linguagens procedurais
 Lisp Object
-Logicamente 
 Lógicas –
-Medição –usada
-Meyer 
 Muitas crianças
-Muitas linguagens
-Muitas rotinas
-Muitas vezes
-Muitos exemplos
 Muitos leitores
-Nenhum detalhe
 Nenhuma dessas
-Nenhuma memória
-Nesse sentido
 Nesta abordagem
 Nestas construções
-Neste estado
-Normalmente 
 ODicionário Oxford
 Object System
-Objeto 
-Objetos Supondo
 Objetos ordinários
-Operador binário
-Operadores básicos
-Outra estrutura
 Outras linguagens
 Outros atributos
 Outros leitores
 Outros paradigmas
-PASCAL 
-PROLOG 
 Palo Alto
 Parâmetros Suponha
-Pascal 
-Portanto 
-Primeira ocorência
-Primeiro programa
-Programa teste
 Programas comerciais
 Programas nessa
-Programação cuidadosa
 Programação funcional
-Pré condições
 Químicos aprendem
-REAL 
-REAL from
-REAL if
-REAL is
 Random House
-Redimensionamento– usada
 Relações ent
-Remoção– usada
 Research Center
 Resolver Problemas
-Rodas 
-Rotinas Rotinas
-Rotinas existem
-SIMULAÇÃO indicam
-SIMULAÇÃO precisa
 STORE C
-STRING armazena
-STRING contida
-STRING deve
-STRING has–
-STRING make
-Simula 
 Sistemas orientado
-Sistemas orientados
 Smalltalk exemplificou
 Software Engineering
 Somente Smalltalk
-Status– usada
-Suspensão 
-TADs interagem
-TREM 
 Tabela Periódica
-Tal expressão
 Tal linguagem
 Tal mensagem
 Tanto artistas
-Testando 
-Tipos abstratos
-Tipos básicos
 Tom DeMarco
-Transmissão 
 Três categorias
-VEICULO 
 VEÍCULO 
-VEÍCULO class
 VEÍCULO contêm
 Vamos considerar
-Vamos rever
-Vetor inicial
-Várias classes
 Várias relações
-Vários capítulos
-Windows 
-Xerox 
 Xerox Corporation
-Yourdon 
-Yourdon definem
-abelha 
-abordagem 
 abordagem antiga
 abordagem estruturada
 abordagem orientada
 abordagem totalmente
 abordagem usada
-abstrata jamais
 abstrataem contraste
 abstração 
 abstração desta
@@ -511,301 +101,114 @@ abstração onde
 abstração representa
 abstrações 
 abstrações nestas
-acelerador 
 aceleração 
-acentos 
-acessada diretamente
-acessado diretamente
-acessados usando
-acessar caracteres
-acessar somente
-acesso aleatório
 acharão 
-acho 
-acima 
 acima dependem
 acima sugere
-aconselhável usar
 acostumando rapidamente
-acrescentar algumas
 adaptáveis 
-adiciona umastring
-adicionando números
-adicionar 
+adicionado àresultado
 adicionar alguns
 adicionar dois
-adição 
-administrar complexidade
-adornos triangulares
 agora bastante
 agora duas
-agrupar atributos
 ainda consideram
-ainda existe
 ainda sendo
-alcançar 
-aleatório 
-algoritmos 
 algoritmos desempenham
-algum conhecimento
-algum modo
-algum objeto
 algum substrato
-algum tempo
-alguma atitude
-alguma ação
-alguma condição
 alguma linguagem
-alguma maneira
 algumas aplicações
-algumas ações
-algumas características
-algumas classes
-algumas destas
-algumas entidades
-algumas mesas
 algumas pesquisas
 algumas profissões
-algumas vezes
 alguns anos
 alguns atributos
 alguns cientistas
 alguns comandos
-alguns elementos
-alguns métodos
 alguns poucos
 alguns princípios
-alguém definir
-alguém olha
-alguém quiser
-alocada count
-alocado count
-alocar memória
-alocação automatica
-alta velocidade
-altamente recomendável
-alterado diretamente
 alto nível
+altura 200
 aluno iniciante
-amarelo 
 ambiente gráfico
 ambiente moderno
-ambos nomes
-americano classificou
 amplamente usadas
 amplamente utilizada
 analise estruturados
-and c
-and then
 and usada
-andar 
-anos 
-anteriores construindo
-anteriormente 
-antiga 
-antigo deindex
-antigo desanexado
-análise 
-análise cuidadosa
-análise edesign
 análise numérica
-análise orientada
 análises 
-análises orientada
-aparente 
-apenas através
-apenas declarado
 apenas diagrama
 apenas valores
-aplicada repetidamente
-aplicativo Eiffel
-aplicação 
-aplicação completa
-aplicação dada
-aplicação doshort
-aplicação inicial
-aplicação vamos
 aplicações comerciais
-aplicações específicas
 aplicações resolvem
-apoiar interfaces
 apoio continuado
 apoio escritos
-aprendemos 
 aprendendo primeiramente
 aprender logo
 aprender matemática
 aprender princípios
 apresentada desde
-aqui share
 aquisitivo aumentam
-armazenamento 
-armazenamento desnecessário
-armazenamento secundário
-arquitetura estática
-arquitetura inicial
-arquivo Ace
-arquivoACE informa
-arquivos Ace
-arquivos gerados
-array 
 arredondamento presente
-arte 
-artificiais 
-artificial 
 artista irá
 artistas quanto
-aspas 
-aspecto 
-aspectos numéricos
 aspectos referentes
-aspectos relevantes
-assembly 
 assembly modernas
 assembly representam
 assembly usam
 associaçãoe uso
-associações apropriadas
-associações incluem
-asstrings 
-assumem inicialmente
 assumiremos quequantiadeve
-astring atual
-astring destino
-astring inclui
-astring usando
 atingir desejada
-atitude end
 atribuição 
-atribuições Existem
-atributo 
-atributo peso
 atributo representa
-atributos 
-atributos associados
-atributos assumem
-atributos comuns
-atributos gerais
-atributos separados
-atributoscor 
-atributospeso 
 atrás dessas
-atuais dastring
-atual compartilhe
-atual put
-audaciosa 
-aula 
-aula universitária
 automóvel real
 autor deste
 autômatos 
-avançados outros
-avião 
-avião decola
-avião podem
 aviões 
-ação abaixo
-ação apenas
-ação end
 ação executada
-ação realizada
 ações 
 ações acontece
 ações dadas
 ações iniciam
 ações restantes
 aéreo 
+b representam
 baixo nível
 bancário 
-barco 
-barcos 
-base fundamental
-base principal
 base sólida
 bastante distinta
 bastante propensas
 bastante usuais
-bem conhecida
-bem diferente
-bem enfocada
 bem escrito
 bem poderosos
 beneficiar altamente
-biblioteca 
-biblioteca existente
-biblioteca externa
-biblioteca padrão
-bibliotecas existentes
-bibliotecas importantes
-bibliotecas padrão
 bibliotecas reutilizáveis
-bicicleta 
-botão escolhido
-botão selecionado
 botões 
-branco head
-breve descrição
-brinquedo 
 brinquedo favorito
-básica física
-básica lógica
-básicas poderiam
-básico enquanto
-básicos 
-básicos INTEGER
-básicos apresentados
-básicos recebe
-cachede alta
+c recebe
+c representa
 cada casa
 cada cilindro
 cada classe
 cada comando
-cada execução
-cada módulo
 cada objeto
 cada operação
 cada pistão
-cada posição
 cada processador
-cadeiras 
-cadeiras podem
-cadernos 
 calculados através
 caminhão 
 caminhões 
-canto 
 canto superior
 capacidade finita
 capítulo 
 capítulo explica
-capítulos posteriores
-caracter 
-caracter NULL
-caracter específico
-caracter item
-caracteres 
 caracteres alfabéticos
-caracteres atuais
-caracteres dastring
-caracteres delimitados
-caracteres end
-caracteres grow
-caracteres individuais
-caracteres insert
-caracteres limitada
-caracteres maiúsculos
-caracteres minúsculos
-caracteres nastring
-caracteres podem
 caracterizado tanto
 caracterizar objetos
 característica herdada
 características comuns
-características encontradas
 características essenciais
-características físicas
-características importantes
-carro 
 carro desenvolvido
 carro grande
 carro incluem
@@ -813,190 +216,75 @@ carro independente
 carro leve
 carro pequeno
 carro podem
-carro poderia
 carro real
 carro vermelho
-carros 
 carros chegam
 casa decimal
 casas decimais
-caso 
-caso contrário
-caso dado
-caso onde
 caso programação
 categorias baseadas
 categorias principais
-causam alocação
-certa cor
 certa maneira
-certos atributos
-chamada ARRAY
 chamada decomposição
 chamada deencapsulamento
 chamada linguagem
 chamada programação
-chamadas consultas
-chamadas módulos
-chamadas somente
-chamado arquivoACE
 chamado compilador
-chamado ordenação
 chamados deatributos
-chamados operadores
-chassi 
-cheiro 
-cheque pessoal
-cinco elementos
 citado incrementou
 ciência cognitiva
-ciências 
 ciências naturais
 ciências requerem
-claro 
-claro nessa
-claro queindicedeve
-claros ligados
-class APLICAÇÃO
-class AVIÃO
-class BARCO
-class CARRO
-class IMPOSTO
-class VEÍCULO
-class interface
-classe 
-classe APLICAÇÃO
-classe ARRAY
 classe AVIÃO
-classe Aplicação
-classe BARCO
-classe BOTAO
-classe BOTÃO
 classe CARRO
 classe CONTADOR
-classe ELEVADOR
-classe GRÁFICOS
-classe IMPOSTO
 classe JANELA
 classe SIMULACAO
-classe SIMULAÇÃO
-classe STRING
-classe VEICULO
 classe VEÍCULO
 classe abstrata
-classe adicional
 classe concreta
-classe criança
 classe dada
-classe descendentes
 classe detalham
-classe deve
-classe encapsula
-classe exibindo
 classe existente
 classe fica
 classe incluam
 classe mãe
-classe padrão
 classe pai
-classe paraelevador
-classe particular
-classe precisa
-classe raiz
-classe referida
-classe simplificada
-classe tal
-classes IMPOSTO
-classes MATEMÁTICA
-classes VEICULO
-classes VEÍCULO
-classes adicionais
-classes básicas
 classes concretas
-classes contém
-classes descendentes
 classes diferentes
-classes especificadas
-classes importantes
-classes interligadas
 classes modificado
-classes mãe
-classes principais
 classes sãoabstratas
-classes unidas
 classificamos objetos
-classificar objetos
 classificar tipos
 classificação CARRO
 classificação hierárquica
 classificação serve
-cliente 
-clube KENNEL
 coeficiente aerodinâmico
-coerente 
 coexistir tanto
-coisa 
-coleta automática
-coletor automático
-coleção interconectada
-colocado dentro
-colocando então
-comando 
 comando adicional
 comando cria
-comando criar
 comando dado
-comando deve
 comando indica
-comando loop
-comando ordinário
 comando permite
-comando tal
-comandos 
 comandos definidos
 comandos disponíveis
 comandos requerem
 combustão interna
-comece feature
-comece is
 comerciais escritas
 comerciais usualmente
-comercial 
-começo 
-comloop aparecerão
-comparar duasstrings
 comparação 
-compartilhar certos
-competente 
-competente antes
-compilador 
 compilador gera
-compilador verifica
-compiladores 
-completamente especificado
-complexa linguagem
 complexa operação
-complexas 
 complexas operações
 complexos sistemas
 componente distinto
-componente reusável
-componentes 
-componentes desoftwareé
-componentes essenciais
 componentes gráficos
-componentes individuais
 componentes principais
-componetesMotor 
-comportamento consistindo
-comportamento desejado
 comportamento diferente
 comportamento dinâmico
-comportamento esperado
 comportamento fornece
 comportamento podem
 comportamento quanto
-computador 
 computador chamado
 computador digital
 computador executar
@@ -1017,768 +305,311 @@ computação representa
 comuns desoftware
 conceito deinformação
 conceitos chave
-conceitos fundamentais
-concreta 
 concreta adquire
-condições 
-conectados junto
 conector ponto
-configuração chamado
 confortante saber
-conhecendo onde
-conhecer onde
-conhecida série
-conjunto associado
 conjunto estruturas
-conjunto logicamente
 conjunto próprio
-considerado outro
-consideraremos somente
-considere 
 consistência 
-construir Algumas
-construir aplicações
-construir envolve
-construir feature
 construir tal
-construção acima
-construção deloop
-construção desoftware
-construção doloop
-construções comloop
-construída retorna
-construído 
-constultas class
-consulta 
-consulta corretamente
 consulta especifica
 consulta permite
 consulta tanto
-consultacounté usada
-consultaitemdearray discutido
-consultalastint 
-consultas definidas
 consultasde outros
-consultaslastint 
-consumidor 
-consumidor competente
-consumiu 
+contador •
 contagem podem
 contar coisas
-contar eventos
-contendo caracteres
-contexto 
-contida nastring
-contidas nesta
-continuar adicionando
-continuará indefinidamente
-contorno 
-contraste evidente
-contrário 
-contém aproximadamente
-contém atributos
-contém somente
 contêm características
-coordenada polar
 coordenada superior
 coordenada x
 coordenaday igual
-copiar partes
-copiar umastring
-cor 
 cor devem
-corpo doloop
-correta porém
-corretamente alocada
-corretamente construída
-corretamente construído
-corrigidos 
-corrupções negligentes
-coseno 
-creation comece
-creation criar
-creation inicio
 cria einicializa
 criadas centenas
-criado 
-criado explicitamente
-criados 
 criados dentro
-criam objetos
-criança contém
 criança parece
 criança pede
 crianças desenvolvem
 crianças podem
-criar 
 criar einicializar
-criar feature
-criar montar
+criar –
 criaturas orientadas
-criação 
-criação definida
-criação dentro
-criação deve
-criação especificada
-criação específica
-cuidadosa consideração
-cuidadosamente escolhido
 cuja altura
 cujas coordenadas
-cujas propriedades
 cujo comprimento
-cujo objetivo
-cujo propósito
-cujo valor
-cujos detalhes
-cursor movida
-curto circuito
 cálculo 
 cálculos 
 cálculos usados
-cães 
-círculo escuro
-círculos claros
-código 
-código abaixo
-código acima
 código executável
-código ilustra
-código logo
-código mostra
-código novo
-código numérico
-código seguinte
-dada 
 dada acima
-dada aplicação
-dado abaixo
-dado acima
-dado dentro
-dado deve
+dado ``
 dado devem
-dado vetor
-dados 
-dados CONTADOR
-dados consiste
-dados contidas
-dados definiu
-dados disponível
 dados fornece
-dados fornecem
 dados mantidos
-dados permitiria
-dados proporcionam
 dados servem
-dados subjacente
-dados sãocriar
-dados– usada
-dastring 
-dastring dada
-dastring fonte
-deEiffel fazer
-debuggers 
 debuggerssão usados
 debuggeré programa
-declarado 
-declarado explicitamente
-declaração end
-declaração existe
-declarações dentro
 declarações descritivas
-decola else
-decola end
-decomposição construindo
 decomposição funcional
-dedesigne análise
-dedutível atual
 deduções derivadas
-default assertion
-default feature
-define atributos
 definem objetos
-definida anteriormente
 definidas geralmente
-definidas nesta
-definidos tendo
 definir precisamente
-definiu propriedades
 definição acima
 definição dada
-denominada linguagem
 deresultadoem três
-descobrindo 
-desconhecidos 
 descrito resumidamente
 descrição estática
 descrição gráfica
 descrição simplificada
-deseja alocar
-deseja criar
 desejada meta
 desejado estudar
 desejado incrementar
-desejados 
 desejamos adicionar
 desejamos construir
-desejamos escrever
-desejar acrescentar
-desejar parar
-deseje desenvolver
-desenhar figuras
 desenho mal
-desenvolver novas
 desenvolver tal
 desenvolvimento desoftware
 desenvolvimento desoftwarealtamente
 desenvolvimento desoftwarefoi
 desenvolvimento desoftwarenão
 desenvolvimento ferramentas
-design 
 designde compiladores
-desoftware 
 desoftware normalmente
 desoftwarealtamente individual
-desoftwarecontendo vários
 desoftwarefoi feita
 desoftwarefreqüentemente representa
 desoftwarenão começa
 desoftwarepara auxiliar
 desoftwaresão construídos
 desoftwareé composto
-desoftwareé construída
 desoftwareé visto
-dessa operação
 dessas ações
 dessas duas
 dessas linguagens
 dessas operações
-dessas partes
-desta classe
 desta entidade
-desta estrutura
-desta expressão
 desta ideologia
-desta linha
 destas classes
 destas duas
 destas expressões
-destas funções
-deste apêndice
-deste atributo
-deste importante
 deste livro
 deste simples
 deste trabalho
-destes componentes
-destes detalhes
 destes objetos
-destes serviços
-destino extend
-destringssão fornecidos
-destruindo objetos
 detalham precisamente
-detalhe mostrado
 detalhes definidos
-detalhes formais
-detalhes relacionados
 determinada capacidade
 determinada cor
 determinada função
 determinada linguagem
-determinadastring prepend
-determinadastring put
-determinadastring set
-determinado caracter
-determinado inteiro
 determinado período
-determinado tamanho
-deve consultar
-deve descrever
-deve estar
-deve estudar
-deve olhar
-deve permitir
-deve substituir
 deve unificar
-devem estar
 devem fazer
 devemos evitar
 devemos usar
 deveremos usar
-deverá mostrar
-deverá verá
 dez ações
-diamante 
 diante chamados
-diferente precisa
-diferentes 
 diferentes açõesincrementarefetuadas
 diferentes exemplos
-diferentes locais
 diferentes tipos
-diferentes trabalhando
 diferentes uns
 digital realizar
-diretamente usando
 disciplina inicial
-disciplinada permite
-discutido anteriormente
-discutir aqui
-discutiremos diversos
 dispendiosas ferramentas
-disso 
 distinguir objetos
-distintos 
-disto poder
 diversas partes
-diversas seções
-diversos métodos
 dizer porque
 diálogo 
-dois 
-dois blocos
-dois comandos
 dois componentes
 dois exemplos
 dois modelos
-dois nomes
 dois números
-dois objetos
-dois operadores
 dois parâmetros
-dois pontos
-dois primeiros
-doloop 
 duas categorias
 duas classes
-duas formas
 duas linguagens
 duas mensagens
 duas subclasses
-duas vezes
-eAPLICAÇÃO constituem
 editor então
 editores sensíveis
-efetivamente destrói
-efetuadas 
-efetuar nenhuma
 elaborada classificação
-elemento unificado
-elementos básicos
-elementos simples
-elementos– usada
-elevador 
-elevador Discutiremos
-else Result
-else c//b
-else if
-elétrico 
 elétricos aprendem
 embora existam
 emergiram várias
 empréstimo 
-encapsulamento bem
 encarnações 
-end Aqui
-end Exemplo
-end Operador
-end Outra
-end and
-end end
-end if
-end implies
-end imprimir
-end interface
-end representam
-endereço único
 enfatizar abstrações
-enfocada porção
-engenharia 
 engenharia desoftware
-engenheiro 
 engenheiro deve
 engenheiro irá
 engenheiros precisam
 enorme popularidade
-enquanto outras
 ent re
 entendida informalmente
 entendimento abstrato
 entidade visível
-entidades adicionais
-entidades lógicas
-entidades seguintes
 entidades tangíveis
-entrada externa
-entrada padrão
-entrada usados
 então 
-então compara
 então gera
-envolve análise
-envolve determinar
 envolve dois
-envolve entendimento
-envolve modelagem
 envolve requisitos
-envolve somente
-envolvem muitos
 envolvem vários
 equação diferencial
 equações químicas
 esboço mal
-escolha deve
 escrever diretamente
-escrever umastring
 escrita deste
 escrito acima
 escrito deve
 escritos porque
-escrivaninhas 
-escuro conectando
 esforço culminou
-espaço reservado
-espaços finais
-espaços iniciais
-espaços insert
-especifica onde
-especifica queinicio
-especificadas acima
 especificado corretamente
-especificado resize
 especificação precisa
 especificações 
-específica 
-específicas dastring
-específico aparece
-específico remove
 esquerdo dado
-essenciais 
-essenciais devem
-estado 
 estado atual
 estado interno
 estados internos
-estantes 
-estar acompanhados
 estar baseada
-estar fazendo
 estar inscritos
-estar intimamente
 estar querendo
 estará apto
-estilo geral
-estratégia altamente
-estrutura simples
 estruturada quanto
 estruturados apresentados
-estruturas 
-estudantes 
 estudantes terminam
-estudar cuidadosamente
-estática 
-evento 
-evento exibido
-eventualmente encontrada
-eventualmente tornarão
 evoluem dinamicamente
-examinado aqui
-examinaremos outros
-exceto osn
 excitante paradigma
 exclusivamente orientada
 executada passo
-executado antes
-executado baseado
 executado sob
-executados exatamente
-executados repetidamente
 executável compondo
-exemplo 
 exemplo final
-exemplo perfeito
-exemplo reinventar
 exemplo simples
-exemplo suponha
-exemplos 
-exemplos Operador
-exemplos acima
-exemplos adicionais
-exemplos destringssão
-exercite algumas
-exibe resultados
-exigido 
 existam três
-existentes nele
-existência ocorre
-explicitamente criados
-explorados nesta
 exploração muitos
 expressar algoritmos
 expressão automaticamente
-expressão c//b
-expressão nunca
-expressões acima
-expressões deelseif
 expressões envolvem
 externa enviada
 externa requerida
 extrair características
 extremamente produtiva
 facilmente adaptáveis
-facilmente removidas
 faixas diferentes
-falsa 
 fascinação parece
-fato 
-favor 
-faz impróprio
-faz uso
 fazemos contas
-fazendo qualquer
 fazer curvas
-fazer entrada
 fazer sentido
-fazerreadint retornar
-feature comece
-feature criar
-feature inicio
-feature specification
-feitos 
 feitos esforços
 fenômenos complexos
 fenômenos envolvem
-ferramenta chamadashort
-ferramenta retira
 ferramentas comuns
 ferramentas desoftwarepara
 fez algumas
 fica atrás
 fica escrito
-ficar claro
-fichário 
 figura inclui
-figuras geométricas
-fim deste
-final 
-final desta
-flor 
-forma 
 forma descrita
-forma desta
-forma geral
 forma precisa
 forma significativa
 formalmente definida
-formatação Eiffel
 formular abstrações
-fornecem poderosas
 fornecem valores
-fornecidos 
-fornecidos abaixo
 fortemente influenciado
 fração recorrente
-frações decimais
-frear 
-freio 
 freqüentemente distinguimos
 freqüentemente embrulhado
 freqüentemente leva
 freqüentemente permite
-from index
-from soma
-funcional 
+funcionais –
 funcional forma
-fundamentais dedesigne
-fundamentais envolvendo
-função calcular
+funcional –
 funções 
 funções adicionais
-funções chamadas
 funções corretamente
-funções podem
 fácil entendimento
-física 
 física precisa
 físico Cientistas
 fósforos 
 ganhando popularidade
-garbage collection
-garbage collector
 generalização antes
 geométrica definida
 gera instruções
-geralmente aconselhável
-geralmente baseada
-geralmente composto
-geralmente compostos
 geralmente menos
 geralmente requer
-gerenciar complexidade
-grande estudioso
 grande projetos
 grande vantagem
-grupo relacionado
 gráfica extremamente
 gráfico tipicamente
 gráficos 
 gráficos podem
 habilidade comum
 habilidade natural
-has– astring
 herança 
 herança sugere
-hidroavião 
-hierarquia canina
-hierarquia deverá
-hierarquia veículo
 hoje embora
 humanos parecemos
-humanos possuem
-identação segue
-identidade d
-identidade própria
 idéia central
-idéias anteriores
-iguais 
-iguais tome
-importante 
-importante componente
 importante primeiro
 importância considerável
 impossível 
-imposto baseada
-imposto devido
-imprimir caracteres
 incluam parâmetros
-incluem relações
 incluem sistemas
-incluem tal
 inclui objetos
 incluindo carros
-incluindo seno
 incluiria informações
-inclusive Eiffel
 incluíam FORTRAN
 incluídas textura
-incrementar 
 incrementar oresultadodo
 incrementar– adicionar
-independentes 
-index assuma
-index recebe
-index vezes
-indicado anteriormente
-indice 
 indução 
-inferior 
-inferior igual
-informalmente 
 informação 
 informação contida
-informação datilografada
 informação externa
 informações 
-informações complexas
-informações contidas
 inglês Computer
-inherit VEÍCULO
-inicial destes
 inicial igual
-inicialização 
-inicialmente valores
 iniciante vai
-inicio 
-inicio contém
-inicio feature
-inicio is
-inserir caracteres
-inserir valores
 inspecionar outra
 inspecionar valores
 inspeção visual
 instrumento essencial
-instrução index
-instrução indice
-instruções contidas
 instruções escritas
 instruções fornecidas
 instruções poderiam
 instruções precisas
 integra várias
-integrada 
-inteiro 
-inteiro arbitrário
-inteiro dentro
-inteiro qualquer
-inteiros 
 intelectual associado
 inteligência artificial
-interagem uns
 interações dinâmicas
-interessados 
-interface 
-interface desta
-interface deste
-interface formal
 interface gráfica
-interface quanto
-interface usando
-interfaces gráficas
-interna 
-internos verde
-interrompida end
-intimamente relacionada
-introdutória deste
 introduzirá técnicas
 invés 
 iriam querer
-irá achar
 irá enfatizar
-item 
-janela 
 janela inclui
-janelas 
-jato 
-jovens 
-justo argumentar
-lado 
 lançada comercialmente
 lançamento comercial
 largamente usada
-lastreal 
-layout errado
 leitor aprenda
-leitor deve
 leitores deste
 leitores podem
-ler 
 letras maiúsculas
 letras usadas
-lexicograficamente menor
-like Current
-limite legal
-limites legais
-linguagem 
-linguagem Eiffel
 linguagem assembly
 linguagem assemblysão
-linguagem direta
 linguagem híbrida
-linguagem nasceu
 linguagem natural
 linguagem orientada
 linguagem precisa
-linguagem totalmente
 linguagem usa
 linguagem visava
-linguagens 
 linguagens assembly
 linguagens baseadas
 linguagens derivadas
 linguagens dominantes
-linguagens fornecem
 linguagens funcionais
 linguagens mencionadas
 linguagens naturais
@@ -1786,14 +617,8 @@ linguagens orientadas
 linguagens procedurais
 linguagens suporta
 linguagens técnicas
-linha abaixo
 linha especifica
-linha executável
 linha horizontal
-linha indica
-linkers 
-lista relativamente
-livro 
 livro acredita
 livro considera
 livro inspire
@@ -1802,93 +627,36 @@ livro introduzirá
 livro podem
 livro representa
 livro visa
-livros 
-lixo recicla
-locais 
-locais onde
-local dados
-local separado
-local temporário
-logicamente coerente
-logicamente relacionado
-logo abaixo
 logo cedo
 logo seguida
-loop altera
-loop continuará
-loop corretamente
-loop index
-loop indice
-loop loop
-loop representam
-loop soma
-loopé executado
 lugar seguro
-luz através
-luz deve
-luz incluem
 lógica exemplificada
-lógica fundamental
-lógico binário
-lógico requer
-maior número
 maiores detalhes
-maiúsculas substring
-make 
+maiores áreas
 mal feito
-maneira 
-maneira deste
 maneira diferente
 maneira harmoniosa
 maneira integrada
 maneira natural
 maneira orientada
-maneira precisa
+maneira única
 maneiras diferentes
-manter informação
 manter informações
-massa 
 matemática básica
-matemática computacional
-matemáticas 
 matemáticas avançadas
-melhores características
 membro particular
-memória alocada
-memória através
-memória cachede
-memória corretamente
-memória destacada
-memória diferente
-mencionadas 
 mencionado acima
-mencionado anteriormente
 menores ainda
 menos complexas
 menos conhecidas
 menos manobrável
-menos osn
 menos produtivo
 mensagem correspondente
 mensagem incrementarpara
-mensagem novamente
-mensagens 
 mensagens acima
-mensagens enviadas
 mensagens tomam
-menus 
-mesma aplicação
 mesma cabinedepedágio
 mesma maneira
-mesma região
-mesma seqüência
-mesma seção
-mesmos tome
-mesmos valores
-minúsculas 
-misteriosa 
-modelado 
-modelados 
 modelados facilmente
 modelo abstrato
 modelo comportamental
@@ -1896,295 +664,130 @@ modelo depende
 modelo estático
 modelo físico
 modelo geral
-modelos 
-modernas 
 modernas suportam
-modificado 
-modificado apenas
-modificado através
 modificar caso
-modificar partes
-modo 
-modo diferente
 modo misto
-momento oportuno
-monitor 
-montar 
-montar construir
-montare construir
 monótona parte
-mostra parte
-mostrada tendo
-mostradas 
-mostrado brevemente
 mostrados aqui
 mostrados através
-mostrados end
-mostrar novos
-motocicleta 
-motor 
-motor particular
-muda elemento
-mudadas 
-mudar dinamicamente
 muitas maneiras
-muitas rotinas
-muitas subclasses
 muitos ainda
 muitos carros
 muitos cientistas
-muitos comandos
-muitos objetos
-muitos outros
 muitos princípios
 muitos programadores
 muitos tipos
 máquina 
-máximo ‘
 mãe 
 mãe devem
-métodos importantes
-mínimon caracteres
 mínimos detalhes
-módulo contém
-módulo representa
-nastring dada
-nastring mirrored
-natural 
 naturalmente reconhecer
-natureza introdutória
-natureza preliminar
-negação lógica
 negocio multimilionário
-nenhuma rotina
-nenhuma tarefa
-nessa discussão
 nessa linguagem
 nesse capítulo
 nesse caso
-nesse objeto
 nesses dados
-nesta biblioteca
-nesta classe
-nesta hierarquia
-nesta sessão
 nestas linguagens
-neste capítulo
-neste caso
 neste livro
 nome CONTADOR
-nome dado
-nomes diferentes
 nomes usados
-normalmente destruídos
 normalmente disponíveis
-notação 
 notação acima
-notação deBoochpara
 notação onde
 notável linguagem
-nova aplicação
 nova classe
 nova evolução
-nova palavra
-novamente 
-novas aplicações
 novas linguagens
-novo armazenamento
-novo caracter
 novo conjunto
-novo double
-novo inteiro
 novo objeto
-novo real
-novos dados
 noção deherança
 noção simples
-numera quantas
 numérica 
 numéricos 
 nunca desenvolver
-nunca mudam
 nuvem pontilhada
-nuvem sólida
 nuvens sólidas
 nível 
 nível alto
-nível apropriado
-nível molecular
-número atual
-número especificado
 número específico
-número indicando
 número infinito
-números conforme
-números crescentes
 números indicam
-números inteiros
-números seguidos
-objetivo desejado
-objetivo principal
-objeto 
 objeto CONTADOR
-objeto STRING
 objeto Vamos
-objeto assume
 objeto citado
 objeto contador
-objeto cujas
-objeto dado
 objeto descrevem
-objeto deve
 objeto enquanto
-objeto envolve
-objeto especifico
 objeto existe
-objeto independente
-objeto inteiro
 objeto janela
 objeto menos
 objeto ordinário
-objeto padrão
 objeto particular
 objeto ponto
-objeto recebe
 objeto recebendo
 objeto simulacaoenviando
 objeto temdadose
-objeto usando
-objeto vazio
 objeto vista
-objetos 
 objetos CONTADOR
 objetos Coad
-objetos Eiffel
-objetos Modelagem
-objetos Programas
 objetos Raramente
 objetos acima
-objetos assumem
 objetos baseando
-objetos causam
-objetos criados
 objetos desenvolvidas
-objetos devem
-objetos diferentes
 objetos envolve
 objetos envolvem
-objetos envolvidos
 objetos evoluem
-objetos independentes
 objetos interagem
 objetos interagindo
 objetos isolados
 objetos ordinários
 objetos podem
 objetos próximos
-objetos seguidos
-objetosbotões 
+objetos –
 objetosimulacaode enviando
-objetosnão básicos
-observado aqui
 obtendo informação
-obter algumas
-obter aspectos
-obter várias
-obtido usando
-ocorre neste
-ocorrer 
 onde dez
-operacionais 
-operador lógico
-operador unário
-operadores 
-operação lógica
-operação nesse
-operações adicionais
-operações associadas
-operações definidas
 operações executadas
-operações matemáticas
 operações menores
 operações semelhantes
 opinião 
-ordinário criar
-ordinário éVoid
 ordinários 
 oresultadodo objeto
 organismos vivosbaseados
-organização orientada
-original tail
-osn primeiros
-outra aplicação
-outra classe
-outra coisa
-outra copy
-outra maneira
-outra mirror
 outra parte
-outra rotina
 outra subclasse
-outra substring
+outra área
 outras classes
 outras instâncias
 outras linguagens
 outras matemáticas
-outras palavras
-outras partes
-outras pessoas
 outras sãoconcretas
-outrastring afetará
-outrastring contida
-outro andar
-outro caso
 outro dado
 outro lado
-outro nome
-outro objeto
 outro programa
 outro programador
 outros cientistas
-outros componentes
 outros documentos
-outros exemplos
 outros objetos
 outros programadores
 outros tipos
 ouvem falar
-padrão 
-padrão chamada
-padrão readchar
-pai define
 palavra chave
 palavra comum
 palavra herança
 palavra paradigma
-palavras 
-palavras loop
-palavras reservadas
 palavras tolas
 palavras técnicas
 papel central
 papel essencial
-parada nunca
 paradigma diferente
 paradigma orientado
 paradigma significa
-paraelevador Cada
 parece apta
 parece estar
-parecer tedioso
 pareça natural
-parte constituinte
-parte destes
-parte deve
-parte essencial
 parte principal
-partes constituintes
-partes essenciais
-particular 
 particular baseados
-particular envolve
 parâmetro 
 parâmetro eINTEGERé
 parâmetroquantia indica
@@ -2192,39 +795,20 @@ parâmetros
 parâmetros decriar
 parênteses indica
 parênteses vazios
-passado altera
 passo final
-passos fundamentais
 passos tradicionais
-pedaço potencialmente
-pensar 
-pequena 
-pequena porção
 pequeno erro
 pequeno incremento
-permita alguém
 permite modificar
 permite verificar
 permitem escrever
-permitiria somente
-permitirá rever
 perspectiva orientada
 pesado geralmente
-peso 
 pesquisas inovadoras
-pessoa aperta
-pessoa entra
-pessoa entrando
-pessoa escolhe
-pessoal usando
 pessoas ouvem
 planejamento vem
 planilha eletrônica
-plástico 
-pneus 
-podem acessar
 podem coexistir
-podem compartilhar
 podem distinguir
 podem estar
 podem incluir
@@ -2235,100 +819,47 @@ podemos executar
 podemos fazer
 podemos nunca
 podemos rapidamente
-podendo certamente
 poder aquisitivo
 poder funcionar
-poder tomar
-poderia 
-poderia entrar
-poderia fazer
-poderiam criar
-poderiam incluir
-poderosas abstrações
-ponte 
-pontilhada representa
-ponto flutuante
 ponto principal
-pontos representam
-popular 
 populares usadas
 popularidade rapidamente
-portanto 
-porém desnecessária
-posição assumem
-posição específica
-posição ‘
-posições específicas
+porque C++
 possa entender
-possa imprimir
 possamos modelar
 possivelmente ainda
 possivelmente desenvolvida
-possivelmente junto
 possuem operações
 possui instâncias
 possível chegar
-posteriores enfatizam
-potencialmente reutilizável
 potente linguagem
-pouco antes
 poucos laboratórios
 praticamente desconhecidos
-precisa 
-precisa acessar
 precisa aprender
 precisa chamada
-precisa desenhar
-precisa especificação
-precisa usar
 precisam desenvolver
-precisamente classes
 precisamente quais
-precisar realizar
 precisão 
 precisão finita
-preco 
-preenche umastring
-preliminar deste
-presente 
-pretende copiar
 previstas somente
 primeira ação
-primeira expressão
 primeira linguagem
-primeira ocorrência
-primeira ordem
-primeira troca
 primeiras ações
 primeiras linguagens
-primeiro caracter
-primeiro caso
 primeiro comando
 primeiro curso
-primeiro evento
 primeiro parâmetro
-primeiro programa
-primeiro teste
-primeiros caracteres
 primeiros computadores
-primeiros elementos
 principais componentes
-principais elementos
-principais identificadas
-princípio cada
-princípio decomposição
 princípio fundamental
 princípio importante
 princípios básicos
 princípios fundamentais
 princípios importantes
-problema 
-problema anterior
 problema dado
 problema especificado
 problema externo
 problema onde
-problema sendo
 problema sofram
 problemas decompõe
 problemas orientada
@@ -2337,60 +868,35 @@ problemas passa
 problemas reais
 problemas usando
 procedurais populares
+procedurais –
 processador específico
-processamento 
 processamento aritmético
 processo essencial
 processo formal
 processo inteiro
 processo intelectual
 processo sistemático
-produtiva 
-produtivo 
 produto comercial
 produto final
 produto freqüentemente
-produtor competente
-produzida separadamente
-produzindo algumas
 produzir dados
 produzir instâncias
 produzir resultados
-professor 
-professores 
-programa 
 programa amplo
 programa bem
 programa consiste
-programa deverá
 programa escrito
 programa especifico
 programa executa
 programa executado
 programa gasta
-programa orientado
-programa parece
 programa poder
 programa simulador
-programa teste
-programa tipicamente
-programa transfere
-programador 
-programador alocar
-programador cujo
-programador deEiffel
 programador determinar
-programador deve
 programador entrar
-programador faz
-programador instruído
-programador possa
 programador precisa
-programador simular
 programador usar
-programadores 
 programados usando
-programar neste
 programas desenvolvidos
 programas orientados
 programas possuem
@@ -2407,529 +913,209 @@ programação orientada
 programação proporciona
 programação qualquer
 programação salienta
-projeto 
-proporcionam meios
-proporcionam poderosas
 proposições lógicas
-propriedades deste
-propriedades externas
-propriedades singulares
 propriedades termodinâmicas
 propriedades visuais
 propósitos deste
-protocolo rigoroso
-providenciar qualquer
-providencie três
 prática 
-prédio comercial
-própria aplicação
-próprias palavras
 próprio computador
-próprio número
 próprio objeto
-próxima linha
 próximo capítulo
-próximo exemplo
-próximo número
 publicamente disponível
-puder pensar
-pura 
-pétala 
 quais computadores
 quais serviços
 quaisquer entidades
-quaisquer outros
 qualquer coisa
-qualquer comando
 qualquer computação
-qualquer inicialização
-qualquer mudança
-qualquer outra
-qualquer outro
-quantas vezes
-quantia end
 quantidade decimal
 quanto aplicada
 quanto engenheiros
-quanto inferior
 quanto prática
 quarta ação
 quase impossível
 quase qualquer
 quatro coisas
 quatro objetos
-queiramos computar
 queiramos construir
 quer dizer
-queremos continuar
 queremos criar
-queremos inserir
-queremos mostrar
-queremos reordenar
 querendo aprender
-querer consultar
-querer digitar
 querer ler
-quiser mudar
-quiser testar
 químicos 
-raiz 
-raiz nesta
-raiz quadrada
 rapidamente aprendemos
 rapidamente desenvolver
 razoável dizer
-raça pura
-readchar 
+re objetos
 reais após
-real 
 real bem
-real r
-realiza alguma
-realiza manutenção
 realizada nesses
-realizado determina
-realizado usando
 realizando ações
-realizar operações
 realizar tarefas
-rearranjadas 
-recebe b
-recebe index
-receber qualquer
-recente padrão
-recursos disponíveis
 referências 
 reforço teórico
 região geométrica
-reinicializa copiando
 relacionamento lógico
-relativamente pequena
 relativamente simples
-relação todo/parte
-relações hierárquicas
 relações importantes
-remover partes
-renda dedutível
-renda ultrapassa
-repetidamente 
 repetição 
 representam instruções
 representar algo
 representações internas
-requisitos 
 resolver problemas
-resolvido determina
-respectivos tipos
 responsabilidadesdo objeto
 resposta exata
-resultado 
-resultado desta
-resumo destes
-retorna informações
-retorna parte
-retornar informação
-retorno 
-retângulo escuro
 reutilizáveis desoftware
-revela somente
-rever novamente
-robusto 
-roda 
-root aplication
-rosa 
-rotina 
-rotina comando
-rotina consulta
-rotina displaymostra
-rotina end
-rotina inicio
-rotina neste
-rotina putstring
-rotinaclone disponível
-rotinacloneestá mostrada
-rotinacopy trabalhar
-rotinacopyé mostrada
-rotinas dadas
-rotinas definidas
-rotinas importante
-sala 
-sala ainda
-satisfeita 
 saída 
-saída default
-saída padrão
-saída simples
 saída útil
-segmento seguinte
-segredo associado
 seguinte estado
-seguinte maneira
-seguinte operador
-seguinte segmento
 seguinte seqüência
-seguintes declarações
-seguir 
-seguir usa
 segunda ação
-segunda expressão
-segundo evento
-segundo menor
-segundo plano
 segurança 
 semelhantes comosearch
-sempre 
-sempre armazenarão
-sendo acessado
-sendo denominada
 sendo diferentes
 sendo resolvido
 sendo umaclasse
 sendo utilizadas
-seno 
-sentença 
-separadamente 
 separação clara
-seqüência verde
 serem adicionados
 serem escritos
 serem realizadas
-serem tão
-serem usadas
-serem usados
 seres humanos
-serviço específico
 serviços associados
 serviços contidos
 serviços descritos
 serviços exclusivos
-serviços representam
-sessão anterior
-setas apontam
 sete ações
-seção anterior
 seção externa
 seções 
-seções seguintes
-seçõesfeature 
-seçõesfeaturesão listadas
-seçõesfeaturesão mostradas
+si através
 sido agrupadas
-sido associado
-sido construídas
-sido criado
 sido criados
 sido desenvolvidas
-sido iniciada
 sido largamente
 sido usada
 sigla LISP
-significa atribuir
 significa processamento
-significa vazio
-significativamente 
+significativo ""
 silenciosa pesquisa
-simples 
-simples aplicação
-simples diagrama
-simples entidade
-simples estrutura
 simples exemplo
-simples inteiro
-simples programa
-simples rotina
-simplificada IMPOSTO
-simplificado 
-simular TADs
 sintaxe misteriosa
 sintaxe relativamente
-sistemas Eiffel
 sistemas desoftwaresão
 sistemas operacionais
 sistemas visam
-sitemas Eiffel
-situação interna
 sofram mudanças
-software 
 software Incluídas
-software através
-software deve
 software durante
-software existentes
 software orientado
-software reutilizável
 softwarepara apoiar
-softwares Eiffel
-solicitada comdadosenviado
-solicitar através
 solução orientada
-som 
-soma mostrada
-soma realizada
-somaé aumentada
 somente Smalltalk
-somente através
 somente computadores
 somente mensagens
 somente podiam
-somente três
-sozinhas 
-status https
-string atual
-string consistent
-string contida
-string dada
-string occurences
-subclasse 
 subclasse compartilhe
 subclasse deve
 subclasse possibilite
-subclasses devem
-subgrupos 
 subproduto deste
 subrotina através
 substantivo Introduziremos
-substring contento
-subtrair 
 sugere ação
 superior esquerda
 superior esquerdo
-superior igual
-superior quanto
 suporta herança
 suportam estruturas
 suporte rico
-surpreendentemente 
-suspensão 
-system test
-sãocriar 
-sãoreadint 
-série geométrica
-símbolo indica
 símbolos químicos
 sócios 
-sólida representa
 tabulações baseado
 tais generalizações
-tais objetos
-tal 
 tal abstração
-tal aritmética
 tal classe
 tal comando
 tal curso
 tal janela
-tal modelo
 tal notação
 tal objeto
-tamanho 
-tanto orientado
-tanto superior
-tarde 
 tarde levou
 tarde nesse
-tarefa proveitosa
-tarefas 
-tedioso 
+tarefas úteis
 temdadose comportamento
-tempos 
 tendo algumas
-tentador fazerreadint
 tentam representar
 tentamos extrair
 terceira ação
-terceira sentença
-terceiro elemento
-terceiro evento
 terceiro número
 terminam tal
-test root
-testadas antes
-testando 
-teste lógico
-teste simples
-texto 
 texto modernos
-textos 
-textura 
 textura precisos
 teórica quanto
-teórico equivale
-then Result
-then c//b
-then comando
-then temporário
-tipicamente 
-tipicamente definido
 tipicamente encontrado
-tipicamente mudam
-tipicamente parece
 tipicamente realizada
-tipos abstratos
-tipos básicos
-tipos diferentes
 tipos numéricos
 tipos similares
 tipos trabalhando
 tomam conta
-tomar algum
-tomaremos desde
-tome alguma
 tornado agora
 tornado popular
 tornam ligadas
-tornar familiar
-torque 
-totalmente dependente
-totalmente desaconselhável
 totalmente descrito
 totalmente nova
-totalmente orientada
 trabalhando juntos
-trabalho 
 trabalho criativo
-trabalho realizado
-transfere informação
 transformação –
 transformações funcionais
-transmissão 
-transmitido através
-tratamos umastring
 traços comuns
-trocadas 
-trocados 
 tráfego aéreo
-três classes
 três contadores
-três eventos
-três exemplos
-três expressões
-três inteiros
-três linhas
 três maneiras
-três nuvens
-três números
 três objetos
 três partes
 três parâmetros
 três primeiras
-três rotinas
-três tipos
 três unidades
-três valores
-três veículos
-tulipa 
-tão importante
 tão teórica
 técnicas importantes
-típica aplicação
-típica declaração
 típica linguagem
 umaclasse abstrataem
 umaclasse concreta
-umastring append
-umastring capacity
-umastring occurrences
-umastring out
-umastring podem
-umastring precede
-umastring prune
 unidade básica
-unidade central
-unidades 
-unidades algumas
-unificado cujo
 unificar formato
-universidade 
 usa seqüências
 usada neste
 usada principalmente
 usadas descrevem
 usadas hoje
 usadas letras
-usadas rotinas
-usado significando
-usados sãoreadint
 usam caracteres
-usando classes
 usando linguagem
 usando objetos
-usar recursos
 usar tal
-uso 
-uso Muitas
-uso desta
 uso destas
-uso doloop
-usuais 
-usualmente baseada
 usualmente vêm
 usuário 
-usuário ajustar
-usuário dentro
-usuário deve
-usuário mostrar
-usuário transfere
-utiliza algumas
 utilizadas hoje
 utilizarcomandosou consultasde
-utilizou 
-valor 
-valor ASCII
-valor Void
-valor anterior
-valor antigo
 valor atual
-valor corrente
-valor defaultde
-valor defaultdefalse
 valor deresultadoem
-valor deste
-valor duas
-valor igual
 valor inicial
-valor inteiro
-valor passado
 valor positivo
-valor real
-valor teórico
 valor total
-valores booleanos
 valores característicos
-valores dados
-valores default
 valores externos
 valores fracionários
 valores inteiros
 valores numéricos
-valores padrão
-valores podem
-vamos aproximar
 vamos considerar
-vamos examinar
-variação legal
 variações proporcionam
 variáveis 
 variáveis constituem
 variável c
 vazios perto
 vem facilmente
-vem junto
 vem primeiro
-vendidos 
-ver 
-ver figura
-verdade 
-verdadeira 
-verde 
 verificado através
 versão final
-vetor 
-vetor colocando
-vetore mostrado
-vetores baseados
-vezes chamadas
-vezes maior
 veículo vermelho
 veículos chegam
 veículos conhecidos
@@ -2937,16 +1123,10 @@ veículos incluindo
 visa propiciar
 visam controlar
 visava proporcionar
-vista 
-vista examinado
 vista neste
 visuais abstratas
 visão externa
-volante 
-volta 
-volta geralmente
 várias categorias
-várias devem
 várias entidades
 várias espécies
 várias gerações
@@ -2954,36 +1134,11 @@ várias linguagens
 várias maneiras
 várias novas
 várias partes
-várias rotinas
-várias seçõesfeature
-várias seçõesfeaturesão
-vários botões
-vários caracteres
-vários componentes
-vários erros
 vários estímulos
 vários objetos
 vários parâmetros
-vários subgrupos
 vários tipos
-vão interagir
 vêm acompanhados
+x igual
 zerar– muda
-àquela região
-época incluíam
-índice 
-índice alguém
-índice especificado
-índice especificadoé
-índice específico
-índice inferior
-índice recebe
-última operação
-última seção
-últimos anos
-últimos dois
-única apesar
-única entidade
-única linha
-único comando
-único dito
+zero •
