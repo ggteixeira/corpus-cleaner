@@ -19,7 +19,6 @@ Convert Popular
 Convert Rock
 DDD entenda
 Descubra tudo
-Desenvolvimento DevOps
 DevOps Ebook
 Ebook ITIL
 Então compartilheo
@@ -31,11 +30,9 @@ Galeria Descubra
 Galeria Multicloud
 Galeria Saiba
 HTML CSS
-HyperText Markup
 ITIL Segurança
 Ionic utiliza
 JavaScript Ajax
-Markup Language
 Multicloud saiba
 Nesse sentido
 Outro diferencial
@@ -52,7 +49,6 @@ Style Sheets
 TDD BDD
 UX Galeria
 Usar frameworks
-User Experience
 aberto usuários
 acontece porque
 adquiridos acerca
@@ -74,13 +70,11 @@ apoio dado
 aproveitar códigos
 aproveitar diferentes
 arquitetado justamente
-arquitetura MVC
 ativa auxilia
 atualmente bem
 auxiliando tanto
 avaliem constantemente
 ações ferramentas
-back end
 basta incorporálos
 bastante simples
 bastante utilizado
@@ -93,7 +87,6 @@ bem tanto
 boa comparação
 bom framework
 bugs disponíveis
-bugs graves
 buscar reduzir
 cada projeto
 cada vez
@@ -144,7 +137,6 @@ cuidados devem
 cuja ideia
 cuja maioria
 código presentes
-códigos HTML
 códigos abstratos
 códigos bastante
 códigos podendo
@@ -177,7 +169,6 @@ diferentes tipos
 diretamente ligado
 diretamente relacionado
 disponíveis Criado
-dispositivos móveis
 disso praticamente
 diversas ferramentas
 diversas funções
@@ -248,13 +239,11 @@ framework ideal
 framework normalmente
 framework oferece
 framework próprio
-frameworks PHP
 frameworks avaliem
 frameworks disponíveis
 frameworks existentes
 frameworks fazem
 frameworks infragaeacombr
-frozen spots
 funções Enquanto
 funções Rock
 funções criadas
@@ -265,7 +254,6 @@ funções operam
 funções podem
 funções similares
 gastar tempo
-gerenciamento ágil
 grande diferença
 grande escala
 grande número
@@ -276,7 +264,6 @@ grandes projetos
 guias sistemas
 herança Aliás
 hipertexto HyperText
-hook points
 host spots
 híbridas possíveis
 ideia principal
@@ -295,9 +282,7 @@ interessante Então
 interna produtividade
 investir tempo
 jQuery utilizado
-linguagem PHP
 linguagem quanto
-linguagens web
 linha errada
 login validação
 logo Usar
@@ -444,7 +429,6 @@ serem usadas
 siglas Multicloud
 similares Afinal
 smartphone Framework
-software aberto
 software presentes
 solução criada
 solução dê
