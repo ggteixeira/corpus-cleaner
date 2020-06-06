@@ -6,7 +6,6 @@ Content ajudam
 Continue lendo
 Copyright ©
 Deseja saber
-Desenvolvimento Integrado
 Download Ferramentas
 Ecommerce Ebooks
 Ecommerce Notícias
@@ -35,8 +34,6 @@ Sociais Tech
 Tech Agências
 Vendas SEO
 ajudam centenas
-alto nível
-aplicativos digitais
 aplicála adequadamente
 aprender tudo
 ações consecutivas
@@ -69,9 +66,6 @@ convidados Assine
 corrigir erros
 criar escrever
 criar programas
-código binário
-código digitado
-códigos compactos
 códigos depurar
 códigos usados
 códigos usando
@@ -96,7 +90,6 @@ entender melhor
 entendidas Rock
 erro comum
 erros Economia
-erros sintáticos
 escreva códigos
 escrever códigos
 escrito nessa
@@ -124,12 +117,9 @@ insere dados
 instruções permite
 interessante quanto
 intérprete carrega
-linguagem Assembly
 linguagem Portanto
-linguagem formal
 linguagem humana
 linguagem permitindo
-linguagens computacionais
 linguagens totalmente
 link inseparável
 maneira estabelecida
@@ -177,7 +167,6 @@ principais armas
 principais linguagem
 profissional insere
 programa chamado
-programa escrito
 programa inteiro
 programa pega
 programa possa
@@ -185,7 +174,6 @@ programador conheça
 programador criar
 programador escreva
 programador fornece
-programas escritos
 programação Quais
 programação aumentaram
 programação entendemos
@@ -198,7 +186,6 @@ quanto necessário
 quiser aprender
 recursos necessários
 referida biblioteca
-regras semânticas
 reservados Feito
 seguir alguns
 serem entendidas
@@ -206,7 +193,6 @@ seres humanos
 serviços Português
 si mesma
 sintáticas expressões
-sistemas operacionais
 tarefas complexas
 tema tão
 tempo Deseja
@@ -219,7 +205,6 @@ tão interessante
 usam instruções
 usar NGINX
 uso posterior
-valor hexadecimal
 vantagens competitivas
 vez tornandoo
 visam facilitar
