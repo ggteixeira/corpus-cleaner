@@ -41,6 +41,8 @@ Dele
 Deles
 Depois
 Desse
+Dessa
+Dessas
 Desses
 Do
 Dos
@@ -258,7 +260,9 @@ dele
 deles
 depois
 desse
+dessa
 desses
+dessas
 do
 dos
 e
