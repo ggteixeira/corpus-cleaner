@@ -10,9 +10,6 @@ Alguns estudantes
 Alto Research
 Ambas ações
 Apesar desta
-B STORE
-C++ 
-CAMINHÃO 
 CONTADOR distintos
 Cada atributo
 Cada característica
@@ -33,7 +30,6 @@ Eiffel oferecem
 Engenheiros elétricos
 Engineering programação
 Estado Interno
-Exercícios •
 Ferramentas comuns
 Físicos usam
 Grady Booch
@@ -49,7 +45,6 @@ Linguagens funcionais
 Linguagens orientadas
 Linguagens procedurais
 Lisp Object
-Lógicas –
 Muitas crianças
 Muitos leitores
 Nenhuma dessas
@@ -83,7 +78,6 @@ Tal mensagem
 Tanto artistas
 Tom DeMarco
 Três categorias
-VEÍCULO 
 VEÍCULO contêm
 Vamos considerar
 Várias relações
@@ -94,20 +88,14 @@ abordagem orientada
 abordagem totalmente
 abordagem usada
 abstrataem contraste
-abstração 
 abstração desta
 abstração funcional
 abstração onde
 abstração representa
-abstrações 
 abstrações nestas
-aceleração 
-acharão 
 acima dependem
 acima sugere
 acostumando rapidamente
-adaptáveis 
-adicionado àresultado
 adicionar alguns
 adicionar dois
 agora bastante
@@ -136,7 +124,6 @@ amplamente utilizada
 analise estruturados
 and usada
 análise numérica
-análises 
 apenas diagrama
 apenas valores
 aplicações comerciais
@@ -159,23 +146,16 @@ assembly usam
 associaçãoe uso
 assumiremos quequantiadeve
 atingir desejada
-atribuição 
 atributo representa
 atrás dessas
 automóvel real
 autor deste
-autômatos 
-aviões 
 ação executada
-ações 
 ações acontece
 ações dadas
 ações iniciam
 ações restantes
-aéreo 
-b representam
 baixo nível
-bancário 
 base sólida
 bastante distinta
 bastante propensas
@@ -184,10 +164,7 @@ bem escrito
 bem poderosos
 beneficiar altamente
 bibliotecas reutilizáveis
-botões 
 brinquedo favorito
-c recebe
-c representa
 cada casa
 cada cilindro
 cada classe
@@ -197,11 +174,8 @@ cada operação
 cada pistão
 cada processador
 calculados através
-caminhão 
-caminhões 
 canto superior
 capacidade finita
-capítulo 
 capítulo explica
 caracteres alfabéticos
 caracterizado tanto
@@ -272,7 +246,6 @@ comandos requerem
 combustão interna
 comerciais escritas
 comerciais usualmente
-comparação 
 compilador gera
 complexa operação
 complexas operações
@@ -294,7 +267,6 @@ computadores digitais
 computadores iriam
 computadores pessoais
 computadores somente
-computação 
 computação Muitos
 computação apresenta
 computação incluem
@@ -310,13 +282,11 @@ conector ponto
 confortante saber
 conjunto estruturas
 conjunto próprio
-consistência 
 construir tal
 consulta especifica
 consulta permite
 consulta tanto
 consultasde outros
-contador •
 contagem podem
 contar coisas
 contêm características
@@ -332,17 +302,13 @@ criança pede
 crianças desenvolvem
 crianças podem
 criar einicializar
-criar –
 criaturas orientadas
 cuja altura
 cujas coordenadas
 cujo comprimento
-cálculo 
-cálculos 
 cálculos usados
 código executável
 dada acima
-dado ``
 dado devem
 dados fornece
 dados mantidos
@@ -421,7 +387,6 @@ dispendiosas ferramentas
 distinguir objetos
 diversas partes
 dizer porque
-diálogo 
 dois componentes
 dois exemplos
 dois modelos
@@ -438,8 +403,6 @@ elaborada classificação
 elétricos aprendem
 embora existam
 emergiram várias
-empréstimo 
-encarnações 
 enfatizar abstrações
 engenharia desoftware
 engenheiro deve
@@ -451,7 +414,6 @@ entendida informalmente
 entendimento abstrato
 entidade visível
 entidades tangíveis
-então 
 então gera
 envolve dois
 envolve requisitos
@@ -467,7 +429,6 @@ escritos porque
 esforço culminou
 especificado corretamente
 especificação precisa
-especificações 
 esquerdo dado
 estado atual
 estado interno
@@ -523,16 +484,12 @@ freqüentemente distinguimos
 freqüentemente embrulhado
 freqüentemente leva
 freqüentemente permite
-funcionais –
 funcional forma
-funcional –
-funções 
 funções adicionais
 funções corretamente
 fácil entendimento
 física precisa
 físico Cientistas
-fósforos 
 ganhando popularidade
 generalização antes
 geométrica definida
@@ -543,18 +500,15 @@ grande projetos
 grande vantagem
 gráfica extremamente
 gráfico tipicamente
-gráficos 
 gráficos podem
 habilidade comum
 habilidade natural
-herança 
 herança sugere
 hoje embora
 humanos parecemos
 idéia central
 importante primeiro
 importância considerável
-impossível 
 incluam parâmetros
 incluem sistemas
 inclui objetos
@@ -564,11 +518,8 @@ incluíam FORTRAN
 incluídas textura
 incrementar oresultadodo
 incrementar– adicionar
-indução 
-informação 
 informação contida
 informação externa
-informações 
 inglês Computer
 inicial igual
 iniciante vai
@@ -586,7 +537,6 @@ inteligência artificial
 interações dinâmicas
 interface gráfica
 introduzirá técnicas
-invés 
 iriam querer
 irá enfatizar
 janela inclui
@@ -632,14 +582,12 @@ logo seguida
 lugar seguro
 lógica exemplificada
 maiores detalhes
-maiores áreas
 mal feito
 maneira diferente
 maneira harmoniosa
 maneira integrada
 maneira natural
 maneira orientada
-maneira única
 maneiras diferentes
 manter informações
 matemática básica
@@ -677,8 +625,6 @@ muitos cientistas
 muitos princípios
 muitos programadores
 muitos tipos
-máquina 
-mãe 
 mãe devem
 mínimos detalhes
 naturalmente reconhecer
@@ -702,12 +648,9 @@ novo conjunto
 novo objeto
 noção deherança
 noção simples
-numérica 
-numéricos 
 nunca desenvolver
 nuvem pontilhada
 nuvens sólidas
-nível 
 nível alto
 número específico
 número infinito
@@ -743,20 +686,16 @@ objetos isolados
 objetos ordinários
 objetos podem
 objetos próximos
-objetos –
 objetosimulacaode enviando
 obtendo informação
 onde dez
 operações executadas
 operações menores
 operações semelhantes
-opinião 
-ordinários 
 oresultadodo objeto
 organismos vivosbaseados
 outra parte
 outra subclasse
-outra área
 outras classes
 outras instâncias
 outras linguagens
@@ -788,10 +727,8 @@ parece estar
 pareça natural
 parte principal
 particular baseados
-parâmetro 
 parâmetro eINTEGERé
 parâmetroquantia indica
-parâmetros 
 parâmetros decriar
 parênteses indica
 parênteses vazios
@@ -839,7 +776,6 @@ precisa aprender
 precisa chamada
 precisam desenvolver
 precisamente quais
-precisão 
 precisão finita
 previstas somente
 primeira ação
@@ -868,7 +804,6 @@ problemas passa
 problemas reais
 problemas usando
 procedurais populares
-procedurais –
 processador específico
 processamento aritmético
 processo essencial
@@ -901,7 +836,6 @@ programas desenvolvidos
 programas orientados
 programas possuem
 programas representam
-programação 
 programação LISP
 programação PROLOG
 programação Smalltalk
@@ -917,7 +851,6 @@ proposições lógicas
 propriedades termodinâmicas
 propriedades visuais
 propósitos deste
-prática 
 próprio computador
 próprio objeto
 próximo capítulo
@@ -941,7 +874,6 @@ quer dizer
 queremos criar
 querendo aprender
 querer ler
-químicos 
 rapidamente aprendemos
 rapidamente desenvolver
 razoável dizer
@@ -951,13 +883,11 @@ real bem
 realizada nesses
 realizando ações
 realizar tarefas
-referências 
 reforço teórico
 região geométrica
 relacionamento lógico
 relativamente simples
 relações importantes
-repetição 
 representam instruções
 representar algo
 representações internas
@@ -965,12 +895,9 @@ resolver problemas
 responsabilidadesdo objeto
 resposta exata
 reutilizáveis desoftware
-saída 
-saída útil
 seguinte estado
 seguinte seqüência
 segunda ação
-segurança 
 semelhantes comosearch
 sendo diferentes
 sendo resolvido
@@ -987,7 +914,6 @@ serviços descritos
 serviços exclusivos
 sete ações
 seção externa
-seções 
 si através
 sido agrupadas
 sido criados
@@ -996,7 +922,6 @@ sido largamente
 sido usada
 sigla LISP
 significa processamento
-significativo ""
 silenciosa pesquisa
 simples exemplo
 sintaxe misteriosa
@@ -1027,7 +952,6 @@ suporta herança
 suportam estruturas
 suporte rico
 símbolos químicos
-sócios 
 tabulações baseado
 tais generalizações
 tal abstração
@@ -1039,7 +963,6 @@ tal notação
 tal objeto
 tarde levou
 tarde nesse
-tarefas úteis
 temdadose comportamento
 tendo algumas
 tentam representar
@@ -1063,7 +986,6 @@ totalmente descrito
 totalmente nova
 trabalhando juntos
 trabalho criativo
-transformação –
 transformações funcionais
 traços comuns
 tráfego aéreo
@@ -1093,7 +1015,6 @@ usando objetos
 usar tal
 uso destas
 usualmente vêm
-usuário 
 utilizadas hoje
 utilizarcomandosou consultasde
 valor atual
@@ -1108,7 +1029,6 @@ valores inteiros
 valores numéricos
 vamos considerar
 variações proporcionam
-variáveis 
 variáveis constituem
 variável c
 vazios perto
@@ -1139,6 +1059,3 @@ vários objetos
 vários parâmetros
 vários tipos
 vêm acompanhados
-x igual
-zerar– muda
-zero •
