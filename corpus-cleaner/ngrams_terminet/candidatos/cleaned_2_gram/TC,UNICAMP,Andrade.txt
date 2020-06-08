@@ -291,7 +291,6 @@ Semiárido Brasileiro
 Sistemas Neste
 Sociotécnica passíveis
 SociotécnicaA seguir
-Software Livre
 Software atende
 Software continua
 Software quanto
@@ -550,7 +549,6 @@ artefato funcionar
 artefato localizado
 artefato pronto
 artefato quanto
-artefato tecnológico
 artefatos disponíveis
 artefatos fundamentais
 artefatos socialmente
@@ -932,7 +930,6 @@ compreensão permite
 compreensão residual
 compreensão simplista
 compromisso ambiental
-computador conectado
 comum entreos
 comum objetivada
 comunidade aderida
@@ -2465,7 +2462,6 @@ nova condição
 nova entrada
 nova forma
 nova instituição
-nova iteração
 nova mudança
 nova organização
 nova possibilidade
@@ -2487,7 +2483,6 @@ novos conhecimentos
 novos membros
 novos modos
 novos papéis
-novos processos
 novos produtos
 novos tipos
 noção domarco
@@ -2579,7 +2574,6 @@ onde termina
 ondeseriam desenvolvidos
 one that
 opapelqueele ocupa
-open source
 open sourceou
 open sourceé
 opera aquestão
@@ -2587,14 +2581,12 @@ opera corretamente
 opera internamente
 operando corretamente
 operar computadores
-operações aritméticas
 oportunidades escolher
 oposição àquele
 opróprio processo
 opções individuais
 oque fazer
 ordem democrática
-ordem lógica
 ordem obrigatória
 ordem social
 ordem temporal
@@ -2991,12 +2983,10 @@ produtivo operando
 produtivo único
 produtivos específicos
 produto dessa
-produto final
 produto gerado
 produtor dedinâmicas
 produtor direto
 produtores rurais
-produtos desenvolvidos
 produtos frente
 produtos gerados
 produza oportunidades
@@ -3046,7 +3036,6 @@ produção passe
 produção solidária
 produção supõe
 proferido repetidas
-profissionais especializados
 profissionais exatos
 profundamente algumas
 profundas implicações
@@ -3482,14 +3471,12 @@ singela rua
 singularA concepção
 sistemas coesos
 sistemas preexistentes
-sistemas tecnológicos
 sistemas tecnológicosComo
 sistemas ver
 sistemaseja removido
 sistematizadas grande
 sistemática construção
 site contratado
-site oficial
 sitese lojas
 situada mercado
 situação
@@ -3553,12 +3540,8 @@ sociotécnico dominante
 sociotécnico específico
 sociotécnico onde
 sociólogo del
-software Livre
 software continuará
-software desenvolvido
 software distribuído
-software livres
-software proprietário
 software webcontra
 software webpara
 software éorientado
@@ -3675,7 +3658,6 @@ tecnologia usada
 tecnologias alternativas
 tecnologias convencionais
 tecnologias desenvolvidas
-tecnologias digitais
 tecnologias empregadas
 tecnologias impregnadas
 tecnologias levadas
