@@ -1,0 +1,452 @@
+abstração
+abstração funcional
+agilidade
+ajax
+algol
+algoritmo
+ambiente de desenvolvimento
+ambiente gráfico
+ambiente na nuvem
+ambientes operacionais
+angular
+apache
+aplicativo
+aplicação
+aplicações
+app
+append
+aprendizado
+aprendizado de máquina
+armazenado
+armazenamento
+armazenamento de dados
+armazenamento de informações
+arquitetura
+arquitetura configurável
+arquitetura de software
+arquitetura mvc
+array
+arrays
+artefato tecnológico
+ascii
+assembly
+atributo
+autonomia
+autômatos
+back end
+banco
+banco de dados
+base
+bdd
+biblioteca
+biblioteca de códigos
+bibliotecas
+bibliotecas de classes
+bibliotecas reutilizáveis
+binário
+bits
+bloco
+boolean
+booleanos
+bootstrap
+bordas
+botão
+browser
+bug
+bug corrigido
+bugs
+bugs corrigidos
+bugs graves
+busca
+c
+c++
+cadeias de caracteres
+caracteres alfabéticos
+certificados
+certificados de segurança
+certificações
+chave
+ciclo
+ciclos
+ciência
+classe
+classes concretas
+classificação hierárquica
+cloud
+cobol
+codificação
+comando
+compilador
+compilador c
+compilação
+complexidade
+componentes
+componentes gráficos
+comportamento
+comportamento da classe
+computador
+computação
+computação matemática
+computação pessoal
+comunicação
+concepção
+condição
+conexão
+configuração
+consulta
+consultoria
+controle da aplicação
+cookies
+correção
+css
+código
+código aberto
+código binário
+código executável
+código fonte
+códigos
+códigos abertos
+códigos compactos
+códigos html
+dado
+dados
+dados de entrada
+dados de saída
+data
+ddd
+delphi
+demandas de projetos
+desempenho
+desenvolvedor
+desenvolvimento
+desenvolvimento cloud
+desenvolvimento da web
+desenvolvimento de aplicações
+desenvolvimento de código
+desenvolvimento de produtos
+desenvolvimento de projetos
+desenvolvimento de serviços
+desenvolvimento de sistemas
+desenvolvimento de software
+desenvolvimento devops
+desenvolvimento integrado
+desenvolvimento rápido
+design
+desktop
+devops
+diagrama de booch
+diagrama de classe
+dicionário
+dispositivo
+dispositivos móveis
+distribuição
+docker
+domínio
+download
+ecommerce
+editor
+editor de textos
+else
+empresa
+encapsulamento de atributos
+end
+endereço
+engenharia
+engenharia de software
+entrega dos códigos
+equação diferencial
+equipe
+erros de formatação
+erros de identação
+erros sintáticos
+escopo
+escrita de programas
+especificação
+estado
+estado da subclasse
+estado do objeto
+estimativa
+estrutura de controle
+estrutura de dados
+evolução
+execução
+expressão
+extensão
+fabricante
+falhas de segurança
+false
+fase de projeto
+feature
+ferramenta
+ferramentas online
+ferramentas visuais
+flutter
+fluxo
+fluxo de código
+fluxo de telas
+fluência
+folhas de estilo
+fonte
+formatação
+fortran
+framework
+frameworks php
+frontend
+funcionalidade
+função
+geração
+gerenciamento
+gerenciamento dos processos
+gerenciamento ágil
+guidelines
+hardware
+hello world
+heurísticas
+hierarquia
+hierarquia da classe
+hipertexto
+hook points
+hospedagem
+hospedagem de arquivos
+hospedagem web
+hosting
+html
+hypertext
+hypertext markup
+ibm
+ide
+implantação
+implementação
+informação
+infraestrutura
+inovação
+input
+instrução
+integer
+integração
+intel
+inteligência artificial
+interface
+interface da classe
+interface da rotina
+interface das bibliotecas
+interface gráfica
+internet
+ionic
+ip
+java
+javascript
+jquery
+kotlin
+layout
+linguagem
+linguagem assembly
+linguagem de marcação
+linguagem de máquina
+linguagem de programação
+linguagem formal
+linguagem híbrida
+linguagem php
+linguagens
+linguagens computacionais
+linguagens funcionais
+linguagens lógicas
+linguagens procedurais
+linguagens web
+linhas de código
+link
+lisp
+lista
+lista de parâmetros
+local de armazenamento
+login
+logo
+lojas de aplicativos
+loop
+lógica
+manuais
+manutenção
+markup
+markup language
+melhorias
+memória
+menus
+metodologia
+microprocessador
+microsoft
+migrações
+mobile
+modelo
+modelo abstrato
+modelo de prototipagem
+modelos
+modularização
+monitoramento
+mvc
+máquina
+método
+módulo
+native
+navegador
+navegação
+nesse
+net
+netscape
+nginx
+nome da classe
+nome de classe
+nome de objeto
+nome de variável
+nome do vetor
+nova feature
+nova iteração
+nova versão
+novo desenvolvimento
+novos processos
+numérico binário
+nuvem
+object system
+objective-c
+objeto
+objeto particular
+objetos da classe
+open source
+operador
+operador de atribuição
+operador de desigualdade
+operador de igualdade
+operação
+operações aritméticas
+oracle
+organização
+orientação
+output
+padrão
+paradigmas de programação
+paralelismo
+parâmetro
+parênteses
+pascal
+pc
+php
+plataforma
+polimorfismo
+post
+processador de texto
+processamento
+processo
+processo de compilação
+processo de desenvolvimento
+produtividade
+produto de software
+produto final
+produtos desenvolvidos
+profissional
+programa
+programa compilado
+programa de computador
+programa desenvolvido
+programa digital
+programa executado
+programa executável
+programador
+programas desenvolvidos
+programas escritos
+programação
+programação funcional
+programação lisp
+programação lógica
+projeto
+projetos de software
+prolog
+propriedade
+protocolos
+prototipagem
+prototipagem em nuvem
+protótipo
+protótipo construído
+python
+página
+qualidade de código
+qualidade de software
+qualidade do software
+react
+recurso
+rede
+refatoração
+regras semânticas
+representação gráfica
+requisitos
+requisitos do software
+rest
+rss
+ruby
+saas
+segurança
+senha
+servidor
+serviço
+sintaxe
+sistemas
+sistemas de informação
+sistemas operacionais
+site
+site oficial
+skills
+smalltalk
+software
+software aberto
+software desenvolvido
+software engineering
+software livre
+software livres
+software proprietário
+softwares desenvolvidos
+softwares na nuvem
+solução
+source
+sql
+ssl
+startup
+status
+string
+strings
+subclasse
+subrotinas
+substring
+tdd
+tecnologia
+tecnologia da informação
+tecnologias digitais
+tecnologias frontend
+tela de login
+template
+templates
+teoria de autômatos
+terminais de computador
+teste de unidade
+testes
+testes de software
+testes habilitados
+ti
+tipos de linguagem
+tls
+tráfego
+uml
+unboxing
+unix
+urls
+user experience
+usuário
+ux
+validação
+valor hexadecimal
+velocidade
+versão
+virtual
+void
+web
+web hosting
+youtube
+ícone
+índice
