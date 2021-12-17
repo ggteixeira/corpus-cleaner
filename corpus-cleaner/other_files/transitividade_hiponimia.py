@@ -4,7 +4,7 @@ C = 3
 
 
 def check_transitivity(A, B, C):
-    if A < B and B < C:
+    if A < B and B < C and A < C:
         return True
     else:
         return False

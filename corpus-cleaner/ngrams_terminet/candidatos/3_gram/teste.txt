@@ -1,0 +1,561 @@
+.//N,BugFeature,Spoladore.txt:software 
+.//N,BugFeature,Spoladore.txt:software em 
+.//N,BugFeature,Spoladore.txt:software em uma 
+.//N,BugFeature,Spoladore.txt:software 
+.//N,BugFeature,Spoladore.txt:software ao 
+.//N,BugFeature,Spoladore.txt:software ao não 
+.//N,BugFeature,Spoladore.txt:software 
+.//N,BugFeature,Spoladore.txt:software não 
+.//N,BugFeature,Spoladore.txt:software não pode 
+.//N,BugFeature,Spoladore.txt:software 
+.//N,BugFeature,Spoladore.txt:software pois 
+.//N,BugFeature,Spoladore.txt:software pois a 
+.//N,BugFeature,Spoladore.txt:software 
+.//N,BugFeature,Spoladore.txt:software que 
+.//N,BugFeature,Spoladore.txt:software que frustra 
+.//N,BugFeature,Spoladore.txt:software 
+.//N,BugFeature,Spoladore.txt:software Basicamente 
+.//N,BugFeature,Spoladore.txt:software Basicamente o 
+.//N,BugFeature,Spoladore.txt:software 
+.//N,BugFeature,Spoladore.txt:software em 
+.//N,BugFeature,Spoladore.txt:software em meio 
+.//N,BugFeature,Spoladore.txt:software 
+.//N,BugFeature,Spoladore.txt:software Mas 
+.//N,BugFeature,Spoladore.txt:software Mas quem 
+.//N,BugFeature,Spoladore.txt:software 
+.//N,BugFeature,Spoladore.txt:software Em 
+.//N,BugFeature,Spoladore.txt:software Em TI 
+.//N,EntregaCódigoFont,Gaea.txt:software 
+.//N,EntregaCódigoFont,Gaea.txt:software e 
+.//N,EntregaCódigoFont,Gaea.txt:software e seu 
+.//N,EntregaCódigoFont,Gaea.txt:software 
+.//N,EntregaCódigoFont,Gaea.txt:software Quando 
+.//N,EntregaCódigoFont,Gaea.txt:software Quando esse 
+.//N,EntregaCódigoFont,Gaea.txt:software 
+.//N,EntregaCódigoFont,Gaea.txt:software e 
+.//N,EntregaCódigoFont,Gaea.txt:software e garantir 
+.//N,EntregaCódigoFont,Gaea.txt:software 
+.//N,EntregaCódigoFont,Gaea.txt:software também 
+.//N,EntregaCódigoFont,Gaea.txt:software também serão 
+.//N,EntregaCódigoFont,Gaea.txt:software 
+.//N,EntregaCódigoFont,Gaea.txt:software para 
+.//N,EntregaCódigoFont,Gaea.txt:software para o 
+.//N,EntregaCódigoFont,Gaea.txt:software 
+.//N,EntregaCódigoFont,Gaea.txt:software Os 
+.//N,EntregaCódigoFont,Gaea.txt:software Os direitos 
+.//N,RockContent,LingugemDeProgramação.txt:software 
+.//N,RockContent,LingugemDeProgramação.txt:software Além 
+.//N,RockContent,LingugemDeProgramação.txt:software Além disso 
+.//N,RockContent,LingugemDeProgramação.txt:software 
+.//N,RockContent,LingugemDeProgramação.txt:software de 
+.//N,RockContent,LingugemDeProgramação.txt:software de programação 
+.//N,RockContent,LingugemDeProgramação.txt:software 
+.//N,RockContent,LingugemDeProgramação.txt:software como 
+.//N,RockContent,LingugemDeProgramação.txt:software como porque 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software orientado 
+.//TC,UFLA,Schneide.txt:software orientado por 
+.//TC,UFLA,Schneide.txt:Software 
+.//TC,UFLA,Schneide.txt:Software é 
+.//TC,UFLA,Schneide.txt:Software é uma 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software . 
+.//TC,UFLA,Schneide.txt:software . De 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software . 
+.//TC,UFLA,Schneide.txt:software . Como 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software são 
+.//TC,UFLA,Schneide.txt:software são definidas 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software . 
+.//TC,UFLA,Schneide.txt:software . Eles 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software , 
+.//TC,UFLA,Schneide.txt:software , as 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software durante 
+.//TC,UFLA,Schneide.txt:software durante esse 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software 1 
+.//TC,UFLA,Schneide.txt:software 1 NT 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software e 
+.//TC,UFLA,Schneide.txt:software e solução 
+.//TC,UFLA,Schneide.txt:Software 
+.//TC,UFLA,Schneide.txt:Software Engineering 
+.//TC,UFLA,Schneide.txt:Software Engineering programação 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software Incluídas 
+.//TC,UFLA,Schneide.txt:software Incluídas entre 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software normalmente 
+.//TC,UFLA,Schneide.txt:software normalmente disponíveis 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software , 
+.//TC,UFLA,Schneide.txt:software , onde 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software , 
+.//TC,UFLA,Schneide.txt:software , possivelmente 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software . 
+.//TC,UFLA,Schneide.txt:software . 1.6 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software e 
+.//TC,UFLA,Schneide.txt:software e à 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software ? 
+.//TC,UFLA,Schneide.txt:software ? • 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software é 
+.//TC,UFLA,Schneide.txt:software é capaz 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software é 
+.//TC,UFLA,Schneide.txt:software é geralmente 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software através 
+.//TC,UFLA,Schneide.txt:software através do 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software existentes 
+.//TC,UFLA,Schneide.txt:software existentes que 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software . 
+.//TC,UFLA,Schneide.txt:software . A 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software , 
+.//TC,UFLA,Schneide.txt:software , tanto 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software . 
+.//TC,UFLA,Schneide.txt:software . A 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software . 
+.//TC,UFLA,Schneide.txt:software . • 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software é 
+.//TC,UFLA,Schneide.txt:software é uma 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software deve 
+.//TC,UFLA,Schneide.txt:software deve ser 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software . 
+.//TC,UFLA,Schneide.txt:software . Linguagens 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software . 
+.//TC,UFLA,Schneide.txt:software . Esta 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software . 
+.//TC,UFLA,Schneide.txt:software . Ela 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software reutilizável 
+.//TC,UFLA,Schneide.txt:software reutilizável . 
+.//TC,UFLA,Schneide.txt:software 
+.//TC,UFLA,Schneide.txt:software reutilizável 
+.//TC,UFLA,Schneide.txt:software reutilizável como 
+.//N,EntendaFramework,Gaea.txt:software 
+.//N,EntendaFramework,Gaea.txt:software é 
+.//N,EntendaFramework,Gaea.txt:software é a 
+.//N,EntendaFramework,Gaea.txt:software 
+.//N,EntendaFramework,Gaea.txt:software e 
+.//N,EntendaFramework,Gaea.txt:software e diminui 
+.//N,EntendaFramework,Gaea.txt:software 
+.//N,EntendaFramework,Gaea.txt:software é 
+.//N,EntendaFramework,Gaea.txt:software é a 
+.//N,EntendaFramework,Gaea.txt:software 
+.//N,EntendaFramework,Gaea.txt:software Isso 
+.//N,EntendaFramework,Gaea.txt:software Isso porque 
+.//N,EntendaFramework,Gaea.txt:software 
+.//N,EntendaFramework,Gaea.txt:software Um 
+.//N,EntendaFramework,Gaea.txt:software Um exemplo 
+.//N,EntendaFramework,Gaea.txt:software 
+.//N,EntendaFramework,Gaea.txt:software Ele 
+.//N,EntendaFramework,Gaea.txt:software Ele diz 
+.//N,EntendaFramework,Gaea.txt:software 
+.//N,EntendaFramework,Gaea.txt:software E 
+.//N,EntendaFramework,Gaea.txt:software E o 
+.//N,EntendaFramework,Gaea.txt:software 
+.//N,EntendaFramework,Gaea.txt:software presentes 
+.//N,EntendaFramework,Gaea.txt:software presentes no 
+.//N,EntendaFramework,Gaea.txt:software 
+.//N,EntendaFramework,Gaea.txt:software aberto 
+.//N,EntendaFramework,Gaea.txt:software aberto usuários 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software Flutter 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software Flutter HTML 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software abrangendo 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software abrangendo a 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software A 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software A partir 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software é 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software é o 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software do 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software do outro 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software houve 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software houve uma 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software abrangendo 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software abrangendo a 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software A 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software A partir 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software a 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software a ser 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software é 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software é aprimorado 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software que 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software que antes 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software esteja 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software esteja bem 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software no 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software no final 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software operacional 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software operacional Assim 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software a 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software a cada 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software no 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software no seu 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software é 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software é entregue 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software vai 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software vai evoluindo 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software no 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software no final 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software já 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software já atende 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software crescendo 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software crescendo e 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software que 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software que resolvem 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software pode 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software pode ser 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software contendo 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software contendo algumas 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software faria 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software faria Assim 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software Os 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software Os protótipos 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software na 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software na manutenção 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software viabilidade 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software viabilidade do 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software o 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software o RUP 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software parte 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software parte 3 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software Magazine 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software Magazine O 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software com 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software com qualidade 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software que 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software que satisfaça 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software Corporation 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software Corporation e 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software configurável 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software configurável que 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software A 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software A iteração 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software Assim 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software Assim toda 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software com 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software com prévia 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software Finalizando 
+.//CD,CiclosVidaSoftware,DevMedia.txt:software Finalizando este 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software Hospedagem 
+.//CD,CiclosVidaSoftware,DevMedia.txt:Software Hospedagem web 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software ou 
+.//N,DesenvolvimentoSftware,Gaea.txt:software ou app 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Estimase 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Estimase que 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software que 
+.//N,DesenvolvimentoSftware,Gaea.txt:software que você 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software — 
+.//N,DesenvolvimentoSftware,Gaea.txt:software — com 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Há 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Há também 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Afinal 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Afinal a 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Acompanhe 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Acompanhe logo 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Afinal 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Afinal cada 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software A 
+.//N,DesenvolvimentoSftware,Gaea.txt:software A antes 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software seja 
+.//N,DesenvolvimentoSftware,Gaea.txt:software seja otimizada 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software se 
+.//N,DesenvolvimentoSftware,Gaea.txt:software se tornou 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software A 
+.//N,DesenvolvimentoSftware,Gaea.txt:software A razão 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software edição 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software edição 10 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software que 
+.//N,DesenvolvimentoSftware,Gaea.txt:software que necessitam 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Sendo 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Sendo os 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software como 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software como bem 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Portanto 
+.//N,DesenvolvimentoSftware,Gaea.txt:software Portanto a 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software eficaz 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software eficaz Mas 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software Além 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software Além disso 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software tenha 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software tenha um 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software ou 
+.//N,DesenvolvimentoSftware,Gaea.txt:software ou aplicativo 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software ou 
+.//N,DesenvolvimentoSftware,Gaea.txt:software ou de 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software não 
+.//N,DesenvolvimentoSftware,Gaea.txt:software não será 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software obtido 
+.//N,DesenvolvimentoSftware,Gaea.txt:software obtido localmente 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software que 
+.//N,DesenvolvimentoSftware,Gaea.txt:software que foram 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software para 
+.//N,DesenvolvimentoSftware,Gaea.txt:Software para otimizar 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software E 
+.//N,DesenvolvimentoSftware,Gaea.txt:software E você 
+.//N,DesenvolvimentoSftware,Gaea.txt:software 
+.//N,DesenvolvimentoSftware,Gaea.txt:software prototipagem 
+.//N,DesenvolvimentoSftware,Gaea.txt:software prototipagem em 
+.//N,OQueCódigoFonte,Sila.txt:Software 
+.//N,OQueCódigoFonte,Sila.txt:Software As 
+.//N,OQueCódigoFonte,Sila.txt:Software As A 
+.//N,OQueCódigoFonte,Sila.txt:Software 
+.//N,OQueCódigoFonte,Sila.txt:Software como 
+.//N,OQueCódigoFonte,Sila.txt:Software como serviço 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software , 
+.//TC,UNICAMP,Andrade.txt:Software , é 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software . 
+.//TC,UNICAMP,Andrade.txt:software . O 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software é 
+.//TC,UNICAMP,Andrade.txt:Software é criar 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , e 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software são 
+.//TC,UNICAMP,Andrade.txt:software são poucas.Sobre 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , ele 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software -pode 
+.//TC,UNICAMP,Andrade.txt:software -pode ser 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software proprietário 
+.//TC,UNICAMP,Andrade.txt:software proprietário , 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software Livre 
+.//TC,UNICAMP,Andrade.txt:software Livre é 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software distribuído 
+.//TC,UNICAMP,Andrade.txt:software distribuído sob 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software continuará 
+.//TC,UNICAMP,Andrade.txt:software continuará a 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software Livre 
+.//TC,UNICAMP,Andrade.txt:Software Livre , 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software Livre 
+.//TC,UNICAMP,Andrade.txt:Software Livre , 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software Livre 
+.//TC,UNICAMP,Andrade.txt:Software Livre ( 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software Livre 
+.//TC,UNICAMP,Andrade.txt:Software Livre , 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software , 
+.//TC,UNICAMP,Andrade.txt:Software , para 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , é 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software ( 
+.//TC,UNICAMP,Andrade.txt:Software ( FS 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software . 
+.//TC,UNICAMP,Andrade.txt:software . Atualmente 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software quanto 
+.//TC,UNICAMP,Andrade.txt:Software quanto a 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , como 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software é 
+.//TC,UNICAMP,Andrade.txt:Software é uma 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software éorientado 
+.//TC,UNICAMP,Andrade.txt:software éorientado à 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software ( 
+.//TC,UNICAMP,Andrade.txt:Software ( FS 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software . 
+.//TC,UNICAMP,Andrade.txt:Software . O 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software , 
+.//TC,UNICAMP,Andrade.txt:Software , que 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software . 
+.//TC,UNICAMP,Andrade.txt:software . Foi 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software no 
+.//TC,UNICAMP,Andrade.txt:Software no desenvolvimento 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , produção 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software : 
+.//TC,UNICAMP,Andrade.txt:Software : [ 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software , 
+.//TC,UNICAMP,Andrade.txt:Software , 2016 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software e 
+.//TC,UNICAMP,Andrade.txt:Software e as 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software atende 
+.//TC,UNICAMP,Andrade.txt:Software atende as 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software continua 
+.//TC,UNICAMP,Andrade.txt:Software continua sendo 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software , 
+.//TC,UNICAMP,Andrade.txt:Software , 2016 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software livres 
+.//TC,UNICAMP,Andrade.txt:software livres ou 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software e 
+.//TC,UNICAMP,Andrade.txt:software e utiliza 
+.//TC,UNICAMP,Andrade.txt:Software 
+.//TC,UNICAMP,Andrade.txt:Software , 
+.//TC,UNICAMP,Andrade.txt:Software , Produzindo 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software ? 
+.//TC,UNICAMP,Andrade.txt:software ? 3.1.1.O 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software desenvolvido 
+.//TC,UNICAMP,Andrade.txt:software desenvolvido pela 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , são 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software webpara 
+.//TC,UNICAMP,Andrade.txt:software webpara o 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software webcontra 
+.//TC,UNICAMP,Andrade.txt:software webcontra aplicação 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software foram 
+.//TC,UNICAMP,Andrade.txt:software foram poucas 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , pois 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software estão 
+.//TC,UNICAMP,Andrade.txt:software estão disponíveis 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , seja 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software de 
+.//TC,UNICAMP,Andrade.txt:software de georreferenciamento 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , tento 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software de 
+.//TC,UNICAMP,Andrade.txt:software de georreferenciamento 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software se 
+.//TC,UNICAMP,Andrade.txt:software se insere 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , o 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , estão 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software com 
+.//TC,UNICAMP,Andrade.txt:software com inclusão 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , das 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , muito 
+.//TC,UNICAMP,Andrade.txt:software 
+.//TC,UNICAMP,Andrade.txt:software , 
+.//TC,UNICAMP,Andrade.txt:software , traz 
