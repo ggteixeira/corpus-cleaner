@@ -13,12 +13,13 @@ def get_text():
     text_file.close()
     return text
 
+
 # Function to generate n-grams from sentences.
 
 
 def extract_ngrams(text, num):
     n_grams = ngrams(nltk.word_tokenize(text), num)
-    return [' '.join(grams) for grams in n_grams]
+    return [" ".join(grams) for grams in n_grams]
 
 
 def write_in_file(generated_ngrams):

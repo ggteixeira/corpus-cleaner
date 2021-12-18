@@ -8,8 +8,7 @@ with open("stopwords/my_stopwords.txt", "r") as stopwords:
 
 
 def str_2_list(text_file):
-    """Converte os itens do arquivo de n-gramas em uma lista
-    """
+    """Converte os itens do arquivo de n-gramas em uma lista"""
     converted_2_list = text_file.split("\n")  # Transforma os itens em uma lista
     return converted_2_list
 
@@ -46,8 +45,13 @@ def filter_ngrams(ngram_list, stopwords_list):
 
     with open("saida_ngrams.txt", "w+") as saida:  # abre o arquivo de saída
         for ngram in ngram_list:  # p/ cada n-grama na lista
-            if ngram not in blacklist_without_duplicates:  # se blk_w_dplct ñ contém ngram
-                saida.write(f"{ngram}\n")  # escreve o n-grama no arquivo e vai pra próxima linha
+            if (
+                ngram not in blacklist_without_duplicates
+            ):  # se blk_w_dplct ñ contém ngram
+                saida.write(
+                    f"{ngram}\n"
+                )  # escreve o n-grama no arquivo e vai pra próxima linha
+
 
 # Function call:
 filter_ngrams(list_2_set(str_2_list(file)), stopwords)

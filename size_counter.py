@@ -2,12 +2,14 @@
 Funções que somam uma lista (set) com contagens de tokens por texto do corpus.
 """
 
+
 def size_counter_before(*args):
     added_items = 0
     for items in args:
         for item in items:
             added_items += item
     return added_items
+
 
 def size_counter_after(*args):
     added_items = 0
