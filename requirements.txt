@@ -12,7 +12,7 @@ ipython-genutils==0.2.0
 jedi==0.17.2
 joblib==0.17.0
 mccabe==0.6.1
-nltk==3.9.1
+nltk==3.9.3
 parso==0.7.0
 pexpect==4.8.0
 pickleshare==0.7.5
