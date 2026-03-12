@@ -6,7 +6,7 @@ chardet==3.0.4
 click==7.1.2
 decorator==4.4.2
 git-filter-repo==2.34.0
-idna==2.10
+idna==3.7
 ipython==8.10.0
 ipython-genutils==0.2.0
 jedi==0.17.2
