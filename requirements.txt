@@ -28,7 +28,7 @@ requests==2.32.4
 six==1.15.0
 snowballstemmer==2.0.0
 soupsieve==2.0.1
-tqdm==4.50.2
+tqdm==4.66.3
 traitlets==5.0.5
 urllib3==2.6.3
 wcwidth==0.2.5
